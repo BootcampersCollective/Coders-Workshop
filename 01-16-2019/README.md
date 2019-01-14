@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome Coders!
 
 [Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
 
@@ -8,7 +8,7 @@
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
-## JavaScript
+### JavaScript
 
 [level 1](https://repl.it/@andy_young/FizzBuzz-JS-1) :suspect:
 
@@ -16,7 +16,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 [level 3](https://repl.it/@andy_young/FizzBuzz-JS-3) :feelsgood:
 
-## Python
+### Python
 
 [level 1](https://repl.it/@andy_young/FizzBuzz-PY-1) :trollface:
 
@@ -24,6 +24,8 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 [level 3](https://repl.it/@andy_young/FizzBuzz-PY-3) :neckbeard:
 
-## Resources
+---
+
+### Resources
 
 [Visualize Python or JavaScript Execution](http://www.pythontutor.com/visualize.html#mode=edit)
