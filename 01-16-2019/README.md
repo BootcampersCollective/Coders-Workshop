@@ -17,3 +17,13 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 [level 3](https://repl.it/@andy_young/FizzBuzz-JS-3) :feelsgood:
 
 ## Python
+
+[level 1](https://repl.it/@andy_young/FizzBuzz-PY-1) :trollface:
+
+[level 2](https://repl.it/@andy_young/FizzBuzz-PY-2) :rage1:
+
+[level 3](https://repl.it/@andy_young/FizzBuzz-PY-3) :neckbeard:
+
+## Resources
+
+[Visualize Python or JavaScript Execution](http://www.pythontutor.com/visualize.html#mode=edit)
