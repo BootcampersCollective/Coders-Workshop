@@ -24,6 +24,8 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 [level 3](https://repl.it/@andy_young/FizzBuzz-PY-3) :neckbeard:
 
+*Extra Challenge: Complete any of the above problems without using the modulus (%) operator...
+
 ---
 
 ### Resources
