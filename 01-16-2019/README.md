@@ -24,6 +24,10 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 [level 3](https://repl.it/@andy_young/FizzBuzz-PY-3) :neckbeard:
 
+\*Hard Mode: Complete any of the above problems without using the modulus (%) operator
+
+\**Extra Challenge: Complete either of the level three problems using recursion
+
 ---
 
 ### Resources
