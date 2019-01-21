@@ -1,6 +1,6 @@
 # Recursion
 
-[Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
+[Slides](https://slides.com/bbyunis/coder-s-workshop)
 
 ## Challenge 1: repeater
 
