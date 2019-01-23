@@ -75,7 +75,7 @@ productFib(800); // should return [34, 55, false],
 
 [See Codewars.com (Python)](https://www.codewars.com/kata/product-of-consecutive-fib-numbers/python)
 
-## Hard Mode: Rotate for a Max
+## :feelsgood: Hard Mode: Rotate for a Max
 Take a number: `56789`. Rotate left, you get `67895`.
 
 Keep the first digit in place and rotate left the other digits: `68957`.
@@ -94,7 +94,7 @@ Calling this function max_rot (or maxRot or ... depending on the language)
 
 ```javascript
 maxRot(56789); // should return 68957
-maxRot(38336384); // should return 83638433 
+maxRot(38336384); // should return 83638433
 ```
 
 Hint: Try breaking this algorithm into more than one function.
