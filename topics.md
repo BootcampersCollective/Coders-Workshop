@@ -102,6 +102,10 @@ some algorithms, but not an approach one might consider in JS (find first dupe).
 
 ### Asynchronous
 
+### Multiple pointers
+
+- reverse array in place, etc
+
 
 ### Algorithms/problems
 
