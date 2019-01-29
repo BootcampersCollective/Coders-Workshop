@@ -107,7 +107,7 @@ some algorithms, but not an approach one might consider in JS (find first dupe).
 - reverse array in place, etc
 
 ### Using RegEx
-- can be very helpful for coders outside of solving algorithms
+- can be very helpful for coders outside of solving algorithms, e.g. refactoring code
 - can also make quick work of some algorithms, e.g. Andy's solution to parens problem
 
 ### Algorithms/problems
