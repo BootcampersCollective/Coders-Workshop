@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Coder's Workshop!
 
 >A Meetup© where programmers can develop problem solving skills & improve their technical communication.
