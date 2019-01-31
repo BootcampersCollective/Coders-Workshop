@@ -1,5 +1,4 @@
 function cryptogram(str, arr) {
-
 }
 
 console.log(
