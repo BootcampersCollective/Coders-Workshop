@@ -33,3 +33,4 @@ console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 2));
 console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 3));
 console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2));
 console.log(maxProfitWithKTransactions([3, 2, 5, 7, 1, 3, 7], 1));
+// I will fix for the tests tomorrow. :)
