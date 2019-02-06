@@ -1,41 +1,35 @@
-let stocks = [5, 11, 3, 50, 60, 90];
-
 function maxProfitWithKTransactions(prices, k) {
-  let profit = 0;
-  let result = [];
-  let a = [...prices].sort((a, b) => a - b);
-  let sortIdx = prices.map(el => el = a.indexOf(el));
+  prices.push(0);
+  let profits = [];
 
-  console.log(prices);
-  console.log(sortIdx);
-  console.log(a);
+  let max = prices.filter((el, i, a) => {
+    return el > a[i + 1];
+  });
+  max.sort((a, b) => a - b);
 
-      if ()) {
-        result.push([el, ar[i + 1]])
-      } else result.push(ar.slice(i + 1))
-    });
-  console.log(result)
-    return profit;
+  let min = prices.filter((el, i, a) => {
+    return el < a[i + 1];
+  });
+  min.sort((a, b) => a - b);
+
+  for (let i = max.length; i > 0; i--) {
+    profits.push(Math.max(...max) - Math.min(...min));
+    min.splice(0, 1);
+    max.pop();
+  }
+
+  k < profits.length ? (k = k) : (k = profits.length);
+
+  let income = 0;
+  for (let i = 0; i < k; i++) {
+    income += profits[i];
+  }
+  return income;
 }
 
-console.log(maxProfitWithKTransactions(stocks, 2));
-
-// var myMap = new Map();
-// myMap.set(0, 'zero');
-// myMap.set(1, 'one');
-// for (var [key, value] of myMap) {
-//   console.log(key + ' = ' + value);
-// }
-// 0 = zero
-// 1 = one
-
-// function logMapElements(value, key, map) {
-//   console.log(`m[${key}] = ${value}`);
-// }
-
-// new Map([['foo', 3], ['bar', {}], ['baz', undefined]])
-//   .forEach(logMapElements);
-
-// expected output: "m[foo] = 3"
-// expected output: "m[bar] = [object Object]"
-// expected output: "m[baz] = undefined"
+console.log(maxProfitWithKTransactions([1], 1));
+console.log(maxProfitWithKTransactions([1, 10], 3));
+console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 2));
+console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 3));
+console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2));
+console.log(maxProfitWithKTransactions([3, 2, 5, 7, 1, 3, 7], 1));
