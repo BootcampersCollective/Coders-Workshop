@@ -1,36 +1,68 @@
 function maxProfitWithKTransactions(prices, k) {
-  prices.push(0);
-  let profits = [];
+  let buyDays = [];
+  let markLowDays = [];
+  let temp = [];
+  let sellDays = [];
+  let matrix = [];
 
-  let max = prices.filter((el, i, a) => {
-    return el > a[i + 1];
+  // Mark & capture lowBuy & highSell days;
+  prices.forEach((el, i, a) => {
+    if (el < a[i + 1]) {
+      markLowDays.push([el]);
+      buyDays.push(el);
+    } else if (el > a[i - 1] && el > a[i + 1]) {
+      sellDays.push(el);
+      markLowDays.push(el);
+    } else markLowDays.push(el);
   });
-  max.sort((a, b) => a - b);
 
-  let min = prices.filter((el, i, a) => {
-    return el < a[i + 1];
+  // Add buyDays matrices.
+  buyDays.forEach((el, idx, a) => {
+    temp.push([]);
+    let buyIndex = prices.indexOf(buyDays[idx]);
+    temp[idx].splice(buyIndex, 1, buyDays[idx]);
+    matrix.push([temp[idx].shift(), [...sellDays]]);
+    sellDays.shift();
   });
-  min.sort((a, b) => a - b);
 
-  for (let i = max.length; i > 0; i--) {
-    profits.push(Math.max(...max) - Math.min(...min));
-    min.splice(0, 1);
-    max.pop();
+  // Get all profits for each transaction.
+  for (let i = 0; i < matrix.length; i++) {
+    for (let j = 0; j < matrix[i][1].length; j++) {
+      matrix[i][1][j] -= matrix[i][0];
+    }
+  }
+  console.log(matrix);
+
+
+  let pVectors = [];
+  matrix.forEach(e => pVectors.push(e[1]));
+
+  console.log(pVectors);
+  for (
+    let i = 0, j = matrix.length - 1;
+    i < matrix.length && j >= 0;
+    i++, j--
+  ) {
+    console.log(matrix[j][1][i] + matrix[1][0]);
+    matrix[i];
   }
 
-  k < profits.length ? (k = k) : (k = profits.length);
-
-  let income = 0;
-  for (let i = 0; i < k; i++) {
-    income += profits[i];
-  }
-  return income;
+  // let income = 0;
+  // for (; k > 0; k--) {
+  // income += profits[k];
+  // }
+  // console.log(profits);
+  // return profits[0] === -Infinity ? 0 : income;
 }
-
-console.log(maxProfitWithKTransactions([1], 1));
-console.log(maxProfitWithKTransactions([1, 10], 3));
-console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 2));
-console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 3));
-console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2));
-console.log(maxProfitWithKTransactions([3, 2, 5, 7, 1, 3, 7], 1));
-// I will fix for the tests tomorrow. :)
+// ===================================================================================
+// console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2)); // 97
+// console.log(maxProfitWithKTransactions([50, 25, 12, 4, 3, 10, 1, 100], 2)); // 106
+console.log(
+  "15:",
+  maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 2)
+); // 62
+// console.log(maxProfitWithKTransactions([1], 1)); // 0
+// console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2)); // 97
+// console.log(maxProfitWithKTransactions([50, 25, 12, 4, 3, 10, 1, 100], 2)); // 106
+// console.log(maxProfitWithKTransactions([100, 99, 98, 97, 1], 5)); // 0
+// console.log(maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 2)); // 62
