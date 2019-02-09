@@ -5,6 +5,13 @@ function maxProfitWithKTransactions(prices, k) {
   let sellDays = [];
   let matrix = [];
 
+  // Create Map, holding max profits, all transactions up-to & including 'k'.
+  let profitMap = new Map();
+  for (let i = k; i > 0; i--) {
+    profitMap.set(i, new Array(i));
+  }
+  console.log(profitMap);
+
   // Mark & capture lowBuy & highSell days;
   prices.forEach((el, i, a) => {
     if (el < a[i + 1]) {
@@ -16,7 +23,7 @@ function maxProfitWithKTransactions(prices, k) {
     } else markLowDays.push(el);
   });
 
-  // Add buyDays matrices.
+  // Create buyDays matrices.
   buyDays.forEach((el, idx, a) => {
     temp.push([]);
     let buyIndex = prices.indexOf(buyDays[idx]);
@@ -25,7 +32,7 @@ function maxProfitWithKTransactions(prices, k) {
     sellDays.shift();
   });
 
-  // Get all profits for each transaction.
+  // Get all profits for every conceivable transaction.
   for (let i = 0; i < matrix.length; i++) {
     for (let j = 0; j < matrix[i][1].length; j++) {
       matrix[i][1][j] -= matrix[i][0];
@@ -34,15 +41,46 @@ function maxProfitWithKTransactions(prices, k) {
   console.log(matrix);
 
 
-  let pVectors = [];
-  matrix.forEach(e => pVectors.push(e[1]));
+  // 'profitVector' temporarily holds the highest profit for every 'k' combo.
+  let pVector = [];
 
-  console.log(pVectors);
+  const vectorizeProfits = (kTrans = 1) => {
+    matrix.forEach(e => pVector.push(...e[1]));
+    profitMap.set(kTrans, Math.max(...pVector));
+    matrix.splice(1, 1);
+    matrix[0][1].splice(0, 1)
+    console.log(matrix);
+    console.log(profitMap);
+    console.log(pVector);
+    pVector = [];
+  }
+  vectorizeProfits();
+
+  console.log(matrix);
+
+  console.log(profitMap);
+
+  matrix.forEach((el, i, a) => {
+    console.log(el[1][0]);
+  })
+
+  for (let i = 0; i < matrix.length; i++) {
+    console.log(matrix[i][1][0]);
+    for (let j = i; j < matrix.length; j++) {
+    console.log(i);
+    console.log(j);
+    console.log(matrix[j + 1][1][i]);
+    console.log(matrix[i][i + 1][j]);
+    }
+  }
+
+
+
   for (
     let i = 0, j = matrix.length - 1;
     i < matrix.length && j >= 0;
     i++, j--
-  ) {
+    ) {
     console.log(matrix[j][1][i] + matrix[1][0]);
     matrix[i];
   }
