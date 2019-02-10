@@ -1,5 +1,4 @@
-// Selection & Manipulation
-// ============================================================================
+// Selection & Manipulation ===================================================
 
 d3.select();
 d3.selectAll();
@@ -20,20 +19,11 @@ d3.select("body")
 
 d3.selectAll("h2").style("color", "#757575");
 
-// Data Loading & Binding
-// ============================================================================
+// Data Loading & Binding =====================================================
 
 const dataSet = [1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5];
 
-d3.select("body")
-  .selectAll("p")
-  .data(dataSet)
-  .enter()
-  .append("p")
-  .text(d => d);
-
-// Creating the Bar Chart
-// ============================================================================
+// Creating the Bar Chart =====================================================
 
 const svgWidth = 900,
   svgHeight = 100,
@@ -48,19 +38,34 @@ const svg = d3
   .attr("width", svgWidth)
   .attr("height", svgHeight);
 
+const yScale = d3.scaleLinear()  // Scales ====================================
+  .domain([0, d3.max(dataSet)])
+  .range([0, svgHeight]);
+
 // Starts empty, because nothing is initially created.
 const barChart = svg
   .selectAll("rect")
   .data(dataSet) // -> takes dataSet into 'waiting state'
   .enter() // -> takes data, performs operations on each item
   .append("rect") // now make the rectangle..
-  .attr("y", d => svgHeight - d) // get y method, minus each datum from svgHgt
-  .attr("height", d => d)
+  .attr("y", d => svgHeight - yScale(d)) // get y method, minus each datum from svgHgt
+  .attr("height", d => yScale(d))
   .attr("width", barWidth - barPadding)
   .attr("transform", (d, i) => {
     let translate = [barWidth * i, 0];
     return `translate(${translate})`;
   });
 
-// ============================================================================
-// ============================================================================
+// Creating Labels ============================================================
+
+const text = svg.selectAll('text')
+  .data(dataSet)
+  .enter()
+  .append('text')
+  .text(d => d)
+  .attr('y', (d, i) => svgHeight - d - 2)
+  .attr('x', (d, i) => barWidth * i)
+  .attr('fill', '#A64C38');
+
+// Axes =======================================================================
+
