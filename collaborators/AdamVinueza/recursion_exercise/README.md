@@ -59,7 +59,7 @@ def tail(lst):
 ```
 In JavaScript, we can use the `Array.slice` function:
 ```javascript
-const tail = arr => { arr.slice(1); };
+const tail = arr => arr.slice(1);
 ```
 If we want more idiomatic JavaScript, we can use the built-in
 array-construction idioms from ES6:
