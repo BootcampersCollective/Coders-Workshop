@@ -25,7 +25,7 @@ tell you stuff on the command line. (That's what flags like '-v' are for.)
 
 ## Notes on the functions
 
-Two useful things to know about how these functions were written:
+Some useful things to know about how these functions were written:
 
 ### Use of idiomatic resources in the language
 
