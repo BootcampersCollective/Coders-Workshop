@@ -16,23 +16,15 @@ const recursionExercise = () => {
     return arr.length ? getLengthTail(tail(arr), accum + 1) : accum;
   };
 
-  /*
-   * A clever bit of syntactic sugar that might be confusing to those who
-   * don't know the ins and outs of ES6 syntax:
-   *
-   * const tail = ([, ...t]) => t;
-   *
-   * [head, ...tail] = arr means: assign the first item in arr to 'head' and
-   * the rest of the array to 'tail'.
-   */
+  // this is effectively a private function
   const tail = arr => arr.slice(1);
 
+  // this is why it's nice that functions are first-class objects
   return {
     getLength,
     getLengthOptimized,
     getLengthTail
   };
 };
-
 
 module.exports = recursionExercise();
