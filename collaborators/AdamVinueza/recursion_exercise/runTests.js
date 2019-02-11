@@ -7,7 +7,7 @@
 const recursionExercise = require('./recursionExercise.js');
 
 for (let expected = 0; expected < 1000; expected++) {
-  const actual = recursionExercise.getLengthOptimized(new Array(expected));
+  const actual = recursionExercise.getLength(new Array(expected));
   if (expected != actual) {
     console.log(`Error: expected ${expected}, actual ${actual}`);
   }

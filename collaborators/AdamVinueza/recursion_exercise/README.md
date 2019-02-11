@@ -90,3 +90,22 @@ const length = getLength(arr);
 ```
 and define `getLength` as a call to `getLengthTail`, passing in its own array
 parameter as well as `0`.
+
+### Concluding remarks on tail recursion
+
+_Tail-call optimization_ (TCO) is a feature of compilers and interpreters
+whereby tail-recursive calls are rewritten into iterative calls. This is
+because even tail-recursive calls are still _recursive_, meaning they can in 
+theory blow up the stack.
+
+Neither Python nor NodeJS's v8 engine support TCO at this time. Python doesn't
+more or less as a matter of principle; by contrast, TCO was available in 
+NodeJS in some versions earlier than 8, but is not available in later versions.
+
+Why, then, discuss tail recursion at all? Well, apart from consuming less
+memory on the stack itself (TCO isn't the only reason to use tail recursion!),
+Python and JavaScript aren't the only languages that exist, and _many_ 
+compilers and interpreters _do_ support TCO; all the current C and C++
+compilers do, for example, as do the .NET compilers, as well as _all_
+functional-language compilers and interpreters. (They must, because recursion
+is the bread and butter of functional programs.)
