@@ -9,20 +9,19 @@ structure, but we'll assume it's just a list or array.
 
 ## Strategy
 
-Cryptogram is a problem that cries out for a recursive solution. That's
-because the following is an easy thing to prove:
+Cryptogram is a problem that cries out for a recursive solution. Let's define
+`subseq(a, b)` as:
 ```
-Define subseq(a, b) as:
-
-    subseq(a, b) = true iff a is a subsequence of b
-
-Then subseq(w, S) implies there are w1, w2, S1 and S2 such that
-    w = w1 + w2,
-    S = S1 + S2,
-    subseq(w1, S1), and
-    subseq(w2, s2)
+subseq(a, b) = true iff a is a subsequence of b
 ```
-So the solution is simple: 
+Then `subseq(w, S)` implies there are `w1`, `w2`, `S1` and `S2` such that
+```
+w = w1 + w2
+S = S1 + S2
+subseq(w1, S1)
+subseq(w2, s2)
+```
+This makes the solution simple: 
 ```
 subseq(w, S):
     if (empty(w)):
