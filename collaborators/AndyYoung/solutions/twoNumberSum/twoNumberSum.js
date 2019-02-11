@@ -1,5 +1,5 @@
-function twoNumbersum(arr, int) {
-
+function twoNumberSum(arr, int) {
+  
 };
 
 
