@@ -1,7 +1,7 @@
 # Cryptogram
 
 The problem is to find the longest subsequence of a target string, given a set 
-of words. We say that `w` is a subsequence of `S` if, removing zero or more
+of words. We say that `w` is a subsequence of `S` if removing zero or more
 characters from `S` results in `w`.
 
 It's stipulated that the set of words can be any collection-like data
@@ -12,12 +12,15 @@ structure, but we'll assume it's just a list or array.
 Cryptogram is a problem that cries out for a recursive solution. That's
 because the following is an easy thing to prove:
 ```
-Let w = w1 + w2 (where '+' is concatenation), and define subseq(a, b) as:
+Define subseq(a, b) as:
 
-  subseq(a, b) = true iff a is a subsequence of b
+    subseq(a, b) = true iff a is a subsequence of b
 
-Then subseq(w, S) implies there are S1 and S2 such that S = S1 + S2 and both
-subseq(w1, S1) and subseq(w2, s2).
+Then subseq(w, S) implies there are w1, w2, S1 and S2 such that
+    w = w1 + w2,
+    S = S1 + S2,
+    subseq(w1, S1), and
+    subseq(w2, s2)
 ```
 So the solution is simple: 
 ```
