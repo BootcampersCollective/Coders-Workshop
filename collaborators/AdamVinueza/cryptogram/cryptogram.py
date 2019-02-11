@@ -1,4 +1,8 @@
-def is_subsequence(candidate, target):
+'''
+finds the longest subsequence in the target string from a set of candidate
+words.
+'''
+def _is_subsequence(candidate, target):
     '''
     Recursively checks if a candidate string is a subsequence of the target
     string.
@@ -11,7 +15,7 @@ def is_subsequence(candidate, target):
     except ValueError: # w[0] is not in S, so w isn't a subsequence
         return False
         
-def get_sorted_list_longest_first(candidates):
+def _get_sorted_list_longest_first(candidates):
     '''
     Takes the input data structure returns a list of its elements,
     sorted by length. For simplicity, we'll assume the input structure
@@ -20,6 +24,10 @@ def get_sorted_list_longest_first(candidates):
     return sorted(candidates, key=len, reverse=True)
 
 def get_longest_subsequence(target, candidates):
+    '''
+    Returns the word from candidates that is the longest subsequence in the
+    target string, or None if there is none.
+    '''
     candidates = get_sorted_list_longest_first(candidates)
     for candidate in candidates:
         if is_subsequence(candidate, target):
