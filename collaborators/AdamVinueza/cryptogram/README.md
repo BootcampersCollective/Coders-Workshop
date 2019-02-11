@@ -14,14 +14,16 @@ Cryptogram is a problem that cries out for a recursive solution. Let's define
 ```
 subseq(a, b) = true iff a is a subsequence of b
 ```
-Then `subseq(w, S)` implies there are `w1`, `w2`, `S1` and `S2` such that
+Then it's easy to prove that `subseq(w, S)` implies there are `w1`, `w2`, `S1`
+and `S2` such that
 ```
 w = w1 + w2
 S = S1 + S2
 subseq(w1, S1)
 subseq(w2, s2)
 ```
-This makes the solution simple: 
+If we keep in mind that the empty string is a subsequence of every string, the
+solution becomes easy to see:
 ```
 subseq(w, S):
     if (empty(w)):
