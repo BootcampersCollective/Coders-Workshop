@@ -1,34 +1,26 @@
-#!/usr/bin/python
-
-def is_subsequence(w, s):
-    # subsequences can't be longer than s
-    if len(s) < len(w):
-        return False
+def is_subsequence(candidate, target):
+    '''
+    Recursively checks if a candidate string is a subsequence of the target
+    string.
+    '''
     try:
-        idx = s.index(w[0])
-        return is_subsequence(w[1:], s[idx:])
-    except:
-        '''
-        If w is empty, the whole string is a subsequence.
-        If w is not empty, w[0] isn't in s.
-        '''
-        return False if w else True
+        idx = target.index(candidate[0])
+        return is_subsequence(candidate[1:], target[idx:])
+    except (IndexError, ValueError):
+        return False if candidate else True
         
+def get_sorted_list_longest_first(candidates):
+    '''
+    Takes the input data structure returns a list of its elements,
+    sorted by length. For simplicity, we'll assume the input structure
+    is a list.
+    '''
+    return sorted(candidates, key=len, reverse=True)
 
-def get_longest_subsequence(s, words):
-    # sort by size
-    words = sorted(words, key=lambda x: len(x), reverse=True)
-    # the first match is now by definition longest
-    for word in words:
-        if is_subsequence(word, s):
-            return word 
+def get_longest_subsequence(target, candidates):
+    candidates = get_sorted_list_longest_first(candidates)
+    for candidate in candidates:
+        if is_subsequence(candidate, target):
+            return candidate 
     return None
 
-if __name__ == '__main__':
-    words = [ 'apple', 'able', 'ale', 'bale', 'appple', 'kangaroo' ]
-    s = 'abppplee'
-    longest = get_longest_subsequence(s, words)
-    if longest == None:
-        print('No longest subsequence')
-    else:
-        print(longest)
