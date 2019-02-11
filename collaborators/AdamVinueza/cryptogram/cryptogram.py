@@ -6,8 +6,10 @@ def is_subsequence(candidate, target):
     try:
         idx = target.index(candidate[0])
         return is_subsequence(candidate[1:], target[idx:])
-    except (IndexError, ValueError):
-        return False if candidate else True
+    except IndexError: # w is empty, so we're done
+        return True
+    except ValueError: # w[0] is not in S, so w isn't a subsequence
+        return False
         
 def get_sorted_list_longest_first(candidates):
     '''
