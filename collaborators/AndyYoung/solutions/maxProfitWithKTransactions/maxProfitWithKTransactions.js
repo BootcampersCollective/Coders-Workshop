@@ -1,106 +1,35 @@
 function maxProfitWithKTransactions(prices, k) {
-  let buyDays = [];
-  let markLowDays = [];
-  let temp = [];
-  let sellDays = [];
-  let matrix = [];
+  if (!prices.length) return 0;
 
-  // Create Map, holding max profits, all transactions up-to & including 'k'.
-  let profitMap = new Map();
-  for (let i = k; i > 0; i--) {
-    profitMap.set(i, new Array(i));
+  let profits = [];
+
+  for (let t = 0; t < k + 1; t++) {
+    const row = (new Array(prices.length)).fill(0);
+    profits.push(row)
   }
-  console.log(profitMap);
-
-  // Mark & capture lowBuy & highSell days;
-  prices.forEach((el, i, a) => {
-    if (el < a[i + 1]) {
-      markLowDays.push([el]);
-      buyDays.push(el);
-    } else if (el > a[i - 1] && el > a[i + 1]) {
-      sellDays.push(el);
-      markLowDays.push(el);
-    } else markLowDays.push(el);
-  });
-
-  // Create buyDays matrices.
-  buyDays.forEach((el, idx, a) => {
-    temp.push([]);
-    let buyIndex = prices.indexOf(buyDays[idx]);
-    temp[idx].splice(buyIndex, 1, buyDays[idx]);
-    matrix.push([temp[idx].shift(), [...sellDays]]);
-    sellDays.shift();
-  });
-
-  // Get all profits for every conceivable transaction.
-  for (let i = 0; i < matrix.length; i++) {
-    for (let j = 0; j < matrix[i][1].length; j++) {
-      matrix[i][1][j] -= matrix[i][0];
+  for (let t = 1; t < k + 1; t++) {
+    let maxThusFar = -Infinity;
+    for (let d = 1; d < prices.length; d++) {
+      maxThusFar = Math.max(maxThusFar, profits[t - 1][d - 1] - prices[d - 1]);
+      profits[t][d] = Math.max(profits[t][d - 1], maxThusFar + prices[d]);
     }
   }
-  console.log(matrix);
-
-
-  // 'profitVector' temporarily holds the highest profit for every 'k' combo.
-  let pVector = [];
-
-  const vectorizeProfits = (kTrans = 1) => {
-    matrix.forEach(e => pVector.push(...e[1]));
-    profitMap.set(kTrans, Math.max(...pVector));
-    matrix.splice(1, 1);
-    matrix[0][1].splice(0, 1)
-    console.log(matrix);
-    console.log(profitMap);
-    console.log(pVector);
-    pVector = [];
-  }
-  vectorizeProfits();
-
-  console.log(matrix);
-
-  console.log(profitMap);
-
-  matrix.forEach((el, i, a) => {
-    console.log(el[1][0]);
-  })
-
-  for (let i = 0; i < matrix.length; i++) {
-    console.log(matrix[i][1][0]);
-    for (let j = i; j < matrix.length; j++) {
-    console.log(i);
-    console.log(j);
-    console.log(matrix[j + 1][1][i]);
-    console.log(matrix[i][i + 1][j]);
-    }
-  }
-
-
-
-  for (
-    let i = 0, j = matrix.length - 1;
-    i < matrix.length && j >= 0;
-    i++, j--
-    ) {
-    console.log(matrix[j][1][i] + matrix[1][0]);
-    matrix[i];
-  }
-
-  // let income = 0;
-  // for (; k > 0; k--) {
-  // income += profits[k];
-  // }
-  // console.log(profits);
-  // return profits[0] === -Infinity ? 0 : income;
+  return profits[k][prices.length - 1];
 }
-// ===================================================================================
-// console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2)); // 97
-// console.log(maxProfitWithKTransactions([50, 25, 12, 4, 3, 10, 1, 100], 2)); // 106
-console.log(
-  "15:",
-  maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 2)
-); // 62
-// console.log(maxProfitWithKTransactions([1], 1)); // 0
-// console.log(maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2)); // 97
-// console.log(maxProfitWithKTransactions([50, 25, 12, 4, 3, 10, 1, 100], 2)); // 106
-// console.log(maxProfitWithKTransactions([100, 99, 98, 97, 1], 5)); // 0
-// console.log(maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 2)); // 62
+
+// Tests ======================================================================
+console.log("T1", maxProfitWithKTransactions([], 1)); // 0
+console.log("T2", maxProfitWithKTransactions([1], 1)); // 0
+console.log("T3", maxProfitWithKTransactions([1, 10], 1)); // 9
+console.log("T4", maxProfitWithKTransactions([1, 10], 3)); // 9
+console.log("T5", maxProfitWithKTransactions([3, 2, 5, 7, 1, 3, 7], 1)); // 6
+console.log("T6", maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 2)); // 93
+console.log("T7", maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 3)); // 93
+console.log("T8", maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 2)); // 97
+console.log("T9", maxProfitWithKTransactions([5, 11, 3, 50, 40, 90], 3)); // 103
+console.log("T10", maxProfitWithKTransactions([50, 25, 12, 4, 3, 10, 1, 100], 2)); // 106
+console.log("T11", maxProfitWithKTransactions([100, 99, 98, 97, 1], 5)); // 0
+console.log("T12", maxProfitWithKTransactions([1, 100, 2, 200, 3, 300, 4, 400, 5, 500], 5)); // 1485
+console.log("T13", maxProfitWithKTransactions([1, 100, 101, 2, 200, 201, 3, 300, 301, 4, 400, 401, 5, 500], 5)); // 499
+console.log("T14", maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 4)); // 84
+console.log("T15", maxProfitWithKTransactions([1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5], 2)); // 62
