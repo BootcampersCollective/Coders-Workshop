@@ -52,14 +52,18 @@ find is by definition the longest.
 
 ## Notes on the Python implementation
 
-If we write the solution in Python, the pseudocode can be greatly simplified.
-`S.index(c)` will raise an exception if `c` is not in `S`. So all we have to
-do is check if `S.index(w[0])` raises an exception, then check what kind of
-exception we get. A character not being found in a string raises a
+If we write the solution in Python, we can check both conditions with a single
+line of code. Let `target` be the target string, `candidate` the candidate
+word, and let `idx` be the index we're looking for. Then this is the code:
+```
+idx = target.index(candidate[0])
+```
+This will raise an exception either if `candidate[0]` is not in `target`, or
+if the `candidate` is empty. A character not being found in a string raises a
 `ValueError`, while trying to get a character at an index beyond the size of
-the string raises an `IndexError`. If the former, `w` is not a subsequence of
-`S`; if the latter, we've run out of characters to check, so `w` must be a
-subsequence of `S`.
+the string raises an `IndexError`. If the former, `candidate` is not a
+subsequence of `target`; if the latter, we've run out of characters to check,
+so `candidate` must be a subsequence of `target`.
 
 By the way, this is a very Pythonic way of handling the two exceptional
 conditions: the positive termination condition (we've run out of characters in
