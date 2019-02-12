@@ -1,0 +1,2 @@
+{"name": "test1", "word_set": ["apple", "able", "ale", "bale", "aple", "kangaroo"], "target": "abppplee", "longest_word": "apple", "verbose": false}
+{"name": "test2", "word_set": [], "target": "apple", "longest_word": null, "verbose": false}

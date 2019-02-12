@@ -9,7 +9,7 @@ def _is_subsequence(candidate, target):
     '''
     try:
         idx = target.index(candidate[0])
-        return is_subsequence(candidate[1:], target[idx:])
+        return _is_subsequence(candidate[1:], target[idx:])
     except IndexError: # w is empty, so we're done
         return True
     except ValueError: # w[0] is not in S, so w isn't a subsequence
@@ -28,9 +28,9 @@ def get_longest_subsequence(target, candidates):
     Returns the word from candidates that is the longest subsequence in the
     target string, or None if there is none.
     '''
-    candidates = get_sorted_list_longest_first(candidates)
+    candidates = _get_sorted_list_longest_first(candidates)
     for candidate in candidates:
-        if is_subsequence(candidate, target):
+        if _is_subsequence(candidate, target):
             return candidate 
     return None
 
