@@ -10,14 +10,14 @@
         "kangaroo"
     ],
     "target": "abppplee",
-    "longest_word": "apple",
+    "longest_subsequence": "apple",
     "verbose": false
 },
 {
     "name": "No words in set",
     "word_set": [],
     "target": "apple",
-    "longest_word": null,
+    "longest_subsequence": null,
     "verbose": false
 },
 {
@@ -29,7 +29,7 @@
         ""
     ],
     "target": "abppapbracadablraee",
-    "longest_word": "abracadabra",
+    "longest_subsequence": "abracadabra",
     "verbose": false
 },
 {
@@ -41,7 +41,7 @@
         ""
     ],
     "target": "abppapbracadablraee",
-    "longest_word": "",
+    "longest_subsequence": "",
     "verbose": false
 },
 {
@@ -53,7 +53,7 @@
         ""
     ],
     "target": "",
-    "longest_word": "",
+    "longest_subsequence": "",
     "verbose": false
 },
 {
@@ -62,7 +62,7 @@
         "a"
     ],
     "target": "",
-    "longest_word": null,
+    "longest_subsequence": null,
     "verbose": false
 }
 ]
