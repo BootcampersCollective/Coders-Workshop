@@ -27,7 +27,7 @@ a word to the target string. To say that eliminating characters in the target
 results in the word means there is a mapping of characters in word `w` to the
 target word `S` such that if `w`<sub>`i`</sub> (the `i`th character in `w`) =
 `S`<sub>`m`</sub> and `w`<sub>`j`</sub> = `S`<sub>`n`</sub> and `i <= j`, then
-`m <=n`.
+`m <= n`.
 
 From this it follows directly that if `subseq(w, S)`, then breaking `w` into
 `w1` and `w2` means there are substrings `S1` and `S2` as above. (The first
