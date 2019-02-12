@@ -1,5 +1,5 @@
 '''
-finds the longest subsequence in the target string from a set of candidate
+Finds the longest subsequence in the target string from a set of candidate
 words.
 '''
 def _is_subsequence(candidate, target):
