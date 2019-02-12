@@ -51,11 +51,11 @@ There is a test runner, `run_test.py', which uses a test file, `tests.data`,
 consisting of newline-delimited JSON strings. To run the tests, use the
 command:
 ```
-./run_tests.py tests.data
+./run_tests.py test_data/simple_tests.json
 ```
 For verbose output, use the command:
 ```
-./run_tests.py tests.data --verbose
+./run_tests.py test_data/simple_tests.json --verbose
 ```
 For help, use the command:
 ```
