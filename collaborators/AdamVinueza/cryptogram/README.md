@@ -22,8 +22,20 @@ S = S1 + S2
 subseq(w1, S1)
 subseq(w2, s2)
 ```
-If we keep in mind that the empty string is a subsequence of every string, the
-solution becomes easy to see (that's pseudocode below):
+This is because we can understand subsequences as _mappings_ of characters in
+a word to the target string. To say that eliminating characters in the target
+results in the word means there is a mapping of characters in word `w` to the
+target word `S` such that if `w`<sub>`i`</sub> (the `i`th character in `w`) =
+`S`<sub>`m`</sub> and `w`<sub>`j`</sub> = `S`<sub>`n`</sub> and `i <= j`, then
+`m <=n`.
+
+From this it follows directly that if `subseq(w, S)`, then breaking `w` into
+`w1` and `w2` means there are substrings `S1` and `S2` as above. (The first
+character in `w2` must map to a character in `S` that comes after the one to
+which the last character in `w1` maps.)
+
+If we also keep in mind that the empty string is a subsequence of every
+string, the solution becomes easy to see (that's pseudocode below):
 ```
 subseq(w, S):
     if (empty(w)):
