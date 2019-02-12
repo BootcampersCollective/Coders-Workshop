@@ -1,0 +1,6 @@
+{"name": "test1", "word_set": ["apple", "able", "ale", "bale", "aple", "kangaroo"], "target": "abppplee", "longest_word": "apple", "verbose": false}
+{"name": "test2", "word_set": [], "target": "apple", "longest_word": null, "verbose": false}
+{"name": "test3", "word_set": ["abab", "babble", "abracadabra", ""], "target": "abppapbracadablraee", "longest_word": "abracadabra", "verbose": false}
+{"name": "test3", "word_set": ["", "", "", ""], "target": "abppapbracadablraee", "longest_word": "", "verbose": false}
+{"name": "test3", "word_set": ["", "", "", ""], "target": "", "longest_word": "", "verbose": false}
+{"name": "test3", "word_set": ["a"], "target": "", "longest_word": null, "verbose": false}

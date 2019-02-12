@@ -44,3 +44,20 @@ By the way, this is a very Pythonic way of handling the two exceptional
 conditions: the positive termination condition (we've run out of characters in
 the candidate string), and the negative termination condition (we've
 encountered a character in the candidate that's not in the target string).
+
+## Testing
+
+There is a test runner, `run_test.py', which uses a test file, `tests.data`,
+consisting of newline-delimited JSON strings. To run the tests, use the
+command:
+```
+./run_tests.py tests.data
+```
+For verbose output, use the command:
+```
+./run_tests.py tests.data --verbose
+```
+For help, use the command:
+```
+./run_tests.py --help
+```
