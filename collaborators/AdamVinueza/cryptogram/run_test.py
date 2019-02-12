@@ -15,7 +15,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     if not args.file:
         parser.error('path to test file is required')
-    json_tests = [ t for t in args.file ]
+    json_tests = json.load(args.file)
     args.file.close()
     for json_test in json_tests:
         test = Test(json_test)

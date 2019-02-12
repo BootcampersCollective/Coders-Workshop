@@ -1,6 +1,68 @@
-{"name": "test1", "word_set": ["apple", "able", "ale", "bale", "aple", "kangaroo"], "target": "abppplee", "longest_word": "apple", "verbose": false}
-{"name": "test2", "word_set": [], "target": "apple", "longest_word": null, "verbose": false}
-{"name": "test3", "word_set": ["abab", "babble", "abracadabra", ""], "target": "abppapbracadablraee", "longest_word": "abracadabra", "verbose": false}
-{"name": "test3", "word_set": ["", "", "", ""], "target": "abppapbracadablraee", "longest_word": "", "verbose": false}
-{"name": "test3", "word_set": ["", "", "", ""], "target": "", "longest_word": "", "verbose": false}
-{"name": "test3", "word_set": ["a"], "target": "", "longest_word": null, "verbose": false}
+[
+{
+    "name": "Original test set",
+    "word_set": [
+        "apple",
+        "able",
+        "ale",
+        "bale",
+        "aple",
+        "kangaroo"
+    ],
+    "target": "abppplee",
+    "longest_word": "apple",
+    "verbose": false
+},
+{
+    "name": "No words in set",
+    "word_set": [],
+    "target": "apple",
+    "longest_word": null,
+    "verbose": false
+},
+{
+    "name": "Longest word in set is longest, include empty string",
+    "word_set": [
+        "abab",
+        "babble",
+        "abracadabra",
+        ""
+    ],
+    "target": "abppapbracadablraee",
+    "longest_word": "abracadabra",
+    "verbose": false
+},
+{
+    "name": "All words are empty",
+    "word_set": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "target": "abppapbracadablraee",
+    "longest_word": "",
+    "verbose": false
+},
+{
+    "name": "Target and words are empty",
+    "word_set": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "target": "",
+    "longest_word": "",
+    "verbose": false
+},
+{
+    "name": "Target is shorter than all words",
+    "word_set": [
+        "a"
+    ],
+    "target": "",
+    "longest_word": null,
+    "verbose": false
+}
+]

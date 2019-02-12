@@ -3,8 +3,7 @@ import json
 class Test:
     __slots__ = 'name', 'word_set', 'target', 'longest_word', 'verbose', 'actual'
 
-    def __init__(self, json_string):
-        json_object = json.loads(json_string)
+    def __init__(self, json_object):
         self.name = json_object['name']
         self.word_set = json_object['word_set']
         self.target = json_object['target']
