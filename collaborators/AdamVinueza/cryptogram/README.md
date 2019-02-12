@@ -72,9 +72,9 @@ encountered a character in the candidate that's not in the target string).
 
 ## Testing
 
-There is a test runner, `run_test.py`, which uses a test file, `tests.data`,
-consisting of newline-delimited JSON strings. To run the tests, use the
-command:
+There is a test runner, `run_test.py`, which uses a test file,
+`simple_tests.json`, consisting of newline-delimited JSON strings. To run the
+tests, use the command:
 ```
 ./run_tests.py test_data/simple_tests.json
 ```
