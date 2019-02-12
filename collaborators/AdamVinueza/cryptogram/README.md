@@ -45,11 +45,20 @@ subseq(w, S):
     else:
         return subseq(w.substring(1), S[S.indexOf(w[0]))
 ```
-If we write the solution in Python, a lot of this can be simplified.
+
+Then finding the _longest_ subsequence is trivial: sort the set of words by
+length, with the longest word coming first. Then the first subsequence we
+find is by definition the longest.
+
+## Notes on the Python implementation
+
+If we write the solution in Python, the pseudocode can be greatly simplified.
 `S.index(c)` will raise an exception if `c` is not in `S`. So all we have to
-do is check if `S.index(w[0])` raises an exception, then check if the reason
-is that `w` is empty: if it is, we've run out of characters to check against
-`S`, so we must be done; otherwise, `w[0]` is not in `S`, so `w` is not a
+do is check if `S.index(w[0])` raises an exception, then check what kind of
+exception we get. A character not being found in a string raises a
+`ValueError`, while trying to get a character at an index beyond the size of
+the string raises an `IndexError`. If the former, `w` is not a subsequence of
+`S`; if the latter, we've run out of characters to check, so `w` must be a
 subsequence of `S`.
 
 By the way, this is a very Pythonic way of handling the two exceptional
