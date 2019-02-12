@@ -23,7 +23,7 @@ subseq(w1, S1)
 subseq(w2, s2)
 ```
 If we keep in mind that the empty string is a subsequence of every string, the
-solution becomes easy to see:
+solution becomes easy to see (that's pseudocode below):
 ```
 subseq(w, S):
     if (empty(w)):
@@ -33,10 +33,14 @@ subseq(w, S):
     else:
         return subseq(w.substring(1), S[S.indexOf(w[0]))
 ```
-In Python, a lot of this can be simplified. Strings in Python are "truthy":
-the empty string and None evaluate to False, all other strings evaluate to
-True. Also, `S.index(c)1` will raise an exception if `c` is not in `S`. So
-all we have to do is check if `S.index(w[0])` raises an exception, then
-check if the reason is that `w` is empty: if it is, we've run out of
-characters to check against `S`, so we must be done; otherwise, `w[0]` is not
-in `S`, so `w` is not a subsequence of `S`.
+If we write the solution in Python, a lot of this can be simplified.
+`S.index(c)` will raise an exception if `c` is not in `S`. So all we have to
+do is check if `S.index(w[0])` raises an exception, then check if the reason
+is that `w` is empty: if it is, we've run out of characters to check against
+`S`, so we must be done; otherwise, `w[0]` is not in `S`, so `w` is not a
+subsequence of `S`.
+
+By the way, this is a very Pythonic way of handling the two exceptional
+conditions: the positive termination condition (we've run out of characters in
+the candidate string), and the negative termination condition (we've
+encountered a character in the candidate that's not in the target string).
