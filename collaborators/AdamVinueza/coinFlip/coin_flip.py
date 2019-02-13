@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-import sys
+import argparse
 import math
 
 '''
@@ -23,9 +23,11 @@ def expected_flips(n):
     return expected_flips_tail(n, 0)
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
-        print('usage: coin_flip [number_of_coins]')
-        exit(1)
-    number_of_coins = int(sys.argv[1])
+    parser = argparse.ArgumentParser()
+    parser.add_argument('number_of_coins', help='number of coins at start')
+    args = parser.parse_args()
+    if not args.number_of_coins:
+        parser.error()
+    number_of_coins = int(args.number_of_coins)
     print('Expected number of flips until one coin is left: {0}'.format(
         expected_flips(number_of_coins)))
