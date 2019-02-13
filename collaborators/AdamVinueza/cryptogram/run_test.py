@@ -8,7 +8,7 @@ import argparse
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--verbose', action='store_true',
+    parser.add_argument('-v', '--verbose', action='store_true',
         help='Verbose output')
     parser.add_argument('file', type=argparse.FileType('r'),
         help='File holding test data')

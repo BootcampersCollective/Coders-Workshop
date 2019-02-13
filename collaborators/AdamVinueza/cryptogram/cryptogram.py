@@ -1,5 +1,5 @@
 '''
-finds the longest subsequence in the target string from a set of candidate
+Finds the longest subsequence in the target string from a set of candidate
 words.
 '''
 def _is_subsequence(candidate, target):
@@ -10,9 +10,9 @@ def _is_subsequence(candidate, target):
     try:
         idx = target.index(candidate[0])
         return _is_subsequence(candidate[1:], target[idx:])
-    except IndexError: # w is empty, so we're done
+    except IndexError: # candidate is empty, so we're done
         return True
-    except ValueError: # w[0] is not in S, so w isn't a subsequence
+    except ValueError: # candidate[0] is not in target
         return False
         
 def _get_sorted_list_longest_first(candidates):
@@ -33,4 +33,3 @@ def get_longest_subsequence(target, candidates):
         if _is_subsequence(candidate, target):
             return candidate 
     return None
-
