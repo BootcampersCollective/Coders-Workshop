@@ -1,5 +1,3 @@
-import json
-
 class Test(object):
     __slots__ = 'name', 'word_set', 'target', 'longest_subsequence',\
     'verbose', 'actual'
