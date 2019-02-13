@@ -27,5 +27,5 @@ if __name__ == '__main__':
         print('usage: coin_flip [number_of_coins]')
         exit(1)
     number_of_coins = int(sys.argv[1])
-    print('exp number of flips until one coin is left: {0}'.format(
+    print('Expected number of flips until one coin is left: {0}'.format(
         expected_flips(number_of_coins)))
