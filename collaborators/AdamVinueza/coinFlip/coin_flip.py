@@ -16,7 +16,19 @@ always take the ceiling.
 def expected_flips_tail(n, accum):
     '''Counts expected flips using tail recursion.'''
     return expected_flips_tail(math.ceil(n/2), accum + 1) if n > 1 else accum
-    
+
+def expected_flips_with_bit_shift(n, accum):
+    '''
+    We can use bit shifting here instead of division if we add 1 to the
+    shifted number if the number being shifted is odd. This is equivalent to
+    taking the mathematical ceiling of dividing by 2 instead of the floor.
+    '''
+    if n > 1:
+        shifted = n >> 1
+        next_number = 1 + shifted if n & 1 else shifted
+        return expected_flips_with_bit_shift(next_number, accum + 1)
+    else:
+        return accum
 
 def expected_flips(n):
     '''Counts expected flips.'''
