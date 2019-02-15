@@ -20,7 +20,7 @@ const circle = (x, y, radius, fillCircle) => {
   fillCircle ? ctx.fill() : ctx.stroke();
 };
 
-circle(250, 250, 50, true);
+// circle(250, 250, 50, true);
 
 const drawBee = function(x, y) {
   ctx.lineWidth = 2;
@@ -35,3 +35,26 @@ const drawBee = function(x, y) {
   circle(x + 2, y - 1, 2, false);   // right eye
 };
 
+const update = function (coordinate) {
+  let offset = Math.random() * 4 - 2;
+  coordinate += offset;
+
+  if (coordinate > 200) coordinate = 200;
+  if (coordinate < 0) coordinate = 0;
+
+  return coordinate;
+};
+
+let x = 250;
+let y = 250;
+
+setInterval(function () {
+  ctx.clearRect(0, 0, 500, 500);
+
+  drawBee(x, y);
+  x = update(x);
+  y = update(y);
+
+  ctx.strokeRect(0, 0, 500, 500);
+
+}, 30);
