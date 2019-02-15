@@ -17,7 +17,21 @@ const ctx = canvas.getContext("2d");
 const circle = (x, y, radius, fillCircle) => {
   ctx.beginPath();
   ctx.arc(x, y, radius, 0, Math.PI * 2, false);
-
   fillCircle ? ctx.fill() : ctx.stroke();
 };
+
 circle(250, 250, 50, true);
+
+const drawBee = function(x, y) {
+  ctx.lineWidth = 2;
+  ctx.strokeStyle = "Black";
+  ctx.fillStyle = "Gold";
+
+  circle(x, y, 8, true);            // sprite body
+  circle(x, y, 8, false);           // body border
+  circle(x - 5, y - 11, 5, false);  // left wing
+  circle(x + 5, y - 11, 5, false);  // right wing
+  circle(x - 2, y - 1, 2, false);   // left eye
+  circle(x + 2, y - 1, 2, false);   // right eye
+};
+
