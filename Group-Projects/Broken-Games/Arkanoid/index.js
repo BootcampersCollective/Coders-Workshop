@@ -4,11 +4,8 @@ const ctx = canvas.getContext("2d");
 const circle = (x, y, radius, fillCircle) => {
   ctx.beginPath();
   ctx.arc(x, y, radius, 0, Math.PI * 2, false);
-  if (fillCircle) {
-    ctx.fill();
-  } else {
-    ctx.stroke();
-  }
+
+  fillCircle ? ctx.fill() : ctx.stroke();
 };
 
 const Ball = function() {
@@ -38,12 +35,10 @@ Ball.prototype.checkCollision = function() {
 
 let ball = new Ball();
 
-setInterval(function() {
+setInterval(() => {
   ctx.clearRect(0, 0, 500, 500);
-
   ball.draw();
   ball.move();
   ball.checkCollision();
-
   ctx.strokeRect(0, 0, 500, 500);
 }, 30);
