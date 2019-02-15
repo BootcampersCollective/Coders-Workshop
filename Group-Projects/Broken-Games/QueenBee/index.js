@@ -7,9 +7,7 @@ const circle = (x, y, radius, fillCircle) => {
   fillCircle ? ctx.fill() : ctx.stroke();
 };
 
-// circle(250, 250, 50, true);
-
-const drawBee = function(x, y) {
+const drawBee = (x, y) => {
   ctx.lineWidth = 2;
   ctx.strokeStyle = "Black";
   ctx.fillStyle = "Gold";
@@ -22,7 +20,8 @@ const drawBee = function(x, y) {
   circle(x + 2, y - 1, 2, false);   // right eye
 };
 
-const update = function (coordinate) {
+// Outputs a proximate pixel location for drawBee to re-render
+const update = (coordinate) => {
   let offset = Math.random() * 4 - 2;
   coordinate += offset;
 
@@ -32,10 +31,10 @@ const update = function (coordinate) {
   return coordinate;
 };
 
-let x = 250;
+let x = 250;  // Sprite's starting axis
 let y = 250;
 
-setInterval(function () {
+setInterval(() => {
   ctx.clearRect(0, 0, 500, 500);
 
   drawBee(x, y);
