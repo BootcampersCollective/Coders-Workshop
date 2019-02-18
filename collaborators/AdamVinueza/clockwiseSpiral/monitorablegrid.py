@@ -1,20 +1,20 @@
 from cell import Cell
 
 class MonitorableGrid(object):
-    __slots__ = [ 'matrix' ]
+    __slots__ = [ '_matrix' ]
 
     def __init__(self, matrix):
-        self.matrix = matrix.copy()
-        for i in range(len(self.matrix)):
-            for j in range(len(self.matrix[i])):
-                value = self.matrix[i][j]
-                self.matrix[i][j] = Cell(value)
+        self._matrix = matrix.copy()
+        for i in range(len(self._matrix)):
+            for j in range(len(self._matrix[i])):
+                value = self._matrix[i][j]
+                self._matrix[i][j] = Cell(value)
 
     def get_cell(self, location):
         row, column = location
-        return self.matrix[row][column]
+        return self._matrix[row][column]
 
     def visit(self, location):
         row, column = location
-        self.matrix[row][column].visited = True
+        self._matrix[row][column].visited = True
 
