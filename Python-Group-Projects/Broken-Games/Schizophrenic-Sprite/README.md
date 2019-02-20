@@ -1,1 +1,0 @@
-# Schizophrenic Sprite
