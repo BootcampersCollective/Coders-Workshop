@@ -2,9 +2,8 @@
 
 <image src="./img/arkanoid.jpg"></image>
 
-## Subclasses
 
-> ES2015 Class Approach
+## ES6 Subclasses
 
 ```javascript
 const canvas = document.getElementById("canvas");
