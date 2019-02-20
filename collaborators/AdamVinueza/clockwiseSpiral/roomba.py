@@ -44,6 +44,8 @@ class Roomba(object):
         self._direction = next(self._orienter)
         self._current_location = 0, 0
         self._trail = []
+        if not matrix or not len(matrix[0]):
+            raise ValueError('Invalid input matrix')
 
     def _get_next_location(self):
         row = self._current_location[0]
