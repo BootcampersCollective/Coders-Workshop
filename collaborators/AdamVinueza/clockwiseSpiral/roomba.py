@@ -38,11 +38,11 @@ class Roomba(object):
     __slots__ = [ '_floorplan', '_direction', '_current_location', \
             '_orienter', '_trail' ]
 
-    def __init__(self, matrix, start=(0, 0), clockwise=True):
+    def __init__(self, matrix):
         self._floorplan = MonitorableGrid(matrix)
-        self._orienter = direction_generator(clockwise)
+        self._orienter = direction_generator()
         self._direction = next(self._orienter)
-        self._current_location = start
+        self._current_location = 0, 0
         self._trail = []
         if not matrix or not len(matrix[0]):
             raise ValueError('Invalid input matrix')

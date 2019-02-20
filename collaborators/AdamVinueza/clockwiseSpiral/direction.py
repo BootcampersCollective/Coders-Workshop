@@ -6,20 +6,13 @@ class Direction(Enum):
     LEFT  = 3,
     UP    = 4
 
-def direction_generator(clockwise=True):
+def direction_generator():
     order = [
-        Direction.LEFT,
-        Direction.DOWN,
         Direction.RIGHT,
+        Direction.DOWN,
+        Direction.LEFT,
         Direction.UP
     ]
-    if clockwise:
-        order = [
-            Direction.RIGHT,
-            Direction.DOWN,
-            Direction.LEFT,
-            Direction.UP
-        ]
     idx = 0
     while True:
         yield order[idx]
