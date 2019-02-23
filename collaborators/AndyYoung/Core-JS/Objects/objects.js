@@ -16,4 +16,3 @@ let shape = { // Non-identifier property names are quoted
 };
 
 console.log(shape);
-
