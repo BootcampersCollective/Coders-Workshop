@@ -1,0 +1,68 @@
+[
+{
+    "name": "Original test set",
+    "word_set": [
+        "apple",
+        "able",
+        "ale",
+        "bale",
+        "aple",
+        "kangaroo"
+    ],
+    "target": "abppplee",
+    "longest_subsequence": "apple",
+    "verbose": false
+},
+{
+    "name": "No words in set",
+    "word_set": [],
+    "target": "apple",
+    "longest_subsequence": null,
+    "verbose": false
+},
+{
+    "name": "Longest word in set is longest, include empty string",
+    "word_set": [
+        "abab",
+        "babble",
+        "abracadabra",
+        ""
+    ],
+    "target": "abppapbracadablraee",
+    "longest_subsequence": "abracadabra",
+    "verbose": false
+},
+{
+    "name": "All words are empty",
+    "word_set": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "target": "abppapbracadablraee",
+    "longest_subsequence": "",
+    "verbose": false
+},
+{
+    "name": "Target and words are empty",
+    "word_set": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "target": "",
+    "longest_subsequence": "",
+    "verbose": false
+},
+{
+    "name": "Target is shorter than all words",
+    "word_set": [
+        "a"
+    ],
+    "target": "",
+    "longest_subsequence": null,
+    "verbose": false
+}
+]

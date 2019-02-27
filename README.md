@@ -26,7 +26,7 @@ The format is simple:
 
 1. Wrap-Up:
 
-    - **7:40pm**
+    - **7:45pm**
 
         - Share thoughts on what you learned
         - Clean-up your space
