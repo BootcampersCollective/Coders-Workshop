@@ -8,7 +8,7 @@ There are many ways to answer this question. Here is an overview of the most imp
 4. Rendering
 
 ### DNS Lookup
-irst, the URL, or domain name, must be converted into an IP address that the browser can use to send an HTTP request. Each domain name is associated with an IP address, and if the pair has not been saved in the browser's cache, then most browsers will ask the OS to look up (or resolve) the domain for it.
+First, the URL, or domain name, must be converted into an IP address that the browser can use to send an HTTP request. Each domain name is associated with an IP address, and if the pair has not been saved in the browser's cache, then most browsers will ask the OS to look up (or resolve) the domain for it.
 
 Here, operating systems usually have default DNS nameservers that it can ask to lookup. These DNS servers are essentially huge lookup tables. If an entry is not found in these nameservers, then it may query other to see if it exists there, and forward the results (and store them in its own cache).
 More info: [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
