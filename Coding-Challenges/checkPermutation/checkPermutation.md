@@ -8,3 +8,5 @@ When dealing with strings, it is wise to seek clarification on case-sensitivity 
 
 For example, inputs "dog" and "god" should return true, while "God" and "dog" should return false; "dog " and "god" should also return false.
 
+Attempt to solve this problem in O(n) -- linear -- time.
+
