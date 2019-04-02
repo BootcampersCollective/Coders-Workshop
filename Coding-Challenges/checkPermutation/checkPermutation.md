@@ -1,8 +1,8 @@
 # Check Permutation
 
-Given two strings, write a method to decide if one is a permutation of the other.
+> Given two strings, write a method to decide if one is a permutation of the other.
 
-A string is a permutation of another if it has the same characters in a rearranged order.
+> A string is a permutation of another if it has the same characters in a rearranged order.
 
 When dealing with strings, it is wise to seek clarification on case-sensitivity and whitespace. For this problem, assume case-sensitivity and count whitespace. 
 
