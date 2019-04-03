@@ -17,7 +17,7 @@ function checkPermutation(str1, str2) {
 
 // Solution 2. The above solution is acceptable and clean, but not very efficient. If efficiency is paramount, we can solve another way using the definition of a permutation -- two words with the same character counts.
 // We can map each character to its frequency using an array somewhat like a hash table. We increment the table values on the first string,
-// then decrement on the second. As an optimization boost, we can decrement early if the value ever becomes negative (it will never return to 0);
+// then decrement on the second. As an optimization boost, we can terminate early if the value ever becomes negative (it will never return to 0);
 // if we don't terminate early, the array must be all zeros since we incremented the same number of times that we decremented.
 
 function checkPermutationEfficient(str1, str2) {
