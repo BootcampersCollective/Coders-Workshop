@@ -26,7 +26,7 @@ function checkPermutationEfficient(str1, str2) {
     }
     
     const strLen = str1.length
-    const letters = new Array(128).fill(0) // assuming UTF-8 characters, which can be mapped from 0-128
+    const letters = new Array(128).fill(0) // assuming UTF-8 characters, which can be mapped from 0-127
     for (let i = 0; i < strLen; i++) {
         letters[str1.charCodeAt(i)]++
     }
