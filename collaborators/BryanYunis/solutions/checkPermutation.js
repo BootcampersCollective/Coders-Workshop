@@ -24,12 +24,13 @@ function checkPermutationEfficient(str1, str2) {
     if (str1.length !== str2.length) {
         return false
     }
-
+    
+    const strLen = str1.length
     const letters = new Array(128).fill(0) // assuming ASCII characters, which can be mapped from 0-128
-    for (let i = 0; i < str1.length; i++) {
+    for (let i = 0; i < strLen; i++) {
         letters[str1.charCodeAt(i)]++
     }
-    for (let i = 0; i < str1.length; i++) { // note str1.length === str2.length at this point, so no need to recalculate str2.length
+    for (let i = 0; i < strLen; i++) { // note str1.length === str2.length at this point, so no need to recalculate str2.length
         letters[str2.charCodeAt(i)]--
         if (letters[str2.charCodeAt(i)] < 0) {
             return false
