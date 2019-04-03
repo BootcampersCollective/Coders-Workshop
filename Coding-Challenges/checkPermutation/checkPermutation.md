@@ -6,7 +6,7 @@
 
 A string is a permutation of another if it has the same characters in a rearranged order.
 
-When dealing with strings, it is wise to seek clarification on case-sensitivity and whitespace. For this problem, assume case-sensitivity and count whitespace. 
+When dealing with strings, it is wise to seek clarification on case-sensitivity, whitespace, and character encoding. For this problem, assume case-sensitivity, count whitespace, and assume a UTF-8 encoding. 
 
 For example, inputs "dog" and "god" should return true, while "God" and "dog" should return false; "dog " and "god" should also return false.
 
