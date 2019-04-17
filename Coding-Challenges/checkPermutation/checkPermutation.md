@@ -7,4 +7,3 @@ A string is a permutation of another if it has the same characters in a rearrang
 When dealing with strings, it is wise to seek clarification on case-sensitivity and whitespace. For this problem, assume case-sensitivity and count whitespace. 
 
 For example, inputs "dog" and "god" should return true, while "God" and "dog" should return false; "dog " and "god" should also return false.
-
