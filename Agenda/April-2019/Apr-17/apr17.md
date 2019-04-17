@@ -2,7 +2,13 @@
 
 ## Announcements
 
-No MeetUp next week: go to BuiltInColorado networking event!
+No MeetUp next week! 
+BuiltInColorado networking event
+[Boulder React Coding Night]('https://www.meetup.com/Boulder-React-Meetup/events/wdpctqyzgbxb/') 4/18
+[DenverScript Meetup]('https://www.meetup.com/DenverScript/events/258911070') 4/30
+[Denver Modern Web: Python + Flask]('https://www.meetup.com/Denver-Modern-Web/events/wdgfjqyzhbcb/')
+[Denver Vue Meetup]('https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzgbdc/')
+
 
 ## Appetizer
 
