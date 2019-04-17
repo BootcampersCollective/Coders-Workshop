@@ -1,5 +1,5 @@
 # Appetizer
-> What is garbage collection?
+> What angle do the clock hands make at 3:15?
 
 # Topic: Strings and Character Encoding
 [slides](https://slides.com/bbyunis/coder-s-workshop-2-5)
