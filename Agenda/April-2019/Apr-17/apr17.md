@@ -2,12 +2,12 @@
 
 ## Announcements
 
-No MeetUp next week! 
-BuiltInColorado networking event
-[Boulder React Coding Night]('https://www.meetup.com/Boulder-React-Meetup/events/wdpctqyzgbxb/') 4/18
-[DenverScript Meetup]('https://www.meetup.com/DenverScript/events/258911070') 4/30
-[Denver Modern Web: Python + Flask]('https://www.meetup.com/Denver-Modern-Web/events/wdgfjqyzhbcb/')
-[Denver Vue Meetup]('https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzgbdc/')
+No MeetUp next week! \n 
+BuiltInColorado networking event  
+[Boulder React Coding Night](https://www.meetup.com/Boulder-React-Meetup/events/wdpctqyzgbxb/) 4/18  
+[Denver Vue Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzgbdc/) 4/22  
+[DenverScript Meetup](https://www.meetup.com/DenverScript/events/258911070) 4/30
+
 
 
 ## Appetizer
@@ -21,4 +21,3 @@ BuiltInColorado networking event
 ## Problem
 
 [Triple Step](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/tripleStep/tripleStep.md)
-
