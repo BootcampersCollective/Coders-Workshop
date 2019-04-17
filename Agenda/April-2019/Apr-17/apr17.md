@@ -1,7 +1,7 @@
 # Appetizer
 > What angle do the clock hands make at 3:15?
 
-# Topic: Strings and Character Encoding
+# Topic: Dynamic Programming
 [slides](https://slides.com/bbyunis/coder-s-workshop-2-5)
 
 # Problem
