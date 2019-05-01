@@ -12,4 +12,4 @@
 
 ## Problem
 
-[Reverse a linked list](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/reverseLinkedList)
+[Reverse a linked list](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/reverseLinkedList/reverseLinkedList.md)
