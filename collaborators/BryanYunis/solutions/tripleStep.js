@@ -27,4 +27,7 @@ function tripleStepRecurse(steps, memo) {
         memo[steps] = tripleStepRecurse(steps - 1, memo) + tripleStepRecurse(steps - 2, memo) + tripleStepRecurse(steps - 3, memo)
         return memo[steps]
     }
-}	
+}
+console.log(tripleStepBruteForce(5))
+console.log(tripleStepBruteForce(2))
+console.log(tripleStepBruteForce(7))
