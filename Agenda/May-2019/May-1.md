@@ -13,3 +13,5 @@
 ## Problem
 
 [Reverse a linked list](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/reverseLinkedList/reverseLinkedList.md)
+
+[Linked List Hard Challenge](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/rotateLinkedList/rotateLinkedList.md)
