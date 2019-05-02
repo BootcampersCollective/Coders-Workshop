@@ -1,0 +1,31 @@
+{
+    "tests": [
+        {
+            "name": "Add to back of list",
+            "input": [ 1, 2, 3, 4 ],
+            "expected": [ 1, 2, 3, 4 ],
+            "load_method": "insertback"
+        },
+        {
+            "name": "Add to front of list",
+            "input": [ 1, 2, 3, 4 ],
+            "expected": [ 4, 3, 2, 1 ],
+            "load_method": "insertfront"
+        },
+        {
+            "name": "Reverse a list",
+            "input": [ 1, 2, 3, 4 ],
+            "expected": [ 4, 3, 2, 1 ],
+            "load_method": "insertback",
+            "test_method": "reverse"
+        },
+        {
+            "name": "Rotate a list",
+            "input": [ 1, 2, 3, 4 ],
+            "expected": [ 3, 4, 1, 2 ],
+            "load_method": "insertback",
+            "test_method": "rotateright",
+            "method_parameters": [ 2 ]
+        }
+    ]
+}
