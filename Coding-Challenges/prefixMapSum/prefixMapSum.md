@@ -12,4 +12,4 @@ For example, you should be able to run the following code:
 
 `mapsum.insert("column", 2)`
 
-`assert mapsum.sum("col") == 5` # True
+`assert mapsum.sum("col") == 5`

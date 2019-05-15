@@ -17,3 +17,6 @@
 ## Problem
 
 [Schedule Struct](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/subscriberStruct/subscriberStruct.md)
+
+"No problem," you say?
+[PrefixMap Sum](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/prefixMapSum/prefixMapSum.md)
