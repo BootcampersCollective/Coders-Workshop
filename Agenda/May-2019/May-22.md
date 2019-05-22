@@ -17,8 +17,8 @@ Next week's location
 [Clockwise Spiral](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/clockwiseSpiral/clockwiseSpiral.md)
 
 ### Bonus
-Implement the above problem by creating a class with the following methods: 
-`next(): returns the next element in the clockwise spiral`
+Implement the above problem by creating a class with the following methods:<br>
+`next(): returns the next element in the clockwise spiral`<br>
 `has_next(): returns a boolean indicating whether there are further elements to display in the multidimensional array`
 
 
