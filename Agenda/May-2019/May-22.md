@@ -1,7 +1,7 @@
 # Coders' Workshop: May 22, 2019
 
 ## Announcements
-Next week's location
+Next week's location: Galvanize, 3rd floor, data science classroom. Pizza and drinks!!
 
   
 ## Appetizer
