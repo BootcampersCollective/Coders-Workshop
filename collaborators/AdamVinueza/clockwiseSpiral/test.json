@@ -1,0 +1,16 @@
+[
+    {
+        "rows": 4,
+        "columns": 5,
+        "start_position": [0,0],
+        "start_direction": "RIGHT",
+        "expected": [1, 2, 3, 4, 5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 7, 8, 9, 14, 13, 12]
+    },
+    {
+        "rows": 4,
+        "columns": 5,
+        "start_position": [0,4],
+        "start_direction": "RIGHT",
+        "expected": [5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 1, 2, 3, 4, 9, 14, 13, 12, 7, 8]
+    }
+]

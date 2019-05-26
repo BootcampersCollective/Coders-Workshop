@@ -5,35 +5,6 @@ class Roomba(object):
     '''
     A traverser of multidimensional arrays, for the moment hard-coded
     to traverse in a clockwise spiral.
-
-    Adding a start coordinate and a direction to the constructor, and
-    modifying the Direction enumeration so that there are clockwise and
-    counterclockwise orderings should make it possible for the Roomba to
-    traverse counter-clockwise from arbitrary points in the matrix.
-
-    Roomba instances work as follows. Given a matrix, a floor plan is
-    constructed using an instance of MonitorableGrid, which transforms
-    a matrix of integers into a matrix of Cell objects, each of which
-    contains the integer value as a value and a boolean flag indicating
-    whether the Cell has been visited. To traverse the floor plan, Roomba
-    employs the following operations:
-
-    - move: recursively follows a path, changing direction as necessary,
-      until it must stop.
-    - change_direction: uses the direction package's built-in generator to
-      retrieve the next (clockwise) Direction, then returns the next
-      location given that Direction.
-    - must_turn: returns True if the next location in the current direction
-      is either off the end of the matrix or a Cell that has been visited.
-    - mark: sets the currently occupied Cell as visited.
-    
-    The traversal algorithm is simple: the instance will move until it must
-    turn, then it will change Direction in a clockwise fashion and continue
-    moving until it can't move any longer. Along the way it will mark each
-    Cell as visited and store its value in a breadcrumb trail. When it can't
-    move any longer (effectively, when it must turn immediately after it has
-    changed Direction), the move operation returns.
-
     '''
     __slots__ = [ '_floorplan', '_direction', '_current_location', \
             '_orienter', '_trail' ]
@@ -92,5 +63,4 @@ class Roomba(object):
 
     def start(self):
         self._move()
-        print(' '.join(self._trail))
-
+        print(', '.join(self._trail))

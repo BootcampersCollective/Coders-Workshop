@@ -1,30 +1,20 @@
 #!/usr/local/bin/python3
-from roomba import Roomba
-from argparse import ArgumentParser
-
-def build_matrix(row_count, column_count):
-    matrix = []
-    counter = 1
-    for _ in range(row_count):
-        row = []
-        matrix.append(row)
-        for _ in range(column_count):
-            row.append(counter)
-            counter += 1
-    return matrix
+import json
+from node import Node
+from matrix import Matrix
+from direction import Direction
 
 if __name__ == '__main__':
-    parser = ArgumentParser()
-    parser.add_argument('rows', help='number of rows in the input matrix')
-    parser.add_argument('columns', help='number of columns in the input matrix')
-    args = parser.parse_args()
-    try:
-        rows = int(args.rows)
-        cols = int(args.columns)
-    except ValueError:
-        parser.error('rows and columns must be integers')
-    start = 0, 0
-    if rows < 1 or cols < 1:
-        parser.error('rows and columns must be positive integers')
-    r = Roomba(build_matrix(rows, cols))
-    r.start()
+    with open('test.json') as reader:
+        tests = json.load(reader)
+    for test in tests:
+        rows = test['rows']
+        columns = test['columns']
+        matrix = Matrix(rows, columns)
+        [r, c] = test['start_position']
+        d = Direction[test['start_direction']]
+        actual = matrix.traverse(row=r, column=c, values=[], direction=d)
+        if actual != test['expected']:
+            print('Expected={0}, Actual={1}'.format(test['expected'], actual))
+        else:
+            print('PASS')
