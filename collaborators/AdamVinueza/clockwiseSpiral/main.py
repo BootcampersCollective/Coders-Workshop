@@ -35,9 +35,8 @@ if __name__ == '__main__':
         d = Direction[test['start_direction']]
         '''
         If the values parameter below is not explicitly set to the empty list,
-        the second test will fail. Why? (Hint: study the definitions of "block"
-        and "scope" in sections 4.1-4.2.2 of the Python 3.7.3 Language
-        Reference.)
+        the second test will fail. Why? Hint: study Matrix.traverse, then study
+        section 5.3.4 of the Python 3.7.3 Language Reference.
 
         For more about this common issue, see https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments
 
