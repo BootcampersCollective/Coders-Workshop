@@ -40,8 +40,10 @@ if __name__ == '__main__':
         Reference.)
 
         For more about this common issue, see https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments
+
+        After that, examine the function Matrix.traverse_better.
         '''
-        actual = matrix.traverse(row=r, column=c, values=[], direction=d)
+        #actual = matrix.traverse(row=r, column=c, values=[], direction=d)
         if actual != test['expected']:
             print('Expected={0}, Actual={1}'.format(test['expected'], actual))
         else:
