@@ -32,6 +32,23 @@ class Matrix:
     def get_node(self, row, col):
         return self.matrix[row][col]
 
+    def get_defaults(self, row, column, values, direction):
+        if row is None:
+            row = 0
+        if column is None:
+            column = 0
+        if values is None:
+            values = []
+        if direction is None:
+            direction = Direction.Right
+        return row, column, values, direction
+
+    def traverse_safely(self, row=None, column=None, values=None,
+            direction=None):
+        row, column, values, direction = self.get_defaults(row, column, values,
+            direction)
+        return self.traverse(row, column, values, direction)
+
     def traverse(self, row=0, column=0, values=[], direction=Direction.RIGHT):
         node = self.get_node(row, column)
         if node.visited:
