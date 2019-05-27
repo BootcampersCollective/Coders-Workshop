@@ -38,6 +38,8 @@ if __name__ == '__main__':
         the second test will fail. Why? (Hint: study the definitions of "block"
         and "scope" in sections 4.1-4.2.2 of the Python 3.7.3 Language
         Reference.)
+
+        For more about this common issue, see https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments
         '''
         actual = matrix.traverse(row=r, column=c, values=[], direction=d)
         if actual != test['expected']:
