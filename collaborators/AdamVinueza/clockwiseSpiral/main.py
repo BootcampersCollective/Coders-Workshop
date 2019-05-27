@@ -35,12 +35,12 @@ if __name__ == '__main__':
         d = Direction[test['start_direction']]
         '''
         If the values parameter below is not explicitly set to the empty list,
-        the second test will fail. Why? Hint: study Matrix.traverse, then study
-        section 5.3.4 of the Python 3.7.3 Language Reference.
+        only the first test will pass. Why? Hint: study Matrix.traverse, then
+        study section 5.3.4 of the Python 3.7.3 Language Reference.
 
         For more about this common issue, see https://docs.python-guide.org/writing/gotchas/#mutable-default-arguments
 
-        After that, examine the function Matrix.traverse_better.
+        After that, examine the function Matrix.traverse_safely.
         '''
         actual = matrix.traverse(row=r, column=c, values=[], direction=d)
         if actual != test['expected']:
