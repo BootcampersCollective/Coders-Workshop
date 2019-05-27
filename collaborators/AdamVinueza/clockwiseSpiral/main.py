@@ -34,9 +34,10 @@ if __name__ == '__main__':
         [r, c] = test['start_position']
         d = Direction[test['start_direction']]
         '''
-        If the values parameter is not specified explicitly below, the second
-        test will fail. Why? (Hint: study the definitions of "block" and "scope"
-        in sections 4.1-4.2.2 of the Python 3.7.3 Language Reference.)
+        If the values parameter below is not explicitly set to the empty list,
+        the second test will fail. Why? (Hint: study the definitions of "block"
+        and "scope" in sections 4.1-4.2.2 of the Python 3.7.3 Language
+        Reference.)
         '''
         actual = matrix.traverse(row=r, column=c, values=[], direction=d)
         if actual != test['expected']:
