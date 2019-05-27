@@ -18,7 +18,11 @@ If we start at 1 and go clockwise, we'll hit every element. But if we start at
 A useful exercise would be to extend the algorithm to allow for turning in a
 clockwise direction.
 
-Another exercise: change direction randomly and see what happens.
+Another exercise: add a parameter to the Matrix constructor that's an array of
+"pillar" matrix indices: places in the matrix that can't be occupied by Nodes.
+Can you change the data structures and algorithms so as to guarantee that a
+traversal will eventually visit every Node in the matrix? What arrangements of
+pillars prevent such a traversal?
 '''
 if __name__ == '__main__':
     with open('test.json') as reader:
@@ -29,6 +33,11 @@ if __name__ == '__main__':
         matrix = Matrix(rows, columns)
         [r, c] = test['start_position']
         d = Direction[test['start_direction']]
+        '''
+        If the values parameter is not specified explicitly below, the second
+        test will fail. Why? (Hint: study the definitions of "block" and "scope"
+        in sections 4.1-4.2.2 of the Python 3.7.3 Language Reference.)
+        '''
         actual = matrix.traverse(row=r, column=c, values=[], direction=d)
         if actual != test['expected']:
             print('Expected={0}, Actual={1}'.format(test['expected'], actual))
