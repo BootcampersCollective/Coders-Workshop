@@ -8,9 +8,9 @@ First timers: Next week we'll be back at our normal location
 
 > What is Agile software development?
 
-## Topic: Multidimensional Arrays II: Paired Programming, Git, and Tech Review
+## Topic: Multidimensional Arrays II: Paired Programming, Git, and Code Review
 
-[slides](https://slides.com/bbyunis/coder-s-workshop-1-4-6-8)
+[slides](https://slides.com/bbyunis/coder-s-workshop-2-5-7-9)
 
 ### Resources
 
