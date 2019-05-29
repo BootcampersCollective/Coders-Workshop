@@ -2,7 +2,9 @@
 
 ## Announcements
 First timers: Next week we'll be back at our normal location  
-Upcoming events: [6/3 Denver Vue Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzhbkc/)
+Upcoming events:  
+* [6/3 Denver Vue Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzhbkc/)  
+* [6/3 CO.js meetup](https://www.meetup.com/Bootcampers-Collective/events/gsnwzqyzjbfb/)
 
   
 ## Appetizer
