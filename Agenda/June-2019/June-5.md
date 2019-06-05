@@ -3,7 +3,7 @@
 ## Announcements
 Next week's location: Galvanize, 3rd floor, data science classroom.
 
-## Topic: Multidimensional Arrays
+## Topic: Graph Data Structure
 
 [slides](https://slides.com/bbyunis/coder-s-workshop-1-4-6-8-10)
 
