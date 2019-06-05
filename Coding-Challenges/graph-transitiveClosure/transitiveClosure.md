@@ -6,7 +6,8 @@ The transitive closure of a graph is a measure of which vertices are reachable f
 
 For example, suppose we are given the following graph in adjacency list form:
 
-```graph = [
+```
+graph = [
     [0, 1, 3],
     [1, 2],
     [2],
@@ -16,7 +17,8 @@ For example, suppose we are given the following graph in adjacency list form:
 
 The transitive closure of this graph would be:
 
-```[1, 1, 1, 1]
+```
+[1, 1, 1, 1]
 [0, 1, 1, 0]
 [0, 0, 1, 0]
 [0, 0, 0, 1]
