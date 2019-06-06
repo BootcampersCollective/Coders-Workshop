@@ -81,16 +81,16 @@ myArray = []
 # myArray.append([12, 13, 14, 15, 6])
 # myArray.append([11, 10, 9, 8, 7])
 
-# myArray.append([1, 2, 3, 4, 5])
-# myArray.append([14, 15, 16, 17, 6])
-# myArray.append([13, 20, 19, 18, 7])
-# myArray.append([12, 11, 10, 9, 8])
-
 myArray.append([1, 2, 3, 4, 5])
-myArray.append([16, 17, 18, 19, 6])
-myArray.append([15, 24, 25, 20, 7])
-myArray.append([14, 23, 22, 21, 8])
-myArray.append([13, 12, 11, 10, 9])
+myArray.append([14, 15, 16, 17, 6])
+myArray.append([13, 20, 19, 18, 7])
+myArray.append([12, 11, 10, 9, 8])
+
+# myArray.append([1, 2, 3, 4, 5])
+# myArray.append([16, 17, 18, 19, 6])
+# myArray.append([15, 24, 25, 20, 7])
+# myArray.append([14, 23, 22, 21, 8])
+# myArray.append([13, 12, 11, 10, 9])
 
 
 spiral(myArray)
