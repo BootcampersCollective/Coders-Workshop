@@ -43,7 +43,7 @@ const breadthFirstSearch = (graph, startVertex, callback) => {
     const adjList = graph.getAdjList();
     const color = initializeColor(vertices);
     const queue = [];
-    
+
     queue.push(startVertex);
     while (queue.length !== 0) {
         const vertex = queue.shift() // gets first element added
@@ -58,11 +58,10 @@ const breadthFirstSearch = (graph, startVertex, callback) => {
         }
         // finished exploring this vertex and its adjacent vertices
         color[vertex] = "BLACK"; // mark as completely explored
-        if (callback) { 
+        if (callback) {
             callback(vertex) // execute callback function if there is one
         }
     }
-    return distances
 }
 
 const printVertex = value => {
