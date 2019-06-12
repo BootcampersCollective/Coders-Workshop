@@ -52,7 +52,7 @@ const breadthFirstSearch = (graph, startVertex, callback) => {
         for (let i = 0; i < neighbors.length; i++) {
             const neighbor = neighbors[i];
             if (color[neighbor] === "WHITE") {
-                color[neighbor] === "GRAY";
+                color[neighbor] = "GRAY";
                 queue.push(neighbor) // add to queue so we can finish exploring
             }
         }
