@@ -9,4 +9,4 @@ Next week's location: Back to SecureSet for a while!
 
 ## Problem
 
-[Graph distances Starter Code](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/graph-transitiveClosure/transitiveClosure.md)
+[Graph distances Starter Code](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/graph-distances/starterGraph.js)
