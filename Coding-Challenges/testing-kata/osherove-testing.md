@@ -21,7 +21,7 @@ the following input is NOT ok: `“1,\n”` (not need to prove it - just clarify
 ——————————————————————————————-<br>
 4. Support different delimiters<br>
 to change a delimiter, the beginning of the string will contain a separate line that looks like this: `“//[delimiter]\n[numbers…]”` for example `“//;\n1;2”` should return three where the default delimiter is ‘;’ .
-the first line is optional. all existing scenarios should still be supported<br>
+the first line is optional. All existing scenarios should still be supported<br>
 ————————————————————————————————<br>
 5. Calling Add with a negative number will throw an exception “negatives not allowed” - and the negative that was passed. 
 if there are multiple negatives, show all of them in the exception message.<br>
@@ -34,5 +34,5 @@ STOP HERE if you are a beginner. Continue if you can finish the steps so far in 
 ————————————————————————————————<br>
 8. Allow multiple delimiters like this: `“//[delim1][delim2]\n”` for example `“//[*][%]\n1*2%3”` should return `6`.<br>
 ————————————————————————————————<br>
-9. make sure you can also handle multiple delimiters with length longer than one char<br>
+9. Make sure you can also handle multiple delimiters with length longer than one char<br>
 ———————————————————————————————— 
