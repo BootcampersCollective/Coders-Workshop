@@ -1,24 +1,20 @@
-var assert = require('assert');
+var assert = require('assert'); //Access Node's 
 
 function Add(string){
-    
-    if(string == ""){
-        return 0;
-    }
 
     var numbers = string.split(",");
-    var num1 = parseInt(numbers[0]);
+    var sum = 0; 
     
-    if(numbers.length == 1)    {
-        return num1;
+    for(var i = 0; i < numbers.length; i++){
+        if(numbers[i] != "") sum += parseInt(numbers[i]);
     }
-    var num2 = parseInt(numbers[1]);
-    return num1 + num2;
+    console.log(sum)
+    return sum;
 }
 
-//console.log(Add("4,0"));
-
+//Test cases
 assert.equal(Add(""), 0);
-assert.equal(Add("3"), 3);
+assert.equal(Add("34"), 34);
+assert.equal(Add("3,"), 3);
 assert.equal(Add("4,2"), 6);
-//assert.equal(Add("4,2,8"), 14);
+assert.equal(Add("4,2,8,5"), 19);
