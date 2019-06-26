@@ -21,7 +21,7 @@ Things to think about while working out problems:
 
 ### Challenging
 
-[Chess](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/testing-kata/osherove-testing.md)
+[Chess](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/chess/chess.md)
 
 ### Still challenging
 [Pythagorean Triplets](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/pythagoreanTriplets/pythagoreanTriplets.md)
