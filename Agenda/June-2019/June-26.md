@@ -3,6 +3,7 @@
 
 ## Announcements
 Monday, 7/1: CO.js Meetup
+No Coders' Workshop next week 7/3!! Happy Independence Day!
 
 ## Appetizer
 
