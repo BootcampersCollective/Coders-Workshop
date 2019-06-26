@@ -14,6 +14,10 @@ No discussion today.
 
 ## Problem
 
+Things to think about while working out problems:
+* What's the runtime ("Big-O") of the function? Is there any way it can be made more efficient?
+* How can the solution be tested using an assertion library?
+
 
 ### Challenging
 
