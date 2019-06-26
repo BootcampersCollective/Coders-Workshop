@@ -2,7 +2,7 @@
 # Coders' Workshop: June 26, 2019
 
 ## Announcements
-Monday, 6/24: CO.js Meetup
+Monday, 7/1: CO.js Meetup
 
 ## Appetizer
 
@@ -20,7 +20,7 @@ No discussion today.
 [Chess](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/testing-kata/osherove-testing.md)
 
 ### Still challenging
-[Pythagorean Triplets]()
+[Pythagorean Triplets](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/pythagoreanTriplets/pythagoreanTriplets.md)
 
 ### Get your feet wet
-[Fixed Points]()
+[Fixed Points](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/fixedPoints/fixedPoints.md)
