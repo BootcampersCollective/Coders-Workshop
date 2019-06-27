@@ -7,7 +7,7 @@ No Coders' Workshop next week 7/3!! Happy Independence Day!
 
 ## Appetizer
 
-> Describe clockwise movement to someone who has never seen a clock before. (h/t Tyler)
+> Describe clockwise movement to someone who has never seen an analog clock before. (h/t Tyler)
 
 ## Topic: Free For All!
 
