@@ -7,6 +7,8 @@ Monday, 7/15: [CO.js Meetup](https://www.meetup.com/Bootcampers-Collective/event
 
 ## Topic: Object-oriented programming
 
+[Slides](https://slides.com/bbyunis/coder-s-workshop-1-4-6-8-10-13)
+
 ### Resources
 
 [YouTube: Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
