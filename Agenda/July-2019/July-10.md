@@ -9,7 +9,7 @@ Monday, 7/15: CO.js Meetup
 
 
 ## Problem
-[Prefix-map Sum Class]()
+[Prefix-map Sum Class](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/prefixMapSum/prefixMapSum.md)
 
 
 
