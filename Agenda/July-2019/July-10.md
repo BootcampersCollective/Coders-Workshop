@@ -7,6 +7,8 @@ Monday, 7/15: CO.js Meetup
 
 ## Topic: Object-oriented programming
 
+[Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+
 
 ## Problem
 [Prefix-map Sum Class](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/prefixMapSum/prefixMapSum.md)
