@@ -7,7 +7,7 @@ Monday, 7/15: CO.js Meetup
 
 ## Topic: Object-oriented programming
 
-[Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+[YouTube: Object-oriented Programming in JavaScript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 
 ## Problem
