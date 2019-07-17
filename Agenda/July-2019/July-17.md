@@ -3,8 +3,8 @@
 
 ## Announcements
 Monday, 7/22: [Vue.js Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzkbdc/)  
-    - Lightening Talks!
-Monday, 7/29: [CO.js Meetup](https://www.meetup.com/Bootcampers-Collective/events/ztvncryzkbtb/)
+    - Lightening Talks!  
+Monday, 7/29: [CO.js Meetup](https://www.meetup.com/Bootcampers-Collective/events/ztvncryzkbmc/)
 
 
 ## Topic: Sorting Algorithms (w/ a little ES6)
