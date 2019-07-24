@@ -1,3 +1,5 @@
+const assert = require("assert");
+
 function coinFlip() {}
 
-console.log(coinFlip(412))
+assert.equal(coinFlip(412, 9));
