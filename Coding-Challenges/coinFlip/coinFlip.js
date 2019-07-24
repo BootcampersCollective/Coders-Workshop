@@ -1,5 +1,5 @@
 const assert = require("assert");
 
-function coinFlip() {}
+const coinFlip = n => {}
 
 assert.equal(coinFlip(412, 9));
