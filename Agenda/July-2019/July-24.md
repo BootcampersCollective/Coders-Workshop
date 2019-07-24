@@ -14,5 +14,5 @@ Explain how you would design a URL-shortening service.
 
 ## Problem
 
-[Coin Flip](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/coinFlip/coinFlip.md)
+[Coin Flip](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/coinFlip/)  
 [Collatz Sequence](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/collatzSequence/collatzSequence.md)
