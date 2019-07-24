@@ -1,38 +1,31 @@
+const assert = require("assert");
+
 //recursion
-
-const coins = n => {
-  let count = 0
-
-  const recur = n => {
-    if (n <= 1) {
-      return
-    }
-    count++
-    return recur(n / 2)
+const recursive = (n, count = 0) => {
+  if (n <= 1) {
+    return count;
   }
+  return recursive(n / 2, count + 1);
+};
 
-  recur(n)
-  return count
-}
+recursive(2); //?
 
 // no recrusion
-
 const coinsNoRecursion = n => {
-  let count = 0
+  let count = 0;
 
   while (n > 1) {
-    n /= 2
-    count++
+    n /= 2;
+    count++;
   }
-  return count
-}
+  return count;
+};
 
-console.log(coinsNoRecursion(1))
-
-// math class
-
+// mathy
 const coinsMath = n => {
-  return Math.log(n) / Math.log(2)
-}
+  return Math.ceil(Math.log(n) / Math.log(2));
+};
 
-console.log(coinsMath(412))
+assert.equal(recursive(412), 9);
+assert.equal(coinsNoRecursion(412), 9);
+assert.equal(coinsMath(412), 9);
