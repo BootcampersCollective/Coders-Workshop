@@ -2,7 +2,8 @@
 
 ## Announcements
 
-Monday, 7/29: [CO.js Meetup](https://www.meetup.com/Bootcampers-Collective/events/ztvncryzkbmc/)
+Monday, 7/29: [CO.js Meetup](https://www.meetup.com/Bootcampers-Collective/events/ztvncryzkbmc/)  
+Coders' Workshop Summer Hiatus: **August 7 && August 14**
 
 ## Appetizer
 
