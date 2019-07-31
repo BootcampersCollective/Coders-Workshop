@@ -10,7 +10,7 @@
 
 Explain how you would design a URL-shortening service.
 
-## Topic: Hash Tables and Maps
+## Topic: Hash Tables
 
 [Slides](https://slides.com/bbyunis/coder-s-workshop-1-16)
 
