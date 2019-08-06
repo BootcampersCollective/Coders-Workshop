@@ -41,7 +41,7 @@ evergreen.insert(5);
 evergreen.insert(9);
 evergreen.insert(3);
 evergreen.insert(11);
-
+console.log(evergreen);
 function SearchBinary(node, key){
     if (node == key){
         return true;

@@ -1,4 +1,4 @@
-var myString = "Kelanl";
+var myString = "Kelan";
 
 myArray = new Array(128).fill(null);
 
