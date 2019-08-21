@@ -7,6 +7,7 @@
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
 ## Appetizer
+How many standard U.S. quarters would it take to stack to the height of the Empire State Building?
 
 
 ## Topic: Multidimensional Arrays
