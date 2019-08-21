@@ -13,7 +13,6 @@
 
 [Slides](https://slides.com/bbyunis/coder-s-workshop-2-5-7-18)
 
-## Resources
-
 
 ## Algorithms
+[Clockwise Spiral](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/clockwiseSpiral/clockwiseSpiral.md)
