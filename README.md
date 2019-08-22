@@ -38,3 +38,4 @@ The format is simple:
 We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
 * Problems are found in `/Coding-challenges/` and located in a folder corresponding to their name. Include a markdown (.md) file describing the problem, and if possible, please include sample inputs/outputs.  
 * To submit a solution, create a folder with your name in `/Collaborators/` and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
+* Once you add your problem and/or solution, create a pull request and we will add your code to our repo.
