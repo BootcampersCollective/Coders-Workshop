@@ -1,3 +1,5 @@
+const assert = require('assert');
+
 const clockwiseSpiral = A => {
   const N = A[0].length,
     M = A.length
@@ -56,4 +58,4 @@ const result = clockwiseSpiral([
   [16, 17, 18, 19, 20]
 ])
 
-console.log(result)
+assert.deepEqual(result, [1, 2, 3, 4, 5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 7, 8, 9, 14, 13, 12])
