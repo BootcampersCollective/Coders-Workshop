@@ -1,4 +1,6 @@
-# Welcome to Coder's Workshop!
+# Welcome to Coders' Workshop!
+
+## About
 
 >A Meetup© where programmers can develop problem solving skills & improve their technical communication.
 
@@ -31,3 +33,8 @@ The format is simple:
         - Share thoughts on what you learned
         - Clean-up your space
         - Parting Announcements
+
+## Want to Contribute?
+We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
+* Problems are found in `/Coding-challenges/` and located in a folder corresponding to their name. Include a markdown (.md) file describing the problem, and if possible, please include sample inputs/outputs.  
+* To submit a solution, create a folder with your name in `/Collaborators/` and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
