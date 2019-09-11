@@ -1,4 +1,4 @@
-# Coders' Workshop: August 21, 2019
+# Coders' Workshop: September 11, 2019
 
 ## Announcements
 
