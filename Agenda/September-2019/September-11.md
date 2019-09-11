@@ -10,6 +10,6 @@
 
 ## Algorithms
 
-[Closest Caresian Points]()
-[Convert Roman Numerals]()
-[Longest Unique Subarray]()
+[Closest Caresian Points]('https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/closestCartesianPoints.md')  
+[Convert Roman Numerals]('https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/convertRomanNumerals.md')  
+[Longest Unique Subarray]('https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/longestUniqueSubarray.md')  
