@@ -2,7 +2,7 @@
 
 ## Announcements
 
-[Femme in Stem Open Board Meeting](https://www.meetup.com/Bootcampers-Collective/events/264408096/)
+[Femme in Stem Open Board Meeting, 9/30 5pm](https://www.meetup.com/Bootcampers-Collective/events/264408096/)
 
 - Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
