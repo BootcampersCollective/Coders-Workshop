@@ -6,7 +6,9 @@
 
 - Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
-> What was the highest selling single item at WalMart in 2017?
+## Appetizer
+
+>What was the highest selling single item at WalMart in 2017?
 
 # Topic: Strings and Character Encoding
 
