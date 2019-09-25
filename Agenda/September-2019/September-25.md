@@ -17,6 +17,7 @@
 # Problems
 
 [Capitalize a Title](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/capitalizeATitle/capitalizeATitle.md)  
+
 [Check Permutation](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/checkPermutation/checkPermutation.md)
 
 [disemvowel](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/checkPermutation/disemvowel.md)
