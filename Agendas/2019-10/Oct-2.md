@@ -12,7 +12,7 @@
 
 # Topic: Strings and Character Encoding
 
-[slides](https://slides.com/bbyunis/coder-s-workshop-2-21)
+[slides](https://slides.com/bbyunis/coder-s-workshop-1-4-22)
 
 # Problems
 
