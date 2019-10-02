@@ -1,5 +1,7 @@
-const assert = require("assert");
+#!/usr/bin/env node
 
-const coinFlip = n => {}
+const coinFlip = n => {
 
-assert.equal(coinFlip(412, 9));
+};
+
+console.log(coinFlip(412, 9));

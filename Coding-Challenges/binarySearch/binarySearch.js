@@ -1,3 +1,5 @@
-function findClosestValueInBst(tree, target) {
-    // Write your code here.
-}
+#!/usr/bin/env node
+
+const findClosestValueInBst = (tree, target) => {
+
+};
