@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 class Graph {
   constructor() {
     this.vertices = [];

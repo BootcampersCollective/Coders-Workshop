@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function OrderRepository() {}
 
 OrderRepository.prototype.getYesterdaysOrders = function getYesterdaysOrders() {
@@ -80,5 +82,4 @@ OrderRepository.prototype.getYesterdaysOrders = function getYesterdaysOrders() {
   ]
 }
 
-export { OrderRepository }
-
+module.exports = OrderRepository

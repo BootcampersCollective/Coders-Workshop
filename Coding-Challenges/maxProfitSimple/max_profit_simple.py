@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def max_profit_simple(x):
     pass
 

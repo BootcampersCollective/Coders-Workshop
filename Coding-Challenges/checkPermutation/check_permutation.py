@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def check_permutation(str1, str2):
     pass
 

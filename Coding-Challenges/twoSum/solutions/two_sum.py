@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def two_sum(nums, target):
     """
     :type nums: List[int]

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def smallest_distance:
     pass
 

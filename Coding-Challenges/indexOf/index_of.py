@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def indexOf(list_or_string, target):
     pass
 

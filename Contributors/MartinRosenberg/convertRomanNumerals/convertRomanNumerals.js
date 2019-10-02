@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const numerals = Object.freeze({
   M: 1000,
   D: 500,

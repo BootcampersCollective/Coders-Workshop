@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const arrayShallowEquals = (a, b) => {
   if (a === b) return true
   const { length } = a

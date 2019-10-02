@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const clockwiseSpiral = (matrix) => {
 
 };

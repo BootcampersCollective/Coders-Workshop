@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 class Node {
   constructor(name) {
     this.name = name;

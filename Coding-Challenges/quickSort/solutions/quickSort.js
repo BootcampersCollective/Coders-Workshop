@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const quickSort = arr => {
   if (arr.length <= 1) {
     return arr;

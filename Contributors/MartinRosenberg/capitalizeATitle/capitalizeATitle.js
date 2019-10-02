@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const titleCase = (s) => {
   const lowerWords = Object.freeze(['the', 'and', 'of', 'for'])
   const upperCase = (c) => String.fromCharCode(c.charCodeAt(0) - 32)

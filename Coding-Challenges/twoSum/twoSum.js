@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const twoSum = (nums, target) => {
 
 };

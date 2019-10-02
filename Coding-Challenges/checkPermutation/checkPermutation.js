@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const checkPermutation = (str1, str2) => {
 
 };

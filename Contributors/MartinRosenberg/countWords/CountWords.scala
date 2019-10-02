@@ -4,4 +4,3 @@ object CountWords {
     s.split(' ').groupBy(identity).mapValues(_.length)
 
 }
-

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def multiply_all_not_me(arr):
     pass
 
