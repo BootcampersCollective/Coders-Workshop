@@ -1,3 +1,3 @@
-function maxRot(n) {
-  
-}
+const maxRot = n => {
+
+};

@@ -1,8 +1,7 @@
-function stringSplosion(str) {
+const stringSplosion = str => {
 
-}
+};
 
-
-stringSplosion("Code") //→ "CCoCodCode"
-stringSplosion("abc")  //→ "aababc"
-stringSplosion("ab")   //→ "aab"
+console.log(stringSplosion("Code")); //→ "CCoCodCode"
+console.log(stringSplosion("abc")); //→ "aababc"
+console.log(stringSplosion("ab")); //→ "aab"

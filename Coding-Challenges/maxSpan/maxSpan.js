@@ -1,6 +1,6 @@
-function maxSpan(arr) {
-  
-}
+const maxSpan = arr => {
+
+};
 
 console.log(maxSpan([1, 2, 1, 1, 3])); // 4
 console.log(maxSpan([1, 2, 1, 1, 3, 2])); // 5

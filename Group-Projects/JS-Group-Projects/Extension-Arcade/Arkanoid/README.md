@@ -1,3 +1,3 @@
 # Arkanoid
 
-<image src="./img/arkanoid.jpg"></image>
+![](arkanoid.jpg)

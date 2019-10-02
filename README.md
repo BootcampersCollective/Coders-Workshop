@@ -2,7 +2,7 @@
 
 ## About
 
->A Meetup© where programmers can develop problem solving skills & improve their technical communication.
+A meetup where programmers can develop problem solving skills & improve their technical communication.
 
 The format is simple:
 
@@ -21,7 +21,7 @@ The format is simple:
         - Determine what programming language you want to use.
         - Use *white boards* or paper & markers to _pseudo-code_ your way to a solution.
 
-    - **Phase 2:** [PAIR-PROGRAMMING](https://en.wikipedia.org/wiki/Pair_programming)
+    - **Phase 2:** [PAIR PROGRAMMING](https://en.wikipedia.org/wiki/Pair_programming)
 
         - Using a single machine, one person _navigates_ or talks out what to code.
         - The _driver_ (person on machine) will listen to the navigator and manually code the algorithm.
@@ -34,8 +34,10 @@ The format is simple:
         - Clean-up your space
         - Parting Announcements
 
-## Want to Contribute?
+## Want to contribute?
+
 We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
-* Problems are found in `/Coding-challenges/` and located in a folder corresponding to their name. Include a markdown (.md) file describing the problem, and if possible, please include sample inputs/outputs.  
-* To submit a solution, create a folder with your name in `/Collaborators/` and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
+
+* Problems are found in [Coding-Challnges/](./Coding-Challenges) and located in a folder corresponding to their name. Include a markdown (.md) file describing the problem, and if possible, please include sample inputs/outputs.  
+* To submit a solution, create a folder with your name in [Contributors/](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
 * Once you add your problem and/or solution, create a pull request and we will add your code to our repo.
