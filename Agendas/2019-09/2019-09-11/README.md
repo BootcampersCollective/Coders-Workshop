@@ -2,14 +2,15 @@
 
 ## Announcements
 
-[Careers and Beers](https://www.meetup.com/Bootcampers-Collective/events/257659065/)
+* [Careers and Beers](https://www.meetup.com/Bootcampers-Collective/events/257659065/)
+* Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
-- Ideas? Want to share what you know about a topic? Want us to cover a topic?
+## Topic: Code Mob & Freeform Algorithm Hacking
 
-## Topic: Code Mob & Freeform Alg Hacking
+## Challenges
 
-## Algorithms
+[Closest Cartesian Points](../../../Coding-Challenges/closestCartesianPoints)
 
-[Closest Caresian Points](https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/closestCartesianPoints.md)  
-[Convert Roman Numerals](https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/convertRomanNumerals.md)  
-[Longest Unique Subarray](https://github.com/andy-young/Coders-Workshop/blob/master/Agenda/September-2019/challenges/longestUniqueSubarray.md)  
+[Convert Roman Numerals](../../../Coding-Challenges/convertRomanNumerals)
+
+[Longest Unique Subarray](../../../Coding-Challenges/longestUniqueSubarray)

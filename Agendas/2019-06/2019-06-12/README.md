@@ -10,4 +10,4 @@
 
 ## Challenges
 
-[Graph distances Starter Code](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/graph-distances/starterGraph.js)
+[Graph Distances](../../../Coding-Challenges/graphDistances)

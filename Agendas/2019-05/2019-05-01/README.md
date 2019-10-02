@@ -12,10 +12,12 @@ What is garbage collection in computer science?
 
 ## Challenges
 
-[Reverse a linked list](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/reverseLinkedList/reverseLinkedList.md)
+### Challenge 1
 
-### Leveling-up Linked Lists
+[Reverse a Linked List](../../../Coding-Challenges/reverseLinkedList)
+
+### Challenge 2: Leveling-up Linked Lists
 
 > Only try this once you have a well-built-out linked list structure and you feel comfortable with its implementation. We will discuss this problem next week.
 
-[Linked List Hard Challenge](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/rotateLinkedList/rotateLinkedList.md)
+[Linked List Hard Challenge](../../../Coding-Challenges/rotateLinkedList)

@@ -37,24 +37,23 @@ class BinarySearchTree {
 
   insert(key) {
     if (this.root === null) {
-      this.root = new Node(key)
-    }
-    else {
-      this.insertNode(this.root, key)
+      this.root = new Node(key);
+    } else {
+      this.insertNode(this.root, key);
     }
   }
 
   insertNode(node, key) {
     if (node.key > key) {
       if (node.left === null) {
-        node.left = new Node(key)
+        node.left = new Node(key);
       } else {
         this.insertNode(node.left, key);
       }
     }
     if (node.key < key) {
       if (node.right === null) {
-        node.right = new Node(key)
+        node.right = new Node(key);
       } else {
         this.insertNode(node.right, key);
       }
@@ -62,13 +61,13 @@ class BinarySearchTree {
   }
 }
 
-const evergreen = new BinarySearchTree()
-evergreen.insert(7)
-evergreen.insert(5)
-evergreen.insert(9)
-evergreen.insert(3)
-evergreen.insert(11)
-evergreen.insert(6)
+const evergreen = new BinarySearchTree();
+evergreen.insert(7);
+evergreen.insert(5);
+evergreen.insert(9);
+evergreen.insert(3);
+evergreen.insert(11);
+evergreen.insert(6);
 let arr = [];
 evergreen.inOrder(arr, evergreen.root);
 console.log(arr);

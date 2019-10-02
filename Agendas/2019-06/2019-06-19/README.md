@@ -10,4 +10,4 @@
 
 ## Challenges
 
-[Osherove Testing Kata](../../../Coding-Challenges/osheroveTestingKata)
+[Osherove Testing Kata](../../../Coding-Challenges/stringCalculator)

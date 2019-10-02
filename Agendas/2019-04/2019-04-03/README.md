@@ -10,6 +10,6 @@ How many ping pong balls fit in a standard school bus?
 
 ## Challenges
 
-[Check permutation](../../../Coding-Challenges/checkPermutation/checkPermutation.md)
+[Check Permutation](../../../Coding-Challenges/checkPermutation)
 
-[Disemvowel](../../../Coding-Challenges/disemvowel/disemvowel.md)
+[Disemvowel](../../../Coding-Challenges/disemvowel)
