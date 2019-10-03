@@ -18,4 +18,4 @@
 
 [Max Profit](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/maxProfitSimple)
 
-[Check Permutation](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/checkPermutation/checkPermutation.md)
+[Check Permutation](https://github.com/andy-young/Coders-Workshop/tree/master/Coding-Challenges/checkPermutation)
