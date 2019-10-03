@@ -10,7 +10,7 @@
 
 > What is DNS, and how does it work?
 
-# Topic: Strings and Character Encoding
+# Topic: Computational Complexity
 
 [slides](https://slides.com/bbyunis/coder-s-workshop-1-4-22)
 
