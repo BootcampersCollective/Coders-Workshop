@@ -1,3 +1,5 @@
+const assert = require("assert");
+
 const capAWord = word => {
   let charCode = word.charCodeAt(0);
   const restOfWord = word.slice(1);
@@ -19,7 +21,7 @@ const capitalize = string => {
       returnArray.push(word);
     }
   });
-  return returnArray;
+  return returnArray.join(" ");
 };
 
-capitalize("the old man and the sea"); //?
+assert.strictEqual(capitalize("the old man and the sea"), "The Old Man and the Sea");
