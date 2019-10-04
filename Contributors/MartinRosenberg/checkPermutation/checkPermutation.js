@@ -11,7 +11,7 @@ const arrayShallowEquals = (a, b) => {
 }
 
 /**
- * O(log n) time
+ * O(nlog(n)) time
  */
 const checkPermutation = (a, b) =>
   arrayShallowEquals([...a].sort(), [...b].sort())
