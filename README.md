@@ -8,12 +8,12 @@ The format is simple:
 
 1. We start with a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk) related to the technical challenge we'll be working on.
 
-1. We introduce the problem.
+2. We introduce the problem.
 
     - We present 3 difficultly versions of "_the problem_" for you to choose from.
     - If you pick level 1, get with another person who picked level one, or not. There's no wrong way to move forward. Mix it up! :cocktail:
 
-1. Enter problem solving mode:
+3. Enter problem solving mode:
 
     - **Phase 1:** TECHNICAL COMMUNICATION
 
@@ -26,18 +26,18 @@ The format is simple:
         - Using a single machine, one person _navigates_ or talks out what to code.
         - The _driver_ (person on machine) will listen to the navigator and manually code the algorithm.
 
-1. Wrap-Up:
+4. Wrap-Up:
 
     - **7:45pm**
 
         - Share thoughts on what you learned
-        - Clean-up your space
+        - Clean up your space
         - Parting Announcements
 
 ## Want to contribute?
 
 We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
 
-* Problems are found in [Coding-Challnges/](./Coding-Challenges) and located in a folder corresponding to their name. Include a markdown (.md) file describing the problem, and if possible, please include sample inputs/outputs.  
-* To submit a solution, create a folder with your name in [Contributors/](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
+* Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.  
+* To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
 * Once you add your problem and/or solution, create a pull request and we will add your code to our repo.
