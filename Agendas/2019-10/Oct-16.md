@@ -11,6 +11,7 @@
 Freeform Whiteboarding/Algorithms/Interview Prep
 
 [] Algorithms
+[] Computational Runtime (Big O)
 [] Data Structures
 [] Git
 [] Web security for web developers
