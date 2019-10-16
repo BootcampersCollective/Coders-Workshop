@@ -16,7 +16,16 @@ What's the difference between imperative and declarative programming?
 
 ## Challenges
 
-[Schedule Struct](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/subscriberStruct/subscriberStruct.md)
+### Challenge 1
+
+[Schedule Struct](../../../Coding-Challenges/subscriberStruct)
 
 "No problem," you say?
-[Depth-First Search](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/depthFirstSearch/depthFirstSearch.js) && [PrefixMap Sum](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/prefixMapSum/prefixMapSum.md)
+
+### Challenge 2
+
+[Depth-First Search](../../../Coding-Challenges/depthFirstSearch)
+
+### Challenge 3
+
+[PrefixMap Sum](../../../Coding-Challenges/prefixMapSum)

@@ -5,9 +5,7 @@ Write a function that takes two strings, s1 & s2. Have it return the longest com
 ```
 "ABAZDC", "BACBAD"  => "ABAD"
 "AGGTAB", "GXTXAYB" => "GTAB"
-
 "aaaa", "aa" => "aa"
  "", "...",  => ""
-
 "ABBA", "ABCABA" => "ABBA"
 ```

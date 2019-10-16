@@ -10,4 +10,4 @@
 
 ## Challenges
 
-[Transitive Closure](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/graph-transitiveClosure/transitiveClosure.md)
+[Graph Transitive Closure](../../../Coding-Challenges/graphTransitiveClosure)

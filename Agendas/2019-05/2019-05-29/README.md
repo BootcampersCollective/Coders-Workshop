@@ -19,12 +19,6 @@ What is Agile software development?
 
 [Clockwise Spiral](../../../Coding-Challenges/clockwiseSpiral/clockwiseSpiral.md)
 
-### Bonus
-
-Implement the above problem by creating a class with the following methods:<br>
-`next(): returns the next element in the clockwise spiral`<br>
-`has_next(): returns a boolean indicating whether there are further elements to display in the multidimensional array`
-
 ## Resources
 
 [Pull Request on Github: how-to](https://yangsu.github.io/pull-request-tutorial/)

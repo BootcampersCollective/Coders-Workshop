@@ -20,3 +20,7 @@ Calling this function max_rot (or maxRot or ... depending on the language)
 maxRot(56789); // 68957
 maxRot(38336384); // 83638433
 ```
+
+## Hint
+
+Try breaking this algorithm into more than one function.
