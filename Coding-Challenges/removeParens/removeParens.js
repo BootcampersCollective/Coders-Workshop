@@ -4,6 +4,6 @@ const removeParens = str => {
 
 };
 
-console.log(paren("()())()")); // 1
-console.log(paren("()((()()")); // 2
-console.log(paren(")(")); // 2
+console.log(removeParens("()())()")); // 1
+console.log(removeParens("()((()()")); // 2
+console.log(removeParens(")(")); // 2

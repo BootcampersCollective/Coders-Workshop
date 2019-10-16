@@ -9,31 +9,9 @@
 
 ## Challenges :muscle:
 
-### FizzBuzz
-
-Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+[FizzBuzz](../../../Coding-Challenges/fizzBuzz)
 
 Try it in a language you don't know!
-
-#### JavaScript
-
-[Level 1](https://repl.it/@andy_young/FizzBuzz-JS-1) :suspect:
-
-[Level 2](https://repl.it/@andy_young/FizzBuzz-JS-2) :rage2:
-
-[Level 3](https://repl.it/@andy_young/FizzBuzz-JS-3) :feelsgood:
-
-#### Python
-
-[Level 1](https://repl.it/@andy_young/FizzBuzz-PY-1) :trollface:
-
-[Level 2](https://repl.it/@andy_young/FizzBuzz-PY-2) :rage1:
-
-[Level 3](https://repl.it/@andy_young/FizzBuzz-PY-3) :neckbeard:
-
-\*Hard Mode: Complete any of the above problems without using the modulus (%) operator.
-
-\**Extra Challenge: Complete either of the level three problems using recursion.
 
 ## Resources
 

@@ -11,49 +11,21 @@ Show a solution not using recursion, then one with:
 
 ## Challenges
 
-### Challenge 1: Repeater
+### Challenge 1
 
-Write a function that takes an input character and returns that character repeated 5 times using recursion. For example, if the input is '**g**', then the output should be '**ggggg**'.
+[Repeater](../../../Coding-Challenges/repeater)
 
-```javascript
-console.log(typeof repeater); // 'function'
-console.log(repeater("g")); // 'ggggg'
-console.log(repeater("j")); // 'jjjjj'
-```
+### Challenge 2
 
-[solve in JavaScript](https://repl.it/@andy_young/repeaterjs)
+[Get Length](../../../Coding-Challenges/getLength)
 
-[solve in Python](https://repl.it/@andy_young/repeaterpy)
-
-### Challenge 2: getLength
-
-Get the length of an array using recursion without accessing its length property.
-
-```javascript
-console.log(getLength([1])); // -> 1
-console.log(getLength([1, 2])); // -> 2
-console.log(getLength([1, 2, 3, 4, 5])); // -> 5
-console.log(getLength([])); // -> 0
-console.log(getLength([undefined])); // -> 1
-```
-
-[solve in JavaScript](https://repl.it/@andy_young/getLengthjs)
-
-[solve in Python](https://repl.it/@andy_young/getLengthpy)
-
-### Challenge 3: Fibonacci
+### Challenge 3
 
 [Fibonacci Product](../../../Coding-Challenges/fibonacciProduct)
 
-[See Codewars.com (JavaScript)](https://www.codewars.com/kata/product-of-consecutive-fib-numbers/javascript)
-
-[See Codewars.com (Python)](https://www.codewars.com/kata/product-of-consecutive-fib-numbers/python)
-
-### :feelsgood: Hard Mode: Rotate for a Max
+### Hard Mode :feelsgood:
 
 [Max Rotation](../../../Coding-Challenges/maxRotation)
-
-Hint: Try breaking this algorithm into more than one function.
 
 ## Resources
 

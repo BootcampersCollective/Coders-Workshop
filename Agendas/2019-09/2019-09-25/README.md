@@ -2,22 +2,21 @@
 
 ## Announcements
 
-[Femme in Stem Open Board Meeting, 9/30 5pm](https://www.meetup.com/Bootcampers-Collective/events/264408096/)
-
-- Ideas? Want to share what you know about a topic? Want us to cover a topic?
+* [Femme in Stem Open Board Meeting, 9/30 5pm](https://www.meetup.com/Bootcampers-Collective/events/264408096/)
+* Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
 ## Appetizer
 
->What was the highest selling single item at WalMart in 2017?
+What was the highest selling single item at Walmart in 2017?
 
-# Topic: Strings and Character Encoding
+## Topic: Strings and Character Encoding
 
-[slides](https://slides.com/bbyunis/coder-s-workshop-2-21)
+[Slides](https://slides.com/bbyunis/coder-s-workshop-2-21)
 
-# Problems
+## Challenges
 
-[Capitalize a Title](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/capitalizeATitle/capitalizeATitle.md)  
+[Capitalize a Title](../../../Coding-Challenges/capitalizeATitle)  
 
-[Check Permutation](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/checkPermutation/checkPermutation.md)
+[Check Permutation](../../../Coding-Challenges/checkPermutation)
 
-[disemvowel](https://github.com/andy-young/Coders-Workshop/blob/master/Coding-Challenges/checkPermutation/disemvowel.md)
+[Disemvowel](../../../Coding-Challenges/disemvowel)

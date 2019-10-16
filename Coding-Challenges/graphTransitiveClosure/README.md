@@ -6,22 +6,24 @@ The transitive closure of a graph is a measure of which vertices are reachable f
 
 For example, suppose we are given the following graph in adjacency list form:
 
-```
-graph = [
-    [0, 1, 3],
-    [1, 2],
-    [2],
-    [3]
+```json
+[
+  [0, 1, 3],
+  [1, 2],
+  [2],
+  [3]
 ]
 ```
 
 The transitive closure of this graph would be:
 
-```
-[1, 1, 1, 1]
-[0, 1, 1, 0]
-[0, 0, 1, 0]
-[0, 0, 0, 1]
+```json
+[
+  [1, 1, 1, 1],
+  [0, 1, 1, 0],
+  [0, 0, 1, 0],
+  [0, 0, 0, 1]
+]
 ```
 
 Given a graph, find its transitive closure.
