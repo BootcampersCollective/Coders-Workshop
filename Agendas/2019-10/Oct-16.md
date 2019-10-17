@@ -3,6 +3,7 @@
 ## Announcements
 
 [Devs Who Drink, Thursday Oct 17 5pm](https://www.meetup.com/Bootcampers-Collective/events/bvmhhryznblb/)
+[CO.JS: JavaScript Meetup, Monday Oct 21, 6pm](https://www.meetup.com/Bootcampers-Collective/events/hhpjjryznbcc/)
 
 - Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
