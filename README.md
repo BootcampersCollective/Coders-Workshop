@@ -1,5 +1,7 @@
 # Welcome to Coders' Workshop!
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 ## About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
@@ -41,3 +43,20 @@ We love contributions! This repo consists mainly of algorithm and data-structure
 * Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.  
 * To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
 * Once you add your problem and/or solution, create a pull request and we will add your code to our repo.
+
+## Contributors
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://atydev.com"><img src="https://avatars0.githubusercontent.com/u/10835135?v=4" width="100px;" alt="Andy Young"/><br /><sub><b>Andy Young</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=andy-young" title="Code">💻</a> <a href="#content-andy-young" title="Content">🖋</a> <a href="https://github.com/andy-young/CodersWorkshop/commits?author=andy-young" title="Documentation">📖</a> <a href="#eventOrganizing-andy-young" title="Event Organizing">📋</a> <a href="#ideas-andy-young" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->

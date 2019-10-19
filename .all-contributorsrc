@@ -1,0 +1,28 @@
+{
+  "projectName": "CodersWorkshop",
+  "projectOwner": "andy-young",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [
+    {
+      "login": "andy-young",
+      "name": "Andy Young",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10835135?v=4",
+      "profile": "http://atydev.com",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "eventOrganizing",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
