@@ -1,0 +1,22 @@
+{
+  "name": "coders-workshop",
+  "private": true,
+  "homepage": "https://github.com/andy-young/Coders-Workshop#readme",
+  "bugs": {
+    "url": "https://github.com/andy-young/Coders-Workshop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-young/Coders-Workshop.git"
+  },
+  "license": "MIT",
+  "author": "Andy Young",
+  "scripts": {
+    "contribs:add": "all-contributors add",
+    "contribs:generate": "all-contributors generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.9.2"
+  }
+}
