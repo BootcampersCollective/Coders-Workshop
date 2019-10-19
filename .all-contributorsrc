@@ -9,6 +9,7 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "eslint",
+  "contributorsPerLine": 6,
   "contributors": [
     {
       "login": "andy-young",
@@ -116,6 +117,5 @@
         "code"
       ]
     }
-  ],
-  "contributorsPerLine": 7
+  ]
 }
