@@ -10,7 +10,11 @@
 * [CO.JS: JavaScript Meetup, Monday Oct 21, 6pm](https://www.meetup.com/Bootcampers-Collective/events/hhpjjryznbcc/)
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
-### Topic
+### [Appetizer](./Appetizers)
+
+*None today!*
+
+### [Topic](./Topics)
 
 Freeform whiteboarding / algorithms / interview prep
 
