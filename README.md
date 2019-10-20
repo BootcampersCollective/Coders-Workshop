@@ -1,48 +1,78 @@
 # Welcome to Coders' Workshop!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
+
+## Agenda: October 16, 2019
+
+### Announcements
+
+* [Devs Who Drink, Thursday Oct 17 5pm](https://www.meetup.com/Bootcampers-Collective/events/bvmhhryznblb/)
+* [CO.JS: JavaScript Meetup, Monday Oct 21, 6pm](https://www.meetup.com/Bootcampers-Collective/events/hhpjjryznbcc/)
+* Ideas? Want to share what you know about a topic? Want us to cover a topic?
+
+### Topic
+
+Freeform whiteboarding / algorithms / interview prep
+
+* [Algorithms](./Topics/Algorithms.md)
+* [Computational runtime (Big O)](./Topics/Computational-complexity-(Big-O).md)
+* Data Structures
+    * [Graph data structures](./Topics/Graph-data-structures.md)
+    * [Linked lists](./Topics/Linked-lists.md)
+    * [Multidimensional arrays](./Topics/Multidimensional-arrays.md)
+* [Git](./Topics/Git.md)
+* [Data security for web developers](./Topics/Data-security.md)
+
 
 ## About
 
+> [Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
+
 A meetup where programmers can develop problem solving skills & improve their technical communication.
 
-The format is simple:
+### Format
 
 1. We start with a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk) related to the technical challenge we'll be working on.
 
 2. We introduce the problem.
 
-    - We present 3 difficultly versions of "_the problem_" for you to choose from.
-    - If you pick level 1, get with another person who picked level one, or not. There's no wrong way to move forward. Mix it up! :cocktail:
+    * We present 3 difficultly versions of _"the problem"_ for you to choose from.
+    * If you pick level 1, get with another person who picked level 1, or not. There's no wrong way to move forward. Mix it up! :cocktail:
 
 3. Enter problem solving mode:
 
-    - **Phase 1:** TECHNICAL COMMUNICATION
+    * **Phase 1:** TECHNICAL COMMUNICATION
 
-        - Communicate out the problem with your partner, and feel free to chat with other groups as well!
-        - Determine what programming language you want to use.
-        - Use *white boards* or paper & markers to _pseudo-code_ your way to a solution.
+        * Communicate out the problem with your partner, and feel free to chat with other groups as well!
+        * Determine what programming language you want to use.
+        * Use *whiteboards* or paper & markers to _pseudo-code_ your way to a solution.
 
-    - **Phase 2:** [PAIR PROGRAMMING](https://en.wikipedia.org/wiki/Pair_programming)
+    * **Phase 2:** [PAIR PROGRAMMING](https://en.wikipedia.org/wiki/Pair_programming)
 
-        - Using a single machine, one person _navigates_ or talks out what to code.
-        - The _driver_ (person on machine) will listen to the navigator and manually code the algorithm.
+        * Using a single machine, one person _navigates_ or talks out what to code.
+        * The _driver_ (person on machine) will listen to the navigator and manually code the algorithm.
 
-4. Wrap-Up:
+4. Wrap-up:
 
-    - **7:45pm**
+    * **7:45pm**
 
-        - Share thoughts on what you learned
-        - Clean up your space
-        - Parting Announcements
+        * Share thoughts on what you learned
+        * Clean up your space
+        * Parting announcements
+        
+### Principles
+
+* language agnosticism
+* pair programming
+* tactics vs strategy
+    * strategy person knows how to solve algorithm, tactics person knows the language
 
 ## Want to contribute?
 
 We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
-
 * Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.  
 * To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
-* Once you add your problem and/or solution, create a pull request and we will add your code to our repo.
+* Once you add your problem and/or solution, [create a pull request](./Topics/Git.md) and we will add your code to our repo.
 
 ## Contributors
 
