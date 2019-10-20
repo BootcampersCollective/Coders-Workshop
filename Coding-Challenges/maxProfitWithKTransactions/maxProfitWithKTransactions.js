@@ -1,8 +1,7 @@
-let stocks = [5, 11, 3, 50, 60, 90];
+#!/usr/bin/env node
 
+const maxProfitWithKTransactions = (prices, k) => {
 
-function maxProfitWithKTransactions(prices, k) {
+};
 
-}
-
-console.log(maxProfitWithKTransactions(stocks, 2));
+console.log(maxProfitWithKTransactions([5, 11, 3, 50, 60, 90], 2));

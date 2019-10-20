@@ -1,0 +1,20 @@
+# Chess
+
+You are presented with an `8 by 8` matrix representing the positions of pieces on a chess board. The only pieces on the board are the black king and various white pieces. Given this matrix, determine whether the king is in check.
+
+Information on how each piece moves can be found [here](https://en.wikipedia.org/wiki/Chess_piece#Moves_of_the_pieces).
+
+For example, given the following matrix:
+
+```
+...K....
+........
+.B......
+......P.
+.......R
+..N.....
+........
+.....Q..
+```
+
+You should return `true`, since the bishop is attacking the king diagonally.

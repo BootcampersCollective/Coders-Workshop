@@ -1,3 +1,5 @@
-function maxRot(n) {
-  
-}
+#!/usr/bin/env node
+
+const maxRot = n => {
+
+};

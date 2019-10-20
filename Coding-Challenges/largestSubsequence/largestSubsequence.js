@@ -1,13 +1,11 @@
-/*
-Write a function that takes two strings, s1 & s2.
-Have it return the longest common shared subsequence.
+#!/usr/bin/env node
 
-"ABAZDC", "BACBAD"  => "ABAD"
-"AGGTAB", "GXTXAYB" => "GTAB"
+const largestSubsequence = (s1, s2) => {
 
-"aaaa", "aa" => "aa"
- "", "...",  => ""
+};
 
-"ABBA", "ABCABA" => "ABBA"
-*/
-
+console.log(largestSubsequence("ABAZDC", "BACBAD")); // "ABAD"
+console.log(largestSubsequence("AGGTAB", "GXTXAYB")); // "GTAB"
+console.log(largestSubsequence("aaaa", "aa")); // "aa"
+console.log(largestSubsequence("", "...")); // ""
+console.log(largestSubsequence("ABBA", "ABCABA")); // "ABBA"

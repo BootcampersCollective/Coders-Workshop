@@ -1,8 +1,9 @@
-function stringSplosion(str) {
+#!/usr/bin/env node
 
-}
+const stringSplosion = str => {
 
+};
 
-stringSplosion("Code") //→ "CCoCodCode"
-stringSplosion("abc")  //→ "aababc"
-stringSplosion("ab")   //→ "aab"
+console.log(stringSplosion("Code")); //→ "CCoCodCode"
+console.log(stringSplosion("abc")); //→ "aababc"
+console.log(stringSplosion("ab")); //→ "aab"
