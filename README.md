@@ -1,6 +1,6 @@
 # Welcome to Coders' Workshop!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 
 ## Agenda: October 16, 2019
 
@@ -88,7 +88,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <table>
   <tr>
     <td align="center"><a href="http://atydev.com"><img src="https://avatars0.githubusercontent.com/u/10835135?v=4" width="100px;" alt="Andy Young"/><br /><sub><b>Andy Young</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=andy-young" title="Code">💻</a> <a href="#content-andy-young" title="Content">🖋</a> <a href="https://github.com/andy-young/CodersWorkshop/commits?author=andy-young" title="Documentation">📖</a> <a href="#eventOrganizing-andy-young" title="Event Organizing">📋</a> <a href="#ideas-andy-young" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="http://bryanyunis.com"><img src="https://avatars2.githubusercontent.com/u/21317524?v=4" width="100px;" alt="Bryan Yunis"/><br /><sub><b>Bryan Yunis</b></sub></a><br /><a href="#eventOrganizing-bry-an" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="http://bryanyunis.com"><img src="https://avatars2.githubusercontent.com/u/21317524?v=4" width="100px;" alt="Bryan Yunis"/><br /><sub><b>Bryan Yunis</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=bry-an" title="Code">💻</a> <a href="#content-bry-an" title="Content">🖋</a> <a href="#eventOrganizing-bry-an" title="Event Organizing">📋</a> <a href="#ideas-bry-an" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://martinbrosenberg.com/"><img src="https://avatars2.githubusercontent.com/u/2382147?v=4" width="100px;" alt="Martin Rosenberg"/><br /><sub><b>Martin Rosenberg</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=MartinRosenberg" title="Code">💻</a> <a href="#content-MartinRosenberg" title="Content">🖋</a> <a href="https://github.com/andy-young/CodersWorkshop/commits?author=MartinRosenberg" title="Documentation">📖</a> <a href="#maintenance-MartinRosenberg" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/adamvinueza"><img src="https://avatars0.githubusercontent.com/u/6400883?v=4" width="100px;" alt="Adam Vinueza"/><br /><sub><b>Adam Vinueza</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=adamvinueza" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kellanloew"><img src="https://avatars2.githubusercontent.com/u/46457033?v=4" width="100px;" alt="Kellan Loew"/><br /><sub><b>Kellan Loew</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=kellanloew" title="Code">💻</a></td>
