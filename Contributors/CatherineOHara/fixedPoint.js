@@ -18,7 +18,11 @@ function fixedPoint(array) {
 let array1 = [-6, 0, 2, 40]
 let array2 = [0, 1, 2, 3]
 let array3 = [1, 2, 3]
+let array4 = []
+let array5 = [1, 5, 7, 8]
 
 fixedPoint(array1)
 fixedPoint(array2)
 fixedPoint(array3)
+fixedPoint(array4)
+fixedPoint(array5)
