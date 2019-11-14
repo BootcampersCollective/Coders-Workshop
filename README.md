@@ -1,6 +1,6 @@
 # Welcome to Coders' Workshop!
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 
 ## Agenda: October 16, 2019
 
@@ -100,6 +100,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/iancdavis"><img src="https://avatars1.githubusercontent.com/u/23421376?v=4" width="100px;" alt="Ian Davis"/><br /><sub><b>Ian Davis</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=iancdavis" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Patrick-Duvall"><img src="https://avatars1.githubusercontent.com/u/35322570?v=4" width="100px;" alt="Patrick-Duvall"/><br /><sub><b>Patrick-Duvall</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=Patrick-Duvall" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/JonnyDeates"><img src="https://avatars3.githubusercontent.com/u/48420377?v=4" width="100px;" alt="Jonny Deates"/><br /><sub><b>Jonny Deates</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=JonnyDeates" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/catherine-o"><img src="https://avatars1.githubusercontent.com/u/50638796?v=4" width="100px;" alt="Catherine"/><br /><sub><b>Catherine</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=catherine-o" title="Code">💻</a></td>
   </tr>
 </table>
 
