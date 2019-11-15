@@ -1,6 +1,3 @@
-// Used for a sanity check later on.
-const assert = require('assert');
-
 // A mapping of number words to numerals.
 const numberMap = {
   zero: '0',
@@ -67,36 +64,33 @@ const splitNumberWord = (anagram, wordMap) => {
   return [result, numberWord];
 };
 
-// Read the anagram in from the command line.
-let anagram = process.argv[2];
 
-// Hold on to this number: we'll need it when we perform our sanity check.
-const anagramLength = anagram.length;
+const anagramToNumber = anagram => {
 
-// The algorithm works as follows. Try to find number words from the first map
-// in the anagram, and keep removing those words from the anagram until none are
-// left. Repeat the process with the second and third maps.
-//
-// Number words found are added to an array as they are found.
-const numberWordsFound = [];
-for (let map of [ first, second, third ]) {
-  let result = '';
-  let num = null;
-  while (anagram !== result) {
-    [result, num] = splitNumberWord(anagram, map);
-    if (num !== null) {
-      numberWordsFound.push(num);
-      anagram = result;
-      result = '';
+  // The algorithm works as follows. Try to find number words from the first map
+  // in the anagram, and keep removing those words from the anagram until none are
+  // left. Repeat the process with the second and third maps.
+  //
+  // Number words found are added to an array as they are found.
+  const numberWordsFound = [];
+  for (let map of [ first, second, third ]) {
+    let result = '';
+    let num = null;
+    while (anagram !== result) {
+      [result, num] = splitNumberWord(anagram, map);
+      if (num !== null) {
+        numberWordsFound.push(num);
+        anagram = result;
+        result = '';
+      }
     }
   }
+
+  numbers = numberWordsFound.map(x => numberMap[x])
+  numbers.sort().reverse();
+  return parseInt(numbers.join(''));
 }
 
-// If the input is OK and the program is correct, the result of joining the
-// number words found in the string should be an anagram of the input string, so
-// they should at least have the same length.
-assert.equal(anagramLength, numberWordsFound.join('').length);
-
-// Print the result to the console.
-/* eslint-disable no-console */
-console.log(numberWordsFound.map(x => numberMap[x]).join(''));
+module.exports = {
+  anagramToNumber
+};
