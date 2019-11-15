@@ -9,6 +9,13 @@ sequence of numerals. For example:
 Because the input string is an anagram of a sequence of number words, the
 order of the numerals returned does not matter.
 
+To run the tests (JavaScript only):
+```
+node testAnagram.js
+```
+
+## Note on Efficiency
+
 This algorithm is not the most efficient. Its time complexity is O(nm), where
 n is the length of the input string and m is the number of number words in
 the string.
