@@ -1,25 +1,4 @@
-/**
- * Transforms an anagram of a sequence of number words to a corresponding
- * sequence of numerals. For example:
- *
- *     erhte => 3
- *     owtsxi => 26
- *     revoveoffizeine => 5501
- *
- * Because the input string is an anagram of a sequence of number words, the
- * order of the numerals returned does not matter.
- *
- * This algorithm is not the most efficient. Its time complexity is O(nm), where
- * n is the length of the input string and m is the number of number words in
- * the string. Here is one simple way to speed it up: instead of repeatedly
- * splicing the anagram string to remove the number word, we could replace
- * letters in the number word with a letter not found in any numeral (such as
- * 'k'), and just skip over occurrences of that letter when searching the
- * string. In this way, the result of removing 'zero' from 'revoveoffizeine'
- * would be 'kkvkveoffikeine', and the result of removing 'five' from that
- * string would be 'kkkkvkokfkkeine'.
- */
-
+// Used for a sanity check later on.
 const assert = require('assert');
 
 // A mapping of number words to numerals.
@@ -91,6 +70,7 @@ const splitNumberWord = (anagram, wordMap) => {
 // Read the anagram in from the command line.
 let anagram = process.argv[2];
 
+// Hold on to this number: we'll need it when we perform our sanity check.
 const anagramLength = anagram.length;
 
 // The algorithm works as follows. Try to find number words from the first map
@@ -112,9 +92,9 @@ for (let map of [ first, second, third ]) {
   }
 }
 
-// This is a quick sanity check. If the input is OK and the program is correct,
-// the result of joining the number words found in the string should be an
-// anagram of the input string, so they should at least have the same length.
+// If the input is OK and the program is correct, the result of joining the
+// number words found in the string should be an anagram of the input string, so
+// they should at least have the same length.
 assert.equal(anagramLength, numberWordsFound.join('').length);
 
 // Print the result to the console.
