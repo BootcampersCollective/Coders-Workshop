@@ -2,12 +2,11 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 
-## Agenda: October 16, 2019
+## Agenda: November 20, 2019
 
 ### Announcements
 
-* [Devs Who Drink, Thursday Oct 17 5pm](https://www.meetup.com/Bootcampers-Collective/events/bvmhhryznblb/)
-* [CO.JS: JavaScript Meetup, Monday Oct 21, 6pm](https://www.meetup.com/Bootcampers-Collective/events/hhpjjryznbcc/)
+* [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, 23 Nov 2019 at Coffee at the Point
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
 ### [Appetizer](./Appetizers)
@@ -16,17 +15,7 @@
 
 ### [Topic](./Topics)
 
-Freeform whiteboarding / algorithms / interview prep
-
-* [Algorithms](./Topics/Algorithms.md)
-* [Computational runtime (Big O)](./Topics/Computational-complexity-(Big-O).md)
-* Data Structures
-    * [Graph data structures](./Topics/Graph-data-structures.md)
-    * [Linked lists](./Topics/Linked-lists.md)
-    * [Multidimensional arrays](./Topics/Multidimensional-arrays.md)
-* [Git](./Topics/Git.md)
-* [Data security for web developers](./Topics/Data-security.md)
-
+Functional programming ([slides](https://github.com/cconstable/fp-js))
 
 ## About
 
