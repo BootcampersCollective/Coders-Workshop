@@ -7,6 +7,8 @@
 ### Announcements
 
 * [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, 23 Nov 2019 at Coffee at the Point
+* 60 Hertz is hiring a [Junior Software Engineer](https://paper.dropbox.com/doc/Junior-Software-Engineer-60Hertz--Ao~uXnL6LV4w_3f5ccA1W5IIAQ-rIX9bKxzmoy8sgZ9kp18k)
+  * They're also hiring a Mid-Senior Software Engineer, the job description just isn't written yet
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
 ### [Appetizer](./Appetizers)
