@@ -26,9 +26,11 @@ Other than the range rule, the following are true:
 
 ### Announcements
 
-* [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, 7th Dec 2019 at Coffee at the Point
-* 60 Hertz is hiring a [Junior Software Engineer](https://paper.dropbox.com/doc/Junior-Software-Engineer-60Hertz--Ao~uXnL6LV4w_3f5ccA1W5IIAQ-rIX9bKxzmoy8sgZ9kp18k)
-  * They're also hiring a Mid-Senior Software Engineer, the job description just isn't written yet
+* [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, December 7, 2019 at Galvanize on Platte
+* @ksandy95 ([@Kelly S](https://app.slack.com/team/UQZVACQ68) on Slack) would like to start a _Cracking the Coding Interview_ Book Club on Friday evenings. Conversation is in [#study-group](https://bootcamperscollective.slack.com/archives/CBXFZFXPE). Please let her know if you're interested in joining or organizing!
+* 60 Hertz is hiring...
+  * a [Junior Software Engineer](https://paper.dropbox.com/doc/Junior-Software-Engineer-60Hertz--Ao~uXnL6LV4w_3f5ccA1W5IIAQ-rIX9bKxzmoy8sgZ9kp18k)
+  * a [Mid-Senior Software Engineer](bit.ly/SE2at60h)
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
 
 ### [Appetizer](./Appetizers)
