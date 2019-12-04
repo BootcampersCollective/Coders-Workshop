@@ -2,11 +2,30 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 
-## Agenda: November 20, 2019
+## Agenda: December 4, 2019
+
+### Coding Challenge 👉🏻[ADVENT OF CODE](https://adventofcode.com/2019/day/4)
+
+ --- Day 4: Secure Container ---
+You arrive at the Venus fuel depot only to discover it's protected by a password. The Elves had written the password on a sticky note, but someone threw it out.
+
+However, they do remember a few key facts about the password:
+
+It is a six-digit number.
+The value is within the range given in your puzzle input.
+Two adjacent digits are the same (like `22` in `122345`).
+Going from left to right, the digits never decrease; they only ever increase or stay the same (like `111123` or `135679`).
+Other than the range rule, the following are true:
+
+`111111` meets these criteria (double `11`, never decreases).
+`223450` does not meet these criteria (decreasing pair of digits 50).
+`123789` does not meet these criteria (no double).
+
+**How many different passwords within the range given in your puzzle input meet these criteria?**
 
 ### Announcements
 
-* [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, 23 Nov 2019 at Coffee at the Point
+* [JS Book Club](https://www.meetup.com/Bootcampers-Collective/events/ckvjlryzpbfc/) - 10:30-12:30 on Saturday, 7th Dec 2019 at Coffee at the Point
 * 60 Hertz is hiring a [Junior Software Engineer](https://paper.dropbox.com/doc/Junior-Software-Engineer-60Hertz--Ao~uXnL6LV4w_3f5ccA1W5IIAQ-rIX9bKxzmoy8sgZ9kp18k)
   * They're also hiring a Mid-Senior Software Engineer, the job description just isn't written yet
 * Ideas? Want to share what you know about a topic? Want us to cover a topic?
@@ -17,7 +36,6 @@
 
 ### [Topic](./Topics)
 
-Functional programming ([slides](https://github.com/cconstable/fp-js))
 
 ## About
 
