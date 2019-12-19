@@ -4,7 +4,7 @@
 
 [JS Book Club, Sat. Dec 21 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/xnwtlryzqbcc/)
 
-Coders' Workshop will be on holiday break December 25th and January 1st! Join us for a new year of coding in 2020 on January 8th!  
+Coders' Workshop will be on 🎉 holiday break 🎉 December 25th and January 1st! Join us for a new year of coding in 2020 on January 8th!  
 
 January 15th is Coders' Workshop's one-year anniversary!
 
