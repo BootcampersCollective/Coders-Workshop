@@ -20,4 +20,4 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 # Challenge
 
-Convert [Hex to Base64](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hexToBase64)
+[Convert Hex to Base64](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hexToBase64)
