@@ -1,26 +1,23 @@
-# December 11, 2019
+# December 18, 2019
 
 ## Announcements
 
-[JS Book Club, Sat. Dec 14 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/xnwtlryzqbsb/)
+[JS Book Club, Sat. Dec 21 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/xnwtlryzqbcc/)
 
-[Meet n Code Monday](https://www.meetup.com/Bootcampers-Collective/events/wzwwlryzqbvb/)
+Coders' Workshop will be on holiday break December 25th and January 1st! Join us for a new year of coding in 2020 on January 8th!  
+
+January 15th is Coders' Workshop's one-year anniversary!
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
-
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
+## Topic: An Introduction to RSA and the Challenges of Implementation
 
 ## Discussion
 
-- How would you explain the difference between an API and SDK to a non-technical person?  
-[More Info](https://rapidapi.com/blog/api-vs-sdk/)
+- How would you explain web cookies to someone non-technical?
 
-## Problems
+# Challenge
 
-Follow-up from Functional Programming Lightening Talk w/ Chris Constable
-
-[Advent of Code](https://adventofcode.com/2019/)
-
-[Embolden Html](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
+Convert [Hex to Base64](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hexToBase64)
