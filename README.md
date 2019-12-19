@@ -6,7 +6,7 @@
 
 Coders' Workshop will be on 🎉 holiday break 🎉 December 25th and January 1st! Join us for a new year of coding in 2020 on January 8th!  
 
-January 15th is Coders' Workshop's one-year anniversary!
+January 15th is Coders' Workshop's one-year anniversary EXTRAVAGANZA! More details to come!
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
