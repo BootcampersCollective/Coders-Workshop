@@ -16,6 +16,6 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 # Challenge
 
-[Look And Say](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/untitled%20folder)
+[Look And Say](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/Look%20and%20Say)
 
 Manually code higher-order functions
