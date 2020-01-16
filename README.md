@@ -6,19 +6,17 @@
 
 ### Announcements
 
-* [JS Book Club, Sat. Jan 11 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbpb/)
-* Coders' Workshop will be on 🎉 holiday break 🎉 December 25th and January 1st! Join us for a new year of coding in 2020 on January 8th!  
-* Today is Coders' Workshop's one-year anniversary!
-* Thanks to [Secure Set](http://secureset.com) for hosting us in this awesome space!
-* Ideas? Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+[JS Book Club, Sat. Jan 18 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbxb/)
+[Meet n' Code Monday, Mon. Jan 20 6:00 pm](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbbc/)
+[BlogPost - Getting Started With Docker in 15 Minutes](http://adamvinueza.github.io)
 
-### [Appetizer](./Appetizers)
+Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
-_None this time!_
+- Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
 ### [Topic](./Topics)
 
-Hacking!
+Socialize, Casual Coding
 
 ### [Challenges](./Coding-Challenges)
 
@@ -30,36 +28,6 @@ Hacking!
 > [Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
-
-### Format
-
-1. We start with a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk) related to the technical challenge we'll be working on.
-
-2. We introduce the problem.
-
-    * We present 3 difficultly versions of _"the problem"_ for you to choose from.
-    * If you pick level 1, get with another person who picked level 1, or not. There's no wrong way to move forward. Mix it up! :cocktail:
-
-3. Enter problem solving mode:
-
-    * **Phase 1:** TECHNICAL COMMUNICATION
-
-        * Communicate out the problem with your partner, and feel free to chat with other groups as well!
-        * Determine what programming language you want to use.
-        * Use *whiteboards* or paper & markers to _pseudo-code_ your way to a solution.
-
-    * **Phase 2:** [PAIR PROGRAMMING](https://en.wikipedia.org/wiki/Pair_programming)
-
-        * Using a single machine, one person _navigates_ or talks out what to code.
-        * The _driver_ (person on machine) will listen to the navigator and manually code the algorithm.
-
-4. Wrap-up:
-
-    * **7:45pm**
-
-        * Share thoughts on what you learned
-        * Clean up your space
-        * Parting announcements
         
 ### Principles
 
