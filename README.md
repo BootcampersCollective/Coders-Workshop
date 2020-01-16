@@ -20,8 +20,7 @@ Socialize, Casual Coding
 
 ### [Challenges](./Coding-Challenges)
 
-* [Look And Say](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/Look%20and%20Say)
-* Manually code higher-order functions
+* [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
 
 ## About
 
