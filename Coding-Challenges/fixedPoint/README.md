@@ -1,4 +1,4 @@
-# Fixed Points
+# Fixed Point
 
 A fixed point in an array is an element whose value is equal to its index. Given a sorted array of distinct elements, return a fixed point, if one exists. Otherwise, return `false`.
 
