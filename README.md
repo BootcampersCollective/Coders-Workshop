@@ -6,8 +6,8 @@
 
 ### Announcements
 
-[JS Book Club, Sat. Jan 18 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbxb/)
-[Meet n' Code Monday, Mon. Jan 20 6:00 pm](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbbc/)
+[JS Book Club, Sat. Jan 18 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbxb/)  
+[Meet n' Code Monday, Mon. Jan 20 6:00 pm](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbbc/)  
 [BlogPost - Getting Started With Docker in 15 Minutes](http://adamvinueza.github.io)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
