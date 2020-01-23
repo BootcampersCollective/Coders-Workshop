@@ -30,8 +30,6 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## About
 
-> [Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
-
 A meetup where programmers can develop problem solving skills & improve their technical communication.
         
 ### Principles
