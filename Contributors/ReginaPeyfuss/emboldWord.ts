@@ -19,7 +19,7 @@ const constructLettersToBoldList = (word, subWordsToBold) => {
     return lettersToBoldList;
 };
 
-const constructBoldWorld = (word, lettersToBoldList) => {
+const constructBoldWord = (word, lettersToBoldList) => {
     let emboldedWord = "";
     let i = 0;
     while (i < lettersToBoldList.length) {
@@ -54,9 +54,9 @@ describe('embold-word', () => {
         expect(list).toEqual([false, true, true, false, false, false, false, false]);
 
         let lettersToBold = constructLettersToBoldList(originalWord, ["bc", "fg"]);
-        expect(constructBoldWorld(originalWord, lettersToBold)).toEqual(expectedResult);
+        expect(constructBoldWord(originalWord, lettersToBold)).toEqual(expectedResult);
         lettersToBold = constructLettersToBoldList(originalWord, ["bc", "rn"]);
-        expect(constructBoldWorld(originalWord, lettersToBold)).toEqual("a<b>bc</b>defgf");
+        expect(constructBoldWord(originalWord, lettersToBold)).toEqual("a<b>bc</b>defgf");
     })
 });
 
