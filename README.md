@@ -22,6 +22,8 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 [Courier Active Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/courierActiveTime)
 
+[Embolden HTML](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
+
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
