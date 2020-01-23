@@ -1,4 +1,4 @@
-# Embolden
+# Embolden HTML
 
 Implement the function embolden(s, lst) which takes in a string s and list of substrings lst, and wraps all substrings in s with an HTML bold tag `<b>` and `</b>`.
 
