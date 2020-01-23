@@ -15,7 +15,8 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Hacking
 
-## Discussion: Describe what happens when you type a URL into your browser and press Enter
+## Discussion  
+Describe what happens when you type a URL into your browser and press Enter
 
 ## Challenge
 [Greatest Common Denominator](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
