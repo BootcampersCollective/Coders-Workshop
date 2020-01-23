@@ -2,13 +2,23 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 15, 2020
+## Agenda: January 22, 2020
 
-### Announcements
+## Announcements
 
-[JS Book Club, Sat. Jan 18 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbxb/)  
-[Meet n' Code Monday, Mon. Jan 20 6:00 pm](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbbc/)  
-[BlogPost - Getting Started With Docker in 15 Minutes](http://adamvinueza.github.io)
+[JS Book Club, Sat. Jan 25 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbhc/)  
+[Meet n' Code Monday, Mon. Jan 27, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbkc/)
+
+Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
+
+- Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+
+## Topic: Hacking
+
+## Discussion: Describe what happens when you type a URL into your browser and press Enter
+
+## Challenge
+[Greatest Common Denominator](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
