@@ -20,17 +20,11 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 ## Challenge
 [Greatest Common Denominator](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
 
+[Courier Active Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/courierActiveTime)
+
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
-
-### [Topic](./Topics)
-
-Socialize, Casual Coding
-
-### [Challenges](./Coding-Challenges)
-
-* [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
 
 ## About
 
