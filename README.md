@@ -1,29 +1,25 @@
-# Welcome to Coders' Workshop!
+# Welcome to Coders' Workshop
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 22, 2020
+## Agenda January 22, 2020
 
 ## Announcements
 
-[JS Book Club, Sat. Jan 25 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybccbhc/)  
-[Meet n' Code Monday, Mon. Jan 27, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybccbkc/)
+[JS Book Club, Sat. Feb 1 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbcb/)  
+[Meet n' Code Monday, Mon. Feb 3, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbfb/)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: Hacking
+## Topic: Binary
 
-## Discussion  
-Describe what happens when you type a URL into your browser and press Enter
+## Discussion: Describe what happens when you type a URL into your browser and press Enter
 
 ## Challenge
-[Greatest Common Denominator](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
 
-[Courier Active Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/courierActiveTime)
-
-[Embolden HTML](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
+[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
@@ -32,17 +28,18 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 ## About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
-        
+
 ### Principles
 
 * language agnosticism
 * pair programming
 * tactics vs strategy
-    * strategy person knows how to solve algorithm, tactics person knows the language
+  * strategy person knows how to solve algorithm, tactics person knows the language
 
-## Want to contribute?
+## Want to contribute
 
 We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
+
 * Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.  
 * To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
 * Once you add your problem and/or solution, [create a pull request](./Topics/Git.md) and we will add your code to our repo.
