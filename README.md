@@ -23,10 +23,6 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 [Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
 
-Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
-
-- Have a topic you're interested in? Want to cover something in a group setting? Let us know!
-
 ## About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
