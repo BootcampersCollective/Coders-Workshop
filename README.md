@@ -15,26 +15,21 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Hacking
 
-## Discussion: Describe what happens when you type a URL into your browser and press Enter
+## Discussion  
+Describe what happens when you type a URL into your browser and press Enter
 
 ## Challenge
 [Greatest Common Denominator](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
+
+[Courier Active Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/courierActiveTime)
+
+[Embolden HTML](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-### [Topic](./Topics)
-
-Socialize, Casual Coding
-
-### [Challenges](./Coding-Challenges)
-
-* [Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-
 ## About
-
-> [Slides](https://slides.com/andyyoung-2/coder-s-workshop/fullscreen)
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
         
