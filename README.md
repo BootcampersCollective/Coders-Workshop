@@ -23,7 +23,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 [Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
 
-**Challenging** [Check if Binary Sparse](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/checkIfSparseBinary)
+**♦♦Challenging♦♦** [Check if Binary Sparse](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/checkIfSparseBinary)
 
 ## About
 
