@@ -1,4 +1,6 @@
-
+/**
+ * Author: Regina Peyfuss
+ */
 class ServerManager {
 
 	def getServers: List[Server] = {

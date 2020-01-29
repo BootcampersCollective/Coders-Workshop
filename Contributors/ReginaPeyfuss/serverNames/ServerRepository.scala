@@ -1,3 +1,6 @@
+/**
+ * Author: Regina Peyfuss
+ */
 object ServerRepository {
 	var serverMap: Map[String, Set[Int]] = Map (
 		"API" -> Set.empty[Int],
@@ -5,5 +8,4 @@ object ServerRepository {
 		"SEARCH" -> Set.empty[Int]
 	)
 	var existingServers: List[Server] = List.empty[Server]
-
 }

@@ -1,3 +1,7 @@
+/**
+ * Author: Regina Peyfuss
+ */
+
 import play.api.libs.json.Json
 
 case class Server(name: String)
