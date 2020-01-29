@@ -15,7 +15,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Binary
 
-## Discussion: Describe what happens when you type a URL into your browser and press Enter
+## Discussion: Binary Numbers
 
 ## Challenge
 
