@@ -34,7 +34,7 @@ A meetup where programmers can develop problem solving skills & improve their te
 * language agnosticism
 * pair programming
 * tactics vs strategy
-  * strategy person knows how to solve algorithm, tactics person knows the language
+  * strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
 
 ## Want to contribute
 
