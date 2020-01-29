@@ -17,11 +17,13 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Discussion: Binary Numbers
 
-## Challenge
+## Challenges
 
 [Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)  
 
-[Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
+[Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
+
+**Challenging** [Check if Binary Sparse](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/checkIfSparseBinary)
 
 ## About
 
