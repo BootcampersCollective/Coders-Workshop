@@ -15,15 +15,13 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Binary
 
-## Discussion: Describe what happens when you type a URL into your browser and press Enter
+## Discussion: Binary Numbers
 
 ## Challenge
 
-[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)
+[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)  
 
-Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
-
-- Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+[Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
 
 ## About
 
