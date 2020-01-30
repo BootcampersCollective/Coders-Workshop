@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda January 22, 2020
+## Agenda January 29, 2020
 
 ## Announcements
 
