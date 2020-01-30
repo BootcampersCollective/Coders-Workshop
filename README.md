@@ -19,7 +19,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Challenges
 
-[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)  
+[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/binary-nextBiggestInteger)  
 
 [Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
 
