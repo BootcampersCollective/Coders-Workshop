@@ -2,26 +2,19 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda January 22, 2020
+## Agenda February 5, 2020
 
 ## Announcements
 
-[JS Book Club, Sat. Feb 1 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbcb/)  
-[Meet n' Code Monday, Mon. Feb 3, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbfb/)
+[JS Book Club, Sat. Feb 8 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdblb/)  
+[Meet n' Code Monday, Mon. Feb 10, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbnb/)
+[Devs Who Drink Happy Hour @ Code Talent, Tue. Feb 11, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/bvmhhrybcdbpb/)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: Binary
-
-## Discussion: Binary Numbers
-
-## Challenge
-
-[Next Biggest Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/greatestCommonDenominator)  
-
-[Longest Consecutive Ones](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
+## Topic: S.O.L.I.D. Design Principles
 
 ## About
 
