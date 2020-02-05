@@ -15,6 +15,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
 ## Topic: S.O.L.I.D. Design Principles
+*presented by Regina Peyfuss*
 
 ## About
 
