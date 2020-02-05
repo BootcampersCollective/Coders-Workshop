@@ -2,7 +2,15 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
+<<<<<<< HEAD
+
 ## Agenda February 5, 2020
+
+=======
+
+## Agenda January 29, 2020
+
+>>>>>>> 07189c607028c756ad55e7821a8167fa9e7bf01a
 
 ## Announcements
 
@@ -25,7 +33,7 @@ A meetup where programmers can develop problem solving skills & improve their te
 * language agnosticism
 * pair programming
 * tactics vs strategy
-  * strategy person knows how to solve algorithm, tactics person knows the language
+  * strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
 
 ## Want to contribute
 
