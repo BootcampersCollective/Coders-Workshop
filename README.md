@@ -2,20 +2,28 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda February 5, 2020
+# Agenda February 19, 2020
 
 ## Announcements
 
-[JS Book Club, Sat. Feb 8 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdblb/)  
-[Meet n' Code Monday, Mon. Feb 10, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbnb/)
-[Devs Who Drink Happy Hour @ Code Talent, Tue. Feb 11, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/bvmhhrybcdbpb/)
+[JS Book Club, Sat. Feb 22, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbdc//)  
+[Meet n' Code Monday, Mon. Feb 24, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbgc/)
+
+Next week: Docker 101 with Adam Vinueza!
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: S.O.L.I.D. Design Principles
-*presented by Regina Peyfuss*
+## Topic: Open Code
+
+## Discussion: QA this can of Diet Coke
+
+## Challenge
+
+[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/maxProfit)
+[Human Readable Time](https://github.com/BootcampersCollective/Coders-Workshop/blob/master/Coding-Challenges/humanReadableTime/humanReadableTime.md)
+
 
 ## About
 
