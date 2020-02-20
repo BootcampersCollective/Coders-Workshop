@@ -1,8 +1,6 @@
 export function validSentence(string: string): boolean {
   const TESTS = [startsWithCaps, remainingAllLowers, allValidChars, noMultispaces, validTerminal];
-  return TESTS.reduce((passSoFar: boolean, testFunc: (s: string) => boolean): boolean => {
-    return passSoFar && testFunc(string);
-  }, true);
+  return TESTS.every((testFunc) => testFunc(string));
 }
 
 function startsWithCaps(string: string): boolean {
