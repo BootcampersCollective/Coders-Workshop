@@ -6,7 +6,7 @@
 
 ## Announcements
 
-[JS Book Club, Sat. Feb 22, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbdc//)  
+[JS Book Club, Sat. Feb 22, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbdc/)   
 [Meet n' Code Monday, Mon. Feb 24, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbgc/)
 
 Next week: Docker 101 with Adam Vinueza!
