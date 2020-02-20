@@ -17,7 +17,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Open Code
 
-## Discussion: QA this can of Diet Coke
+## Discussion: QA this can of Diet Pepsi
 
 ## Challenge
 
