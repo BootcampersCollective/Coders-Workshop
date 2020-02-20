@@ -6,7 +6,7 @@ We can consider a sentence valid if it conforms to the following rules:
 
 * The sentence must start with a capital letter, followed by a lowercase letter or a space.
 
-* All other characters must be lowercase letters, separators (`,`,`;`,`:`) or terminal marks (`.`,`?`,`!`,`‽`).
+* All other characters must be lowercase letters, separators (`,`,`;`,`:`) or terminal marks (`.`,`?`,`!`).
 
 * There must be a single space between each word.
 
