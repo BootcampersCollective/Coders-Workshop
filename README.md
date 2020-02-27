@@ -18,7 +18,7 @@ Go to <https://www.docker.com/get-started> to download Docker on your machine if
 
 ## Challenge: Docker Workshop
 
-[Docker In 15](https://adamvinueza.github.io/docker/learning/2020/01/10/docker-in-fifteen.html)
+[Resource: Docker In 15](https://adamvinueza.github.io/docker/learning/2020/01/10/docker-in-fifteen.html)
 
 
 ## About
