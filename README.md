@@ -2,27 +2,21 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-# Agenda February 19, 2020
+# February 26, 2020
 
 ## Announcements
 
-[JS Book Club, Sat. Feb 22, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbdc/)   
-[Meet n' Code Monday, Mon. Feb 24, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbgc/)
-
-Next week: Docker 101 with Adam Vinueza!
+[Meet n' Code Monday, Mon. March 2, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbdb/)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: Open Code
+## Topic: Docker 101 with Adam Vinueza
 
-## Discussion: QA this can of Diet Pepsi
+Go to <https://www.docker.com/get-started> to download Docker on your machine if you don't already have it.
 
-## Challenge
-
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/maxProfit)
-[Human Readable Time](https://github.com/BootcampersCollective/Coders-Workshop/blob/master/Coding-Challenges/humanReadableTime/humanReadableTime.md)
+## Challenge: Docker Workshop
 
 
 ## About
