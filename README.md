@@ -2,24 +2,31 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-# February 26, 2020
+# March 4, 2020
 
 ## Announcements
 
-[Meet n' Code Monday, Mon. March 2, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbdb/)
+[Meet n' Code Monday, Mon. March 9, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbmb/)
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: Docker 101 with Adam Vinueza
+## Topic: Traversing a Maze
 
-Go to <https://www.docker.com/get-started> to download Docker on your machine if you don't already have it.
+### Resources
 
-## Challenge: Docker Workshop
+[Breadth First Search](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
 
-[Resource: Docker In 15](https://adamvinueza.github.io/docker/learning/2020/01/10/docker-in-fifteen.html)
+[Breadth First Search Example (Python)](https://github.com/adamvinueza/graphs/blob/master/python/bfs.py)
 
+[Route Finding Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
+
+[Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+## Challenge: Traverse Maze
+
+[Traverse Maze](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/traverseMaze)
 
 ## About
 
