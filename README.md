@@ -14,7 +14,7 @@ Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome s
 
 ## Topic: Open Hacking
 
-[Rotate Matrix]()
+[Rotate Matrix](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateMatrix)
 
 ## About
 
