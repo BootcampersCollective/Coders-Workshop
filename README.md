@@ -7,7 +7,9 @@
 ## Announcements
 
 [Software Skill Share: Typescript Decorators, Sat. Mar. 14, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/nrfjqrybcfbsb/)  
+
 [Meet n' Code Monday, Mon. Mar. 16, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbvb/)  
+
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
