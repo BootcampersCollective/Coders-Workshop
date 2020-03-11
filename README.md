@@ -2,31 +2,19 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-# March 4, 2020
+# March 11, 2020
 
 ## Announcements
 
-[Meet n' Code Monday, Mon. March 9, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbmb/)
-
+[Software Skill Share: Typescript Decorators, Sat. Mar. 14, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/nrfjqrybcfbsb/)  
+[Meet n' Code Monday, Mon. Mar. 16, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbvb/)  
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-## Topic: Traversing a Maze
+## Topic: Open Hacking
 
-### Resources
-
-[Breadth First Search](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
-
-[Breadth First Search Example (Python)](https://github.com/adamvinueza/graphs/blob/master/python/bfs.py)
-
-[Route Finding Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding)
-
-[Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-
-## Challenge: Traverse Maze
-
-[Traverse Maze](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/traverseMaze)
+[Rotate Matrix]()
 
 ## About
 
