@@ -11,6 +11,9 @@
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+## Discussion
+
+What is space complexity? How does it factor into software development?
 
 ## Topic: Open Hacking
 
