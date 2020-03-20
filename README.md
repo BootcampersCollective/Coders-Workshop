@@ -2,28 +2,24 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-# Agenda February 19, 2020
+# March 11, 2020
 
 ## Announcements
 
-[JS Book Club, Sat. Feb 22, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/kxbpmrybcdbdc/)   
-[Meet n' Code Monday, Mon. Feb 24, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcdbgc/)
+[Software Skill Share: Typescript Decorators, Sat. Mar. 14, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/nrfjqrybcfbsb/)  
 
-Next week: Docker 101 with Adam Vinueza!
+[Meet n' Code Monday, Mon. Mar. 16, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbvb/)  
 
 Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+## Discussion
 
-## Topic: Open Code
+What is space complexity? How does it factor into software development?
 
-## Discussion: QA this can of Diet Pepsi
+## Topic: Open Hacking
 
-## Challenge
-
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/maxProfit)
-[Human Readable Time](https://github.com/BootcampersCollective/Coders-Workshop/blob/master/Coding-Challenges/humanReadableTime/humanReadableTime.md)
-
+[Rotate Matrix](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateMatrix)
 
 ## About
 
