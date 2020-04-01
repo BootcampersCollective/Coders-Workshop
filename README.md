@@ -2,26 +2,23 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-# March 11, 2020
+## Agenda: April 1, 2020
 
-## Announcements
+### Announcements
 
-[Software Skill Share: Typescript Decorators, Sat. Mar. 14, 10:30 a.m.](https://www.meetup.com/Bootcampers-Collective/events/nrfjqrybcfbsb/)  
-
-[Meet n' Code Monday, Mon. Mar. 16, 6:00 p.m.](https://www.meetup.com/Bootcampers-Collective/events/fwfwmrybcfbvb/)  
-
-Thanks to [Secure Set](http://go.secureset.com) for hosting us in this awesome space!
+Bootcampers Collective is working to migrate events online! Check out [Bootcampers Meetup Page](https://www.meetup.com/Bootcampers-Collective/) for the latest.
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
-## Discussion
 
-What is space complexity? How does it factor into software development?
+### Discussion: Software Development in the time of COVID-19
 
-## Topic: Open Hacking
+- Could the internet go down?
 
-[Rotate Matrix](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateMatrix)
+- [Job Searching in the Time of Covid](https://dev.to/bekahhw/job-searching-in-the-time-of-covid-19-1jei)
 
-## About
+- Tips or advice for those looking for work, or those navigating WFH-life?
+
+### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
 
