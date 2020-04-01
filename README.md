@@ -19,7 +19,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 - Tips or advice for those looking for work, or those navigating WFH-life?
 
 ### Challenges
-[Integer Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/integerPalindrome)
+[Integer Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/integerPalindrome)  
 [Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
 
 ### About
