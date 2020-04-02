@@ -10,13 +10,17 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-### Discussion: Software Development in the time of COVID-19
+### Discussion: Software Development in the Time of COVID-19
 
 - Could the internet go down?
 
 - [Job Searching in the Time of Covid](https://dev.to/bekahhw/job-searching-in-the-time-of-covid-19-1jei)
 
 - Tips or advice for those looking for work, or those navigating WFH-life?
+
+### Challenges
+[Integer Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/integerPalindrome)  
+[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
 
 ### About
 
