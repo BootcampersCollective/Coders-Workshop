@@ -1,4 +1,6 @@
-
+/**
+ * Author: Regina Peyfuss
+ */
 import javax.inject.Inject
 import play.api.libs.json.{JsValue, Json}
 import play.api.mvc.{AbstractController, Action, AnyContent, ControllerComponents}
@@ -31,5 +33,4 @@ class ServerController  @Inject()(serverManager: ServerManager, cc: ControllerCo
 			}
 		}
 	}
-
 }
