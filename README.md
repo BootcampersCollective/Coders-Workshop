@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 1, 2020
+## Agenda: April 8, 2020
 
 ### Announcements
 
@@ -12,15 +12,11 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion: Software Development in the Time of COVID-19
 
-- Could the internet go down?
-
-- [Job Searching in the Time of Covid](https://dev.to/bekahhw/job-searching-in-the-time-of-covid-19-1jei)
-
 - Tips or advice for those looking for work, or those navigating WFH-life?
 
-### Challenges
-[Integer Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/integerPalindrome)  
-[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
+### Topic
+
+Open Code!
 
 ### About
 
