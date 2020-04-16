@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 8, 2020
+## Agenda: April 15, 2020
 
 ### Announcements
 
@@ -10,13 +10,14 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-### Discussion: Software Development in the Time of COVID-19
-
-- Tips or advice for those looking for work, or those navigating WFH-life?
-
 ### Topic
 
 Open Code!
+
+### Challenges
+[Shuffle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shuffle)
+
+[Sorting Window](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sortingWindow)
 
 ### About
 
