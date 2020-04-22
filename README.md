@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 15, 2020
+## Agenda: April 22, 2020
 
 ### Announcements
 
@@ -15,7 +15,8 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 Open Code!
 
 ### Challenges
-[Shuffle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shuffle)
+
+[Longest Consecutive Sequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveSequence)
 
 [Sorting Window](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sortingWindow)
 
