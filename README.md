@@ -20,6 +20,8 @@ Open Code!
 
 [Sorting Window](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sortingWindow)
 
+[Linked-list Intersection](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/linkedListIntersection)
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
