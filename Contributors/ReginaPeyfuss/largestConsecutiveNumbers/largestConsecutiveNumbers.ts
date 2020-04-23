@@ -2,26 +2,23 @@
 export const largestConsecutiveNumbers = (arr: number[]) => {
     let hashMap = {};
     arr.forEach(item => hashMap[item] = item);
-    let count = 0;
+    let count = 1;
     let answer = 0;
     let i = 0;
-    let checkedItems = 0;
+    const keys = Object.keys(hashMap).map( item => parseInt(item));
 
-    while (i < arr.length && checkedItems < arr.length) {
-        let num = arr[i];
-        while (hashMap[--num]) {
-            checkedItems++;
+    while (i < keys.length-1) {
+        while (keys[i]+1 == keys[i+1]) {
             count++;
+            i++;
         }
-        while (hashMap[++num]) {
-            checkedItems++;
-            count++;
-        }
-
         if (count > answer) {
             answer = count;
-            count = 0;
+            count = 1;
+            i--;
         }
+        i++;
     }
     return answer;
+
 }
