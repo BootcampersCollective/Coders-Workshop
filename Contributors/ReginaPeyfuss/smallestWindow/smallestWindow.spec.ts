@@ -17,6 +17,10 @@ describe('SmallestWindow', () => {
         let smallestWindow = smallestWindow([7,6,5,8,9,10,4,5]);
         expect(smallestWindow).toEqual([0,2])
     });
+    it ('should return smallest window to sort for []', () => {
+        let smallestWindow = smallestWindow([]);
+        expect(smallestWindow).toEqual([])
+    });
 
 
 })

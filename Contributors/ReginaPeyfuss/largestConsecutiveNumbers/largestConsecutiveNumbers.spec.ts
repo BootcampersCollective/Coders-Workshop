@@ -11,8 +11,11 @@ describe('LargestConsecutiveNumbers', () => {
     });
     it ('should check largest consecutive numbers [2,5,6,3,4]', () => {
         let consecutiveNumbers = largestConsecutiveNumbers([2,5,6,3,4]);
-        expect(consecutiveNumbers).toEqual(5
-        )
+        expect(consecutiveNumbers).toEqual(5)
+    });
+    it ('should check largest consecutive numbers []', () => {
+        let consecutiveNumbers = largestConsecutiveNumbers([]);
+        expect(consecutiveNumbers).toEqual(0)
     });
     
 })

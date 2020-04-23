@@ -1,5 +1,6 @@
 
 export const smallestWindow = (arr: number[]) => {
+    if(!arr) return [];
     let startIndex = 0;
     let endIndex = arr.length-1;
     let answer = [];

@@ -1,5 +1,6 @@
 
 export const largestConsecutiveNumbers = (arr: number[]) => {
+    if(!arr) return 0;
     let hashMap = {};
     arr.forEach(item => hashMap[item] = item);
     let count = 1;
