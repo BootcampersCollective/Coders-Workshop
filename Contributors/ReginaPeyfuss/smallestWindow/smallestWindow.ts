@@ -4,9 +4,7 @@ export const smallestWindow = (arr: number[]) => {
     let endIndex = arr.length-1;
     let answer = [];
     let diff = arr.length-1;
-
     let i = 0;
-    let j = arr.length-1;
 
     while (i < arr.length-1) {
         while(arr[startIndex] <= arr[i+1]){
