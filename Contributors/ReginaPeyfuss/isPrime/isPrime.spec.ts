@@ -1,4 +1,4 @@
-import { isPrime } from '.isPrime';
+import { isPrime } from './isPrime';
 
 describe("IsPrime", () => {
     it ('should check prime numbers', () => {
