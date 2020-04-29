@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 22, 2020
+## Agenda: April 29, 2020
 
 ### Announcements
 
@@ -16,11 +16,7 @@ Open Code!
 
 ### Challenges
 
-[Longest Consecutive Sequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveSequence)
-
-[Sorting Window](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sortingWindow)
-
-[Linked-list Intersection](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/linkedListIntersection)
+[Rotate To Smallest String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateToSmallestString)
 
 ### About
 
