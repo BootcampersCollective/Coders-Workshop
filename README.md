@@ -18,6 +18,8 @@ Open Code!
 
 [Rotate To Smallest String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateToSmallestString)
 
+[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
