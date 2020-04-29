@@ -20,6 +20,8 @@ Open Code!
 
 [Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
 
+[Disemvowel](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/disemvowel)
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
