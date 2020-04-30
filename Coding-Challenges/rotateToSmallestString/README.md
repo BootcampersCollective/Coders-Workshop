@@ -1,6 +1,6 @@
 # Rotate to Smallest String
 
-You are given a string of. The string can be manipulated by taking the first letter and moving it to the end.
+You are given a string. The string can be manipulated by taking the first letter and moving it to the end.
 
 Write a program to determine the lexicographically smallest string that can be created after an unlimited number of moves.
 
