@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 29, 2020
+## Agenda: May 6, 2020
 
 ### Announcements
 
@@ -12,15 +12,17 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Open Code!
+Regex
 
 ### Challenges
 
-[Rotate To Smallest String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rotateToSmallestString)
-
-[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)
-
 [Disemvowel](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/disemvowel)
+
+[PascalCase to snake_case](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/PascalCase-to-snake_case)
+
+### Resources
+
+[Regex101](https://regex101.com/)
 
 ### About
 
