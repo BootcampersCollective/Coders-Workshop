@@ -2,21 +2,25 @@
 
 // 'coder' => ['c', 'o', 'd', 'e', 'r']
 // ['c', 'o', 'd', 'e', 'r'] => ['c', 'd', 'r']
+const assert = require("assert");
 
 function disemvowel(str) {
-    const strArr = str.split('');
-    const returnArr = [];
-    const vowels = ['a', 'e', 'i', 'o', 'u'];
+  const strArr = str.split("");
+  const returnArr = [];
+  const vowels = ["a", "e", "i", "o", "u"];
 
-    // /[^aeiou]/
+  // /[^aeiou]/
 
-    strArr.forEach(char => {
-        // if char is vowel, skip, otherwise push to returnArr
-       if (!vowels.includes(char)) {
-            returnArr.push(char);
-       }
-    })
-    return returnArr.join('');
-};
+  strArr.forEach((char) => {
+    // if char is vowel, skip, otherwise push to returnArr
+    if (!vowels.includes(char)) {
+      returnArr.push(char);
+    }
+  });
+  return returnArr.join("");
+}
 
-console.log(disemvowel('coder'))
+const disemvowelRegex = (str) => str.toLowerCase().replace(/[aeiou]/g, "");
+
+assert.equal(disemvowelRegex("Djibouti"), "djbt");
+console.log("All tests passed!");
