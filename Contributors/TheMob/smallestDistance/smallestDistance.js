@@ -7,7 +7,7 @@
 
 
 
-const findTheDistance = (str1, str2, phrase) => {
+const findTheDistanceLinear = (str1, str2, phrase) => {
   const words = phrase.split(" ");
   let str1Indices = [];
   let str2Indices = [];
@@ -38,7 +38,7 @@ const findTheDistance = (str1, str2, phrase) => {
 
 }; 
 
-const findTheDistanceNested = (str1, str2, phrase) => {
+const findTheDistanceQuadratic = (str1, str2, phrase) => {
     const words = phrase.split(" ");
   let str1Indices = [];
   let str2Indices = [];
