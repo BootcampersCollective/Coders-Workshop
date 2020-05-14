@@ -1,10 +1,5 @@
 const assert = require("assert");
 
-// For example, the string `"AAAABBBCCDAA"` would be encoded as `"4A3B2C1D2A"`.
-
-// main function iterates - stores return string
-// helper function counts
-
 const encoderDecoder = str => {
     if (/[0-9]/.test(str)) {
       return decode(str);
@@ -45,7 +40,6 @@ const decode = str => {
   return decoded;
 };
 
-// console.log(encode("AAAABBBCCDAAD"))
 
 assert.deepEqual(encoderDecoder("AAAABBBCCD"), "4A3B2C1D");
 assert.deepEqual(encoderDecoder("4A3B2C1D"), "AAAABBBCCD");
