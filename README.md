@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 13, 2020
+## Agenda: May 20, 2020
 
 ### Announcements
 
@@ -10,15 +10,19 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
+### Conceptual
+
+What angle do the clock hands make at 3:15?
+
 ### Topic
 
 Algorithms!
 
 ### Challenges
 
-[Run-length encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)
+[Clock Hand Angle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/clockHandAngle)
 
-[Smallest Distance](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/smallestDistance)
+[Smaller Elements to the Right](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/smallerElementsToTheRight)
 
 ### About
 
