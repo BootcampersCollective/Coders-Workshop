@@ -20,9 +20,9 @@ Algorithms!
 
 ### Challenges
 
-[Clock Hand Angle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/clockHandAngle)
-
 [Smaller Elements to the Right](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/smallerElementsToTheRight)
+
+[Clock Hand Angle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/clockHandAngle)
 
 ### About
 
