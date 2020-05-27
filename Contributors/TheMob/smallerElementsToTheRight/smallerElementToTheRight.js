@@ -4,6 +4,12 @@
 
 
 const smallerToTheRight = arr => {
+
+    return arr
+        .map((e, i) => arr
+            .slice(i < arr.length ? i + 1 : i)
+            .map(item => item
+    // )
     
     // map over input array:
         // arr[i] => how many elements to the right are smaller than arr[i]
