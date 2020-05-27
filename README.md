@@ -10,8 +10,6 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-### Conceptual
-
 ### Topic
 
 Algorithms!
