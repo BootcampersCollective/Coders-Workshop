@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 20, 2020
+## Agenda: May 27, 2020
 
 ### Announcements
 
@@ -12,17 +12,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Conceptual
 
-What angle do the clock hands make at 3:15?
-
 ### Topic
 
 Algorithms!
 
 ### Challenges
 
-[Smaller Elements to the Right](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/smallerElementsToTheRight)
+[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)
 
-[Clock Hand Angle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/clockHandAngle)
+[Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
 
 ### About
 
