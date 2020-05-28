@@ -20,6 +20,8 @@ Algorithms!
 
 [Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
 
+[Count Words](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/countWords)
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
