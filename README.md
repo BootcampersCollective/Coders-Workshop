@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 27, 2020
+## Agenda: June 3, 2020
 
 ### Announcements
 
@@ -16,11 +16,9 @@ Algorithms!
 
 ### Challenges
 
-[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)
-
-[Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
-
-[Count Words](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/countWords)
+[Sum to K](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sumToK)  
+[JS Higher Order Functions](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions)
+[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)
 
 ### About
 
