@@ -16,9 +16,10 @@ Algorithms!
 
 ### Challenges
 
-[Sum to K](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sumToK)  
+[Sum to K](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sumToK) 
+[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)  
 [JS Higher Order Functions](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions)
-[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)
+
 
 ### About
 
