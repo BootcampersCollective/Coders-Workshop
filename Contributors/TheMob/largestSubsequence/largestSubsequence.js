@@ -17,7 +17,7 @@ const longestSharedSubsq = (s1, s2) => {
     const s2Arr = s2.split('');
 
     // ['A', 'B', 'A', 'D', C']
-    // ['B', 'A', 'B', 'A', D']
+    // ['B', 'A', 'A', 'B', 'A', D']
 
     // iterate through first array
     // see if current element is in second array
@@ -26,11 +26,9 @@ const longestSharedSubsq = (s1, s2) => {
     let subStrArr = []
     let nextIndex = 0
     for (let i = 0; i < s1Arr.length; i++) {
-        const index = s2Arr.indexOf(s1Arr[i]);
+        const index = s2Arr.indexOf(s1Arr[i], nextIndex);
         
         if (index !== -1) {
-            s2Arr.splice(index, 1)
-
             nextIndex = index + 1
             // while loop
             const newSubStrArr = []
