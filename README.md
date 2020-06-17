@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 3, 2020
+## Agenda: June 17, 2020
 
 ### Announcements
 
