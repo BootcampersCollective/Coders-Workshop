@@ -18,9 +18,9 @@ Algorithms!
 
 [JS Higher Order Functions](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions)
 
-[Pretty Names](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prettyNames)
-
 [All Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)
+
+[Hop Through Arrahy](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
 
 ### About
 
