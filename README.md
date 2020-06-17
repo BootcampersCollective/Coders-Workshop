@@ -20,7 +20,7 @@ Algorithms!
 
 [All Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)
 
-[Hop Through Arrahy](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
+[Hop Through Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
 
 ### About
 
