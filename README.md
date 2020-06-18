@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 3, 2020
+## Agenda: June 17, 2020
 
 ### Announcements
 
@@ -20,7 +20,7 @@ Algorithms!
 
 [All Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)
 
-[Hop Through Arrahy](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
+[Hop Through Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
 
 ### About
 
