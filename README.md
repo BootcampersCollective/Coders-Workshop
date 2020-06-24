@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 17, 2020
+## Agenda: June 24, 2020
 
 ### Announcements
 
@@ -16,11 +16,8 @@ Algorithms!
 
 ### Challenges
 
-[JS Higher Order Functions](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions)
-
-[All Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)
-
-[Hop Through Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughArray)
+[Bubble Sort!](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/bubbleSort)  
+[Multiplication Table](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/multiplicationTable)
 
 ### About
 
