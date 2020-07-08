@@ -20,6 +20,7 @@ Algorithms!
 [Views of the Sunset](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/viewsOfTheSunset)  
 [Find the Outlier](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findTheOutlier)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
+[Human Readable Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/humanReadableTime)  
 
 ### About
 
