@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 8, 2020
+## Agenda: July 15, 2020
 
 ### Announcements
 
@@ -15,11 +15,10 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 Algorithms!
 
 ### Challenges
-
-[Consecutive Alphabetical Letters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveAlphabeticalLetters)  
-[Views of the Sunset](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/viewsOfTheSunset)  
+  
 [Find the Outlier](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findTheOutlier)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
+[Views of the Sunset](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/viewsOfTheSunset)  
 [Human Readable Time](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/humanReadableTime)  
 
 ### About
