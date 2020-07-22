@@ -16,8 +16,10 @@ Algorithms!
 
 ### Challenges
   
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
+[Factorial](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/factorial)  
 [Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
+[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)
+[Dominoes](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/dominoes)
 
 ### About
 
