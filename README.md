@@ -16,9 +16,10 @@ Algorithms!
 
 ### Challenges
   
+[Remove Anagrams](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/removeAnagrams)
 [Factorial](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/factorial)  
 [Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)
+[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
 [Dominoes](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/dominoes)
 
 ### About
