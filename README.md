@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 22, 2020
+## Agenda: July 28, 2020
 
 ### Announcements
 
@@ -16,11 +16,9 @@ Algorithms!
 
 ### Challenges
   
-[Remove Anagrams](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/removeAnagrams)
 [Factorial](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/factorial)  
-[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
-[Dominoes](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/dominoes)
+[Prefix Map Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)
 
 ### About
 
