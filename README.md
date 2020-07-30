@@ -6,6 +6,9 @@
 
 ### Announcements
 
+Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area.
+[Join today!](http://slack.bootcamperscollective.com). 
+
 Bootcampers Collective is working to migrate events online! Check out [Bootcampers Meetup Page](https://www.meetup.com/Bootcampers-Collective/) for the latest.
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
