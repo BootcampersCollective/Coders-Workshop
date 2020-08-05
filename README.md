@@ -18,13 +18,19 @@ Algorithms!
 
 ### Challenges
   
+#### Recursive
+
 [Factorial](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/factorial)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
 
-[Prefix Map Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)  
-[Min/Max Struct](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/minMaxStruct)
+#### Recursive and Binary
 
 [Consecutive Ones Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveOnesBinary)
+
+#### OOP
+
+[Prefix Map Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)  
+[Min/Max Struct](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/minMaxStruct)
 
 ### About
 
