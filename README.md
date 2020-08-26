@@ -6,6 +6,8 @@
 
 ### Announcements
 
+Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
+
 Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com)
 
 Bootcampers Collective is working to migrate events online! Check out [Bootcampers Meetup Page](https://www.meetup.com/Bootcampers-Collective/) for the latest.
@@ -22,12 +24,13 @@ Algorithms!
 
 [Reverse Words in String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseWordsInString)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prettyNames)  
+[Pretty Names](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prettyNames)  
 
 #### Harder
 
-[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
 [Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)
+[Longest Consecutive Ones - Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
+[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
 
 ### About
 
