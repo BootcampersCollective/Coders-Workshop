@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: August 5, 2020
+## Agenda: August 26, 2020
 
 ### Announcements
 
@@ -18,19 +18,16 @@ Algorithms!
 
 ### Challenges
   
-#### Recursive
+#### Easier
 
-[Factorial](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/factorial)  
+[Reverse Words in String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseWordsInString)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
+[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prettyNames)  
 
-#### Recursive and Binary
+#### Harder
 
-[Consecutive Ones Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveOnesBinary)
-
-#### OOP
-
-[Prefix Map Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)  
-[Min/Max Struct](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/minMaxStruct)
+[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
+[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)
 
 ### About
 
