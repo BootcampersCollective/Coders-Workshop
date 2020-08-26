@@ -28,8 +28,8 @@ Algorithms!
 
 #### Harder
 
-[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)
-[Longest Consecutive Ones - Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)
+[Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)  
+[Longest Consecutive Ones - Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
 [Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
 
 ### About
