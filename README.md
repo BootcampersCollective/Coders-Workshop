@@ -32,6 +32,10 @@ Algorithms!
 [Longest Consecutive Ones - Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
 [Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
 
+#### Harder again
+
+[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
