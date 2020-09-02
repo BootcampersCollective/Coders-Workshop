@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: August 26, 2020
+## Agenda: September 2, 2020
 
 ### Announcements
 
@@ -22,9 +22,8 @@ Algorithms!
   
 #### Easier
 
-[Reverse Words in String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseWordsInString)  
+[First Recurring Character](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/firstRecurringCharacter)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
-[Pretty Names](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prettyNames)  
 
 #### Harder
 
