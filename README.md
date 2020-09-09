@@ -8,7 +8,7 @@
 
 Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
 
-Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com)
+Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com) - we are the `#workshop` channel, but check out any other channels that might interest you.
 
 Bootcampers Collective is working to migrate events online! Check out [Bootcampers Meetup Page](https://www.meetup.com/Bootcampers-Collective/) for the latest.
 
