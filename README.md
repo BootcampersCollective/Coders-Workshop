@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 2, 2020
+## Agenda: September 9, 2020
 
 ### Announcements
 
@@ -22,14 +22,16 @@ Algorithms!
   
 #### Easier
 
-[First Recurring Character](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/firstRecurringCharacter)  
+[Permutation of a Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/permutationOfAPalindrome)  
 [Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
 
 #### Harder
 
 [Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)  
-[Longest Consecutive Ones - Binary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestConsecutiveOnes)  
-[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)
+
+[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)  
+
+[Generate Power Set](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/generatePowerSet)
 
 #### Harder again
 
