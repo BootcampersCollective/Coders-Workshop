@@ -33,6 +33,8 @@ Algorithms!
 
 [Generate Power Set](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/generatePowerSet)
 
+[Consecutive Alphabetical Letters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveAlphabeticalLetters)
+
 #### Harder again
 
 [Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)
