@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 9, 2020
+## Agenda: September 16, 2020
 
 ### Announcements
 
@@ -22,8 +22,8 @@ Algorithms!
   
 #### Easier
 
-[Permutation of a Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/permutationOfAPalindrome)  
-[Coin Flip](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/coinFlip)  
+[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)  
+[Hop Through an Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughAnArray)  
 
 #### Harder
 
@@ -84,9 +84,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-##
-
-n
-ray and
-number of
-/
