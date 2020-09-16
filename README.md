@@ -22,7 +22,8 @@ Algorithms!
   
 #### Easier
 
-[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)  
+[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle) 
+
 [Hop Through an Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughAnArray)  
 
 #### Harder
