@@ -29,8 +29,6 @@ Algorithms!
 
 [Largest Subsequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/largestSubsequence)  
 
-[Word Search](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/wordSearch)  
-
 [Generate Power Set](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/generatePowerSet)
 
 [Consecutive Alphabetical Letters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveAlphabeticalLetters)
