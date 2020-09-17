@@ -22,7 +22,7 @@ Algorithms!
   
 #### Easier
 
-[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle) 
+[Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)
 
 [Hop Through an Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughAnArray)  
 
@@ -33,6 +33,8 @@ Algorithms!
 [Generate Power Set](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/generatePowerSet)
 
 [Consecutive Alphabetical Letters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/consecutiveAlphabeticalLetters)
+
+[URL Shortener](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/urlShortener)
 
 #### Harder again
 
