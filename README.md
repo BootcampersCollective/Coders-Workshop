@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 23, 2020
+## Agenda: September 30, 2020
 
 ### Announcements
 
@@ -24,15 +24,13 @@ Algorithms!
 
 [Capitalize a Title](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/capitalizeATitle)
 
-[Hop Through an Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/hopThroughAnArray)  
-
 #### Harder
+
+[Shortest Unique Prefix](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shortestUniquePrefix)  
 
 [Debounce](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/debounce)  
 
 [Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
-
-[URL Shortener](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/urlShortener)
 
 #### Harder again
 
