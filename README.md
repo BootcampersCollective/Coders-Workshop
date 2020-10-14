@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 7, 2020
+## Agenda: October 14, 2020
 
 ### Announcements
 
@@ -22,11 +22,15 @@ Algorithms!
   
 #### Easier
 
-[Flatten An Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flattenArray)
+[Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
 
 #### Harder
 
+[Autocomplete](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/autocomplete)  
+
 [Debounce](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/debounce)  
+
+More information on debounce and throttle can be found [here](https://redd.one/blog/debounce-vs-throttle).  
 
 [Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
 
