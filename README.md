@@ -22,17 +22,15 @@ Algorithms!
   
 #### Easier
 
-[Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
+[Sum of Array Singles](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sumOfArraySingles)  
+
+[A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
 #### Harder
 
-[Autocomplete](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/autocomplete)  
+[Friday The 13th](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fridayThe13th)  
 
-[Debounce](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/debounce)  
-
-More information on debounce and throttle can be found [here](https://redd.one/blog/debounce-vs-throttle).  
-
-[Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
+[Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
 
 #### Harder again
 
