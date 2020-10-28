@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 21, 2020
+## Agenda: October 28, 2020
 
 ### Announcements
 
@@ -22,13 +22,13 @@ Algorithms!
   
 #### Easier
 
-[Sum of Array Singles](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/sumOfArraySingles)  
+[Is Prime](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/isPrime)  
 
 [A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
 #### Harder
 
-[Friday The 13th](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fridayThe13th)  
+[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseInteger)  
 
 [Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
 
