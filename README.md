@@ -28,9 +28,9 @@ Algorithms!
 
 #### Harder
 
-[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseInteger)  
-
 [Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
+
+[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseInteger)  
 
 #### Harder again
 
