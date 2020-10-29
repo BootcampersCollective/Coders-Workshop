@@ -22,7 +22,11 @@ Algorithms!
   
 #### Easier
 
+[Add Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)  
+
 [Is Prime](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/isPrime)  
+
+[A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
 [A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
