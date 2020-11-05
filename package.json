@@ -14,9 +14,12 @@
   "scripts": {
     "contribs:add": "all-contributors add",
     "contribs:generate": "all-contributors generate",
+    "lint": "eslint \"**/*.js\"",
+    "lint:fix": "eslint --fix  \"**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.9.2"
+    "all-contributors-cli": "^6.9.2",
+    "eslint": "^7.12.1"
   }
 }
