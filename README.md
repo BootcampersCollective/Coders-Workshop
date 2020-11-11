@@ -22,19 +22,17 @@ Algorithms!
   
 #### Easier
 
-[Add Unique Characters](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/allUniqueCharacters)  
+[Balanced Brackets](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/balancedBrackets)  
 
-[Is Prime](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/isPrime)  
-
-[A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
-
-[A String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
+[Shortest Directory Path](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shortestDirectoryPath)  
 
 #### Harder
 
 [Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
 
 [Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseInteger)  
+
+[Spreadsheet Alphabet Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/spreadsheetAlphabetEncoding)  
 
 #### Harder again
 
