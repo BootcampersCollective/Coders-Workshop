@@ -30,7 +30,7 @@ Algorithms!
 
 [Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
 
-[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseInteger)  
+[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseNumber)  
 
 [Spreadsheet Alphabet Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/spreadsheetAlphabetEncoding)  
 
