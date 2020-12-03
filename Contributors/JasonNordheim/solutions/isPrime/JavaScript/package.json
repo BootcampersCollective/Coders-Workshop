@@ -1,0 +1,15 @@
+{
+  "name": "isPrime",
+  "version": "1.0.0",
+  "description": "Write a function to determine whether a number is prime.",
+  "main": "isPrime.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
