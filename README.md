@@ -28,6 +28,8 @@ How would you describe an automated test to your grandparent (or someone with li
   
 #### Easier
 
+[Fizz Buzz](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fizzBuzz)  
+
 [Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
 
 #### Harder
