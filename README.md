@@ -44,7 +44,9 @@ How would you describe an automated test to your grandparent (or someone with li
 
 #### Harder again
 
-[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)
+[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)  
+
+[Embolden Html](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
 
 ### About
 
