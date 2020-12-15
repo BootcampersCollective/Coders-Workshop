@@ -1,3 +1,3 @@
 # Get Length
 
-Get the length of an array using recursion without accessing its length property.
+Get the length of an array (potentially using recursion) without accessing its length property.

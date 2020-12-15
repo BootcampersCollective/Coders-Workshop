@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: November 11, 2020
+## Agenda: December, 2, 2020
 
 ### Announcements
 
@@ -18,25 +18,35 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
+### Intro
+
+How would you describe an API to your grandparent (or someone with little tech background)?  
+--OR--  
+How would you describe an automated test to your grandparent (or someone with little tech background)?  
+
 ### Challenges
   
 #### Easier
 
-[Balanced Brackets](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/balancedBrackets)  
+[Fizz Buzz](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fizzBuzz)  
 
-[Shortest Directory Path](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shortestDirectoryPath)  
+[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
 
 #### Harder
 
+[Flatten Nested Dictionary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flattenNestedDictionary)  
+
 [Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
+
+[Break Up String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/breakUpString)  
 
 [Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseNumber)  
 
-[Spreadsheet Alphabet Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/spreadsheetAlphabetEncoding)  
-
 #### Harder again
 
-[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)
+[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)  
+
+[Embolden Html](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
 
 ### About
 
