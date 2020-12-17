@@ -281,7 +281,8 @@ dmypy.json
 .pyre/
 
 ### VisualStudioCode ###
-.vscode/
+# format on save enabled
+# .vscode/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
