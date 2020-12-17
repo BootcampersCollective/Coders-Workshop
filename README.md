@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: December, 2, 2020
+## Agenda: December, 16, 2020
 
 ### Announcements
 
@@ -28,19 +28,19 @@ How would you describe an automated test to your grandparent (or someone with li
   
 #### Easier
 
-[Fizz Buzz](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fizzBuzz)  
+[Fixed Point](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fixedPoint)  
 
-[Get Length](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/getLength)  
+[Shifting Strings](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shiftingStrings)  
 
 #### Harder
 
-[Flatten Nested Dictionary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flattenNestedDictionary)  
-
-[Run Length Encoding](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/runLengthEncoding)  
-
-[Break Up String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/breakUpString)  
+[Collatz Sequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/collatzSequence)  
 
 [Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseNumber)  
+
+[Flatten Nested Dictionary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flattenNestedDictionary)  
+
+[Break Up String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/breakUpString)  
 
 #### Harder again
 
