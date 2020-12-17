@@ -1,4 +1,4 @@
-export const findMostCommon = (input) => {
+const findMostCommon = (input) => {
   // check if input is a list or string, value
   // otherwise, return null
   if (typeof input === "string") input = input.split("");
@@ -17,3 +17,5 @@ export const findMostCommon = (input) => {
   }
   else return null;
 }
+
+module.exports = findMostCommon;

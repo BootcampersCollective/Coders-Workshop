@@ -8,7 +8,7 @@ const hasAllChars = (window, t) => {
   return true;
 }
 
-export default minimumWindow = (s, t) => {
+const minimumWindow = (s, t) => {
   let resultSoFar = s;
   let found = false;
   let leftIndex = 0, rightIndex = t.length; // starting lengths
@@ -28,3 +28,5 @@ export default minimumWindow = (s, t) => {
   }
   return found ? resultSoFar : '';
 }
+
+module.exports = {hasAllChars, minimumWindow};

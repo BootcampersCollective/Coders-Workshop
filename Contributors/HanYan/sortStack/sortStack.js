@@ -25,3 +25,5 @@ const sortStack = (unsortedStack) => {
 
   return unsortedStack;
 }
+
+module.exports = sortStack;

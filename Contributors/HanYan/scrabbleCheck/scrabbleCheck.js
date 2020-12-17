@@ -1,11 +1,11 @@
-export const scrabbleCheckReuse = (word, chars) => {
+const scrabbleCheckReuse = (word, chars) => {
   for (let char of word) {
     if (!chars.includes(char)) return false;
   }
   return true;
 }
 
-export const scrabbleCheckNoReuse = (word, chars) => {
+const scrabbleCheckNoReuse = (word, chars) => {
   for (let char of word) {
     if (!chars.includes(char)) return false;
     else chars.splice(chars.indexOf(char), 1);
@@ -13,7 +13,7 @@ export const scrabbleCheckNoReuse = (word, chars) => {
   return true;
 }
 
-export const scrabbleCheckWildcard = (word, chars) => {
+const scrabbleCheckWildcard = (word, chars) => {
   let numWildcards = chars.filter(char => char === "*").length;
   for (let char of word) {
     if (!chars.includes(char)) {
@@ -24,3 +24,5 @@ export const scrabbleCheckWildcard = (word, chars) => {
   }
   return true;
 }
+
+module.exports = { scrabbleCheckReuse, scrabbleCheckNoReuse, scrabbleCheckWildcard };

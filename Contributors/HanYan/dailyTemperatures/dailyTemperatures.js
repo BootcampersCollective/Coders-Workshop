@@ -1,4 +1,4 @@
-export default dailyTemperatures = temps => {
+const dailyTemperatures = temps => {
   const result = [];
 
   const findNextWarmerDayWait = i => {
@@ -16,3 +16,5 @@ export default dailyTemperatures = temps => {
   result.push(0);
   return result;
 }
+
+module.exports = dailyTemperatures;
