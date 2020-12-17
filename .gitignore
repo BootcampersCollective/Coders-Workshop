@@ -280,6 +280,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+### VisualStudioCode ###
+# format on save enabled
+# .vscode/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
