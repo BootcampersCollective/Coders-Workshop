@@ -28,7 +28,7 @@ How would you describe an automated test to your grandparent (or someone with li
   
 #### Easier
 
-[Fixed Point](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fixedPoint)  
+[Fixed Point](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fixedPoints)  
 
 [Shifting Strings](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shiftingStrings)  
 
