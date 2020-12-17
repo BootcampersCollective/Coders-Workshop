@@ -18,12 +18,6 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
-### Intro
-
-How would you describe an API to your grandparent (or someone with little tech background)?  
---OR--  
-How would you describe an automated test to your grandparent (or someone with little tech background)?  
-
 ### Challenges
   
 #### Easier
