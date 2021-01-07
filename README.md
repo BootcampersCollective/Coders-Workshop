@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: December, 16, 2020
+## Agenda: January 6, 2021
 
 ### Announcements
 
@@ -16,15 +16,23 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms!
+Algorithms: Junior.
 
 ### Challenges
   
-#### Easier
+[Position in Alphabet](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/positionInAlphabet)  
 
-[Fixed Point](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fixedPoints)  
+[Extract Product ID from URL](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/extractProductIDFromUrl)  
 
-[Shifting Strings](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/shiftingStrings)  
+[Validate ISBN-10 Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/validateIsbn)  
+
+[Remove Duplicates](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/removeDuplicates)  
+
+[String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)  
+
+[Valid ISBN-10 Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/validIsbn)  
+
+[Strong Password](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/strongPassword)  
 
 #### Harder
 
