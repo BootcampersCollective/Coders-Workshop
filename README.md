@@ -36,12 +36,6 @@ Algorithms: Junior.
 
 #### Harder
 
-[Collatz Sequence](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/collatzSequence)  
-
-[Reverse Integer](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseNumber)  
-
-[Flatten Nested Dictionary](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flattenNestedDictionary)  
-
 [Break Up String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/breakUpString)  
 
 #### Harder again
