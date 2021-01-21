@@ -16,7 +16,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms: Intensive.
+Algorithms: Intensive (trying out tonight)
 
 ### Challenges
 
