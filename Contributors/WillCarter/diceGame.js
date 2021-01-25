@@ -24,44 +24,58 @@ const rolls = (rollsArray, alertNumber, stopNumber) => {
   return rolls(rollsArray, alertNumber, stopNumber)
 }
 
+const getExpectation = (alertNumber, stopNumber, tryCount) => {
 
-
-const getAverageNumberOfRolls = (tryCount, alertNumber, stopNumber) => {
-  const tries = []
+  //build up some run results
+  let runResults = []
   for (let index = 0; index < tryCount; index++) {
-    tries.push(rolls([], alertNumber, stopNumber))
+    runResults.push(rolls([], alertNumber, stopNumber))
   }
 
-  //console.log('tries', tries)
-  let sum = tries.reduce((acc, b) => {
-    acc = acc + b
+  const probability = 1 / runResults.length
+
+  const mean = runResults.reduce((acc, count) => {
+    acc += count * probability
     return acc
   }, 0)
-  //console.log('sum', sum)
-  //console.log('avg', sum / tries.length)
 
-  return sum / tries.length
+  return Math.round(mean)
+
 }
 
-const getExpectedValue = (tryCount, alertNumber, stopNumber) => {
+let expectedNumberOfRolls = getExpectation(5, 6, 100000)
+console.log(expectedNumberOfRolls)
 
-  const tries = []
-  for (let index = 0; index < tryCount; index++) {
-    tries.push(rolls([], alertNumber, stopNumber))
-  }
+expectedNumberOfRolls = getExpectation(5, 5, 100000)
+console.log(expectedNumberOfRolls)
 
-  //To find expected value, multiply each outcome by its probability and add those results together.
 
-  //console.log('tries', tries)
-  let ev = tries.reduce((acc, b) => {
-    acc = acc + (b * (1 / 6))
-    return acc
-  }, 0)
-  //console.log('sum', sum)
-  //console.log('avg', sum / tries.length)
 
-  return ev
-}
+/////////////////////////////////////////////////////////////
+//failed ideas...
 
-console.log(getExpectedValue(1000, 5, 6))
-console.log(getExpectedValue(1000, 5, 5))
+// const getExpectedValue = (tryCount, alertNumber, stopNumber) => {
+
+//   const tries = []
+//   for (let index = 0; index < tryCount; index++) {
+//     tries.push(rolls([], alertNumber, stopNumber))
+//   }
+
+//   //To find expected value, multiply each outcome by its probability and add those results together.
+
+//   //console.log('tries', tries)
+//   let ev = tries.reduce((acc, b) => {
+//     acc = acc + (b * (1 / 6))
+//     return acc
+//   }, 0)
+//   //console.log('sum', sum)
+//   //console.log('avg', sum / tries.length)
+
+//   return ev
+// }
+
+// let fir = getAverageNumberOfRolls(100000000, 5, 6)
+// console.log(fir)
+
+// let sec = getAverageNumberOfRolls(100000000, 5, 5)
+// console.log(sec)
