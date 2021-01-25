@@ -24,7 +24,9 @@ const rolls = (rollsArray, alertNumber, stopNumber) => {
   return rolls(rollsArray, alertNumber, stopNumber)
 }
 
-const getExpectation = (alertNumber, stopNumber, tryCount) => {
+const getExpected = (alertNumber, stopNumber) => {
+
+  let tryCount = 100000
 
   //build up some run results
   let runResults = []
@@ -32,21 +34,19 @@ const getExpectation = (alertNumber, stopNumber, tryCount) => {
     runResults.push(rolls([], alertNumber, stopNumber))
   }
 
-  const probability = 1 / runResults.length
-
-  const mean = runResults.reduce((acc, count) => {
-    acc += count * probability
+  const expected = runResults.reduce((acc, resultCount) => {
+    acc += resultCount * (1 / runResults.length)// acc = acc + (this resultCount * probability)
     return acc
   }, 0)
 
-  return Math.round(mean)
+  return Math.round(expected)
 
 }
 
-let expectedNumberOfRolls = getExpectation(5, 6, 100000)
+let expectedNumberOfRolls = getExpected(5, 6)
 console.log(expectedNumberOfRolls)
 
-expectedNumberOfRolls = getExpectation(5, 5, 100000)
+expectedNumberOfRolls = getExpected(5, 5)
 console.log(expectedNumberOfRolls)
 
 
