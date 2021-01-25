@@ -28,18 +28,19 @@ const getExpected = (alertNumber, stopNumber) => {
 
   let tryCount = 100000
 
-  //build up some run results
+  //build up 100000 run results, recording how many rolls it took to reach goal.
   let runResults = []
   for (let index = 0; index < tryCount; index++) {
     runResults.push(rolls([], alertNumber, stopNumber))
   }
 
-  const expected = runResults.reduce((acc, resultCount) => {
+  //To find expected value, multiply each outcome by its probability and add those results together.
+  const expectedValue = runResults.reduce((acc, resultCount) => {
     acc += resultCount * (1 / runResults.length)// acc = acc + (this resultCount * probability)
     return acc
   }, 0)
 
-  return Math.round(expected)
+  return Math.round(expectedValue)
 
 }
 
@@ -49,33 +50,5 @@ console.log(expectedNumberOfRolls)
 expectedNumberOfRolls = getExpected(5, 5)
 console.log(expectedNumberOfRolls)
 
-
-
-/////////////////////////////////////////////////////////////
-//failed ideas...
-
-// const getExpectedValue = (tryCount, alertNumber, stopNumber) => {
-
-//   const tries = []
-//   for (let index = 0; index < tryCount; index++) {
-//     tries.push(rolls([], alertNumber, stopNumber))
-//   }
-
-//   //To find expected value, multiply each outcome by its probability and add those results together.
-
-//   //console.log('tries', tries)
-//   let ev = tries.reduce((acc, b) => {
-//     acc = acc + (b * (1 / 6))
-//     return acc
-//   }, 0)
-//   //console.log('sum', sum)
-//   //console.log('avg', sum / tries.length)
-
-//   return ev
-// }
-
-// let fir = getAverageNumberOfRolls(100000000, 5, 6)
-// console.log(fir)
-
-// let sec = getAverageNumberOfRolls(100000000, 5, 5)
-// console.log(sec)
+// Alice should choose to roll 5 then 6, because it can be expected to have to roll 36 times to reach that sequence, on average.
+// If she chooses 5 then 5, she can expect to have to roll 42 times to reach the sequence, on average.
