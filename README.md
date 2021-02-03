@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 6, 2021
+## Agenda: January 20, 2021
 
 ### Announcements
 
@@ -16,31 +16,25 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms: Junior.
+Algorithms: Intensive (trying out tonight)
 
 ### Challenges
-  
-[Position in Alphabet](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/positionInAlphabet)  
 
-[Extract Product ID from URL](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/extractProductIDFromUrl)  
+[String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
-[Validate ISBN-10 Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/validateIsbn)  
+[Flip Chars](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/flipChars)
 
-[Remove Duplicates](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/removeDuplicates)  
+[Dice Game](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/diceGame)
 
-[String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)  
+[Join Arrays](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/joinArrays)
 
-[Valid ISBN-10 Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/validIsbn)  
+#### Sorting
 
-[Strong Password](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/strongPassword)  
-
-#### Harder
-
-[Break Up String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/breakUpString)  
+[Quick Sort](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/quickSort)
 
 #### Harder again
 
-[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)  
+[Alternating Linked-list](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/alternatingLinkedList)
 
 [Embolden Html](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
 
@@ -50,18 +44,18 @@ A meetup where programmers can develop problem solving skills & improve their te
 
 ### Principles
 
-* language agnosticism
-* pair programming
-* tactics vs strategy
-  * strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
+- language agnosticism
+- pair programming
+- tactics vs strategy
+  - strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
 
 ## Want to contribute
 
-We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.  
+We love contributions! This repo consists mainly of algorithm and data-structure type problems, so feel free to either submit a solution to a problem we have, or your own problem and solution.
 
-* Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.  
-* To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
-* Once you add your problem and/or solution, [create a pull request](./Topics/Git.md) and we will add your code to our repo.
+- Problems are found in [Coding-Challenges](./Coding-Challenges) and located in a folder corresponding to their name. Include a `README.md` (markdown) file describing the problem, and if possible, please include sample inputs/outputs.
+- To submit a solution, create a folder with your name in [Contributors](./Contributors) and put your solution in that folder. All languages are welcome! Please title the file the same as the problem.
+- Once you add your problem and/or solution, [create a pull request](./Topics/Git.md) and we will add your code to our repo.
 
 ## Contributors
 
@@ -90,4 +84,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
