@@ -16,10 +16,11 @@
     "contribs:generate": "all-contributors generate",
     "lint": "eslint \"**/*.js\"",
     "lint:fix": "eslint --fix  \"**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.9.2",
-    "eslint": "^7.12.1"
+    "all-contributors-cli": "^6.19.0",
+    "eslint": "^7.17.0",
+    "jest": "^26.6.3"
   }
 }
