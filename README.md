@@ -28,8 +28,6 @@ Algorithms: More involved
 
 [rand5](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rand5)
 
-[Reverse Words In String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseWordsInString)
-
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
