@@ -51,9 +51,7 @@ const replaceUppercaseConsonants = (string) => {
 
 const stringTask = (string) => {
   let result = deleteAllVowels(string)
-  console.log(result)
   result = insertPeriod(result)
-  console.log(result)
   result = replaceUppercaseConsonants(result)
   return result
 }

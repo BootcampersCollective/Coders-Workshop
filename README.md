@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: February 3, 2021
+## Agenda: February 17, 2021
 
 ### Announcements
 
@@ -16,23 +16,19 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms: Simpler
+Algorithms: More involved
 
 ### Challenges
-
-[Fizz Buzz](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/fizzBuzz)
-
-[String Task](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringTask)
 
 [Integer Palindrome](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/integerPalindrome)
 
 [Classroom Intervals](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/classroomIntervals)
 
+[PrefixMap Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)
+
 [rand5](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rand5)
 
 [Reverse Words In String](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseWordsInString)
-
-[PrefixMap Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)
 
 ### About
 
