@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 3, 2021
+## Agenda: 🍀 March 17, 2021 🍀
 
 ### Announcements
 
@@ -16,17 +16,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms: Less involved
+Algorithms!
 
 ### Challenges
 
-[Count Words](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/countWords)
+[Longest Unique Subarray](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/longestUniqueSubarray)
 
-[PrefixMap Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)
+[PrefixMap Sum](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/prefixMapSum)  
 
-[rand5](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/rand5)
-
-[String Expansion](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/stringExpansion)
+[Square and Sort](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/squareAndSort)
 
 [Array.Prototype.some](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions/Array.Prototype.some)
 
