@@ -26,5 +26,5 @@ assert.deepStrictEqual(removeDuplicates('Hello'), null)
 console.log('All tests passed!')
 
 /**
- * Scribbles
+ * Scribbes
  */
