@@ -15,6 +15,10 @@ class LinkedList {
     this.count = 0
   }
 
+  /**
+   * 
+   * @returns String representation of linked list by id
+   */
   printList() {
       if (!this.head) return 'empty'
       let trav = this.head
@@ -89,7 +93,6 @@ class LinkedList {
       trav = trav.next
     }
     if (trav.id !== id) return null
-    // reorder head
     if (trav.id === this.head.id && dir === 'up') return this
     if (dir === 'up') {
         if (trav.prev.id === this.head.id) {
@@ -119,5 +122,19 @@ myList.reorder(2, 'up')
 assert.deepStrictEqual(myList.printList(), '2->1->3')
 myList.reorder(1, 'down')
 assert.deepStrictEqual(myList.printList(), '2->3->1')
+
+
+// calling reorder on an empty list or with an invalid id returns null
+const emptyList = new LinkedList()
+assert.deepStrictEqual(emptyList.reorder(), null)
+
+const anotherList = new LinkedList()
+const anotherFirstItem = new Node({ id: 1, data: 'data1' })
+const anotherSecondItem = new Node({ id: 2, data: 'data2' })
+const anotherThirdItem = new Node({ id: 3, data: 'data3' })
+anotherList.add(anotherFirstItem)
+anotherList.add(anotherSecondItem)
+anotherList.add(anotherThirdItem)
+assert.deepStrictEqual(anotherList.reorder(7, 'down'), null)
 
 console.log('👍')
