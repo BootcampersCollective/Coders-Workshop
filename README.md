@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda:  March 31, 2021
+## Agenda: April 14, 2021
 
 ### Announcements
 
@@ -22,11 +22,11 @@ Algorithms!
 
 ### Challenges
 
-[Is Prime](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/isPrime)  
+[Make Change](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/makeChange)
 
-[Array.Prototype.some](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
+[Array.Prototype.reduce](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions/Array.Prototype.reduce)
 
-[Format Phone Number](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/formatPhoneNumber)
+[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
 
 ### About
 
