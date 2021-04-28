@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 14, 2021
+## Agenda: April 28, 2021
 
 ### Announcements
 
@@ -20,13 +20,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
+### Discussion
+
+Describe how you would implement an API for an elevator.
+
 ### Challenges
 
-[Make Change](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/makeChange)
-
-[Array.Prototype.reduce](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/higherOrderFunctions/Array.Prototype.reduce)
-
 [Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
+
+[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findMissingNumberInArray)
 
 ### About
 

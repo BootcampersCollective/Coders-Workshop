@@ -70,4 +70,5 @@ assert.strictEqual(
   0
 )
 
+assert.strictEqual(findLargestRect([[1]]), 1)
 console.log('👍')
