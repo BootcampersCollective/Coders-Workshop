@@ -28,7 +28,7 @@ Describe how you would implement an API for an elevator.
 
 [Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
 
-[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findMissingNumberInArray)
+[Find Missing Number in Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findMissingNumberInArray)
 
 ### About
 
