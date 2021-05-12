@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 28, 2021
+## Agenda: May 12, 2021
 
 ### Announcements
 
@@ -18,17 +18,17 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms!
+Closure and algorithms!
 
 ### Discussion
 
-Describe how you would implement an API for an elevator.
+What is closure?
 
 ### Challenges
 
-[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
+[Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
 
-[Find Missing Number in Array](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/findMissingNumberInArray)
+[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
 
 ### About
 
@@ -39,7 +39,7 @@ A meetup where programmers can develop problem solving skills & improve their te
 - language agnosticism
 - pair programming
 - tactics vs strategy
-  - strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
+- strategy person knows how to solve algorithm, tactics person knows the language or particular syntax
 
 ## Want to contribute
 
