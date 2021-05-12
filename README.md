@@ -28,6 +28,8 @@ What is closure?
 
 [Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
 
+[Take](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/curriedTake)
+
 [Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
 
 ### About
