@@ -46,5 +46,23 @@ const makeChange = (price, amountGiven) => {
   return { dollars, quarters, dimes, nickels, pennies }
 }
 
+//Solution Using While Loop
+// const makeChange = (price, amountGiven) => {
+//   const output = {}
+//   let remainder = amountGiven * 100 - price * 100
+//   output['$1'] = Math.floor(remainder / 100)
+//   remainder = remainder % 100
+//   let coins = [25,10,5,1]
+
+//   for(let i = 0; i < coins.length; i++){
+//     while(remainder >= coins[i]){
+//       output[coins[i]] = Math.floor(remainder / coins[i])
+//       remainder = remainder % coins[i] 
+//     }  
+//   }
+//   return output
+// }
+
+
 console.log(makeChange(9.49, 10))
 console.log(makeChange(29.97, 75.38)) // 45.41
