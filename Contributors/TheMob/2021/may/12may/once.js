@@ -11,7 +11,6 @@ function times(num) {
     let timesCalled = 0
     return function (...args) {
       if (timesCalled < num) {
-        hasBeenCalled = true
         timesCalled += 1
         return func(...args)
       }
