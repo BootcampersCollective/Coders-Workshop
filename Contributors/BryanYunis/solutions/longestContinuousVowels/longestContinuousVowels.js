@@ -3,7 +3,8 @@ const assert = require('assert')
 const contiguousVowelsCount = (str, count = 0) =>
   isVowel(str[0]) ? contiguousVowelsCount(str.slice(1), count + 1) : count
 
-const isVowel = (char) => (['a', 'e', 'i', 'o', 'u'].includes(char) ? 1 : 0)
+const isVowel = (char) =>
+  ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(char) ? 1 : 0
 
 const countVowels = (string, max = 0) =>
   string.length
@@ -26,6 +27,6 @@ assert.deepStrictEqual(
   ]
 )
 
-assert.deepStrictEqual(longestContinuousVowels(['eei', 'eeei']), ['eeei', 'eei'])
+assert.deepStrictEqual(longestContinuousVowels(['EEI', 'EEEI']), ['EEEI', 'EEI'])
 
 console.log('👍')
