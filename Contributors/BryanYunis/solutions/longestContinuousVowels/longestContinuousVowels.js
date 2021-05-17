@@ -3,8 +3,7 @@ const assert = require('assert')
 const contiguousVowelsCount = (str, count = 0) =>
   isVowel(str[0]) ? contiguousVowelsCount(str.slice(1), count + 1) : count
 
-const isVowel = (char) =>
-  ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(char) ? 1 : 0
+const isVowel = (char) => 'aeiouAEIOU'.includes(char)
 
 const countVowels = (string, max = 0) =>
   string.length
