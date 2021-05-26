@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 12, 2021
+## Agenda: May 26, 2021
 
 ### Announcements
 
@@ -18,19 +18,20 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Closure and algorithms!
+Memory management and algorithms!
 
 ### Discussion
 
-What is closure?
+What is a memory leak?  
+[Memory Leak](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/memoryLeak)
 
 ### Challenges
 
-[Once](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/once)
+[Throttle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/throttle)
 
-[Curried Take](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/curriedTake)
+[Embolden HTML](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
 
-[Elimination Tournament](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/eliminationTournament)
+[Autocomplete](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/autocomplete)
 
 ### About
 
