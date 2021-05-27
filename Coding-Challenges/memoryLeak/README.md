@@ -1,3 +1,4 @@
+
 # Memory Leak
 
 Data is not garbage collected while it's still being referenced from the 'roots' of a program, which includes global object (`window`)
@@ -10,10 +11,18 @@ var baz = 'this is a global variable'
 
 window.bar = 'this is a global variable'
 window.baz = 'this is a global variable'
+
+
 ```
 
 
+```js
+const a = '123'
 
+setInterval(() => {
+    console.log(a)
+}, 50000)
+```
 
 
 
