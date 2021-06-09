@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 26, 2021
+## Agenda: June 9, 2021
 
 ### Announcements
 
@@ -22,16 +22,14 @@ Memory management and algorithms!
 
 ### Discussion
 
-What is a memory leak?  
-[Memory Leak](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/memoryLeak)
-
 ### Challenges
 
-[Throttle](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/throttle)
+[Is Meetup Language Diverse?](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/isMeetupLanguageDiverse)
 
-[Embolden HTML](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/emboldenHtml)
+[Reverse Or Rotate](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/reverseOrRotate)
 
-[Autocomplete](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/autocomplete)
+[Max Continuous Subarray](https://github.com/BootcampersCollective/Coders-Workshop/tree/master/Coding-Challenges/maxContinuousSubarray)
+
 
 ### About
 
