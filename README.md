@@ -18,7 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Memory management and algorithms!
+Algorithms!
 
 ### Discussion
 
