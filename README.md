@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 9, 2021
+## Agenda: June 23, 2021
 
 ### Announcements
 
@@ -24,11 +24,13 @@ Algorithms!
 
 ### Challenges
 
-[Is Meetup Language Diverse?](./Coding-Challenges/isMeetupLanguageDiverse)
 
-[Reverse Or Rotate](./Coding-Challenges/reverseOrRotate)
+[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
 
-[Max Continuous Subarray](./Coding-Challenges/maxContinuousSubarray)
+[Digital Root](./Coding-Challenges/digitalRoot)
+
+[Reduce While](./Coding-Challenges/reduceWhile)
+
 
 
 ### About
