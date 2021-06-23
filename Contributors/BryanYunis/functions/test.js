@@ -2,6 +2,7 @@ const assert = require("assert")
 const { curry,
   reduce,
   every,
+  assoc,
   contains,
   containsItemLast,
   dropHeadAndTail,
@@ -10,6 +11,8 @@ const { curry,
   always,
   map,
   sameAs,
+  prop,
+  propOr,
   cond,
   filter,
   T,
@@ -109,6 +112,15 @@ const testArgTransform = argTransform([
 assert.strictEqual(testArgTransform(sameAs(5), 4), "add one works")
 assert.strictEqual(testArgTransform(sameAs(25), 5), "square it works")
 
+// assoc
+assert.deepStrictEqual(assoc("name", "winston", {}), {name: "winston"})
+
+// prop
+const obj = {name: "kittens"}
+assert.deepStrictEqual(prop("name", obj), "kittens")
+
+// propOr
+assert.deepStrictEqual(propOr("not found", "age", obj), "not found")
 
 console.log("All tests passed!")
 

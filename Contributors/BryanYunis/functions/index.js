@@ -31,6 +31,15 @@ const T = () => true
 const F = () => false
 const identity = (x) => x
 
+const assoc = curry((prop, val, obj) => {
+  obj[prop] = val
+  return obj
+})
+
+const prop = curry((key, obj) => notNil(obj) ? obj[key] : {})
+
+const propOr = curry((fallback, key, obj) => notNil(obj) && notNil(prop(key, obj)) ? prop(key, obj) : fallback)
+
 const nestedConcat = (a1, a2) =>{
   const arr = [...a1]
   arr.push(a2)
@@ -136,6 +145,9 @@ module.exports = { curry,
   sameAs,
   pipe,
   headN,
+  assoc,
+  prop,
+  propOr,
   tail,
   compose,
   filter,
