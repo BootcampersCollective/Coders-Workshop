@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 23, 2021
+## Agenda: July 7, 2021
 
 ### Announcements
 
@@ -25,12 +25,11 @@ Algorithms!
 ### Challenges
 
 
-[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
+[Hit Counter](./Coding-Challenges/hitCounter)  
 
-[Digital Root](./Coding-Challenges/digitalRoot)
+[Factorial](./Coding-Challenges/factorial)  
 
-[Reduce While](./Coding-Challenges/reduceWhile)
-
+[Hex To RGB](./Coding-Challenges/hexToRGB)
 
 
 ### About
