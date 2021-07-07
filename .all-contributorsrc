@@ -161,6 +161,18 @@
         "research",
         "tool"
       ]
+    },
+    {
+      "login": "han-yan-ds",
+      "name": "Han Yan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5281743?v=4",
+      "profile": "https://github.com/han-yan-ds",
+      "contributions": [
+        "code",
+        "ideas",
+        "plugin",
+        "tool"
+      ]
     }
   ]
 }
