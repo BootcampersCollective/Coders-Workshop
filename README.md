@@ -81,6 +81,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/han-yan-ds"><img src="https://avatars.githubusercontent.com/u/5281743?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Han Yan</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=han-yan-ds" title="Code">💻</a> <a href="#ideas-han-yan-ds" title="Ideas, Planning, & Feedback">🤔</a> <a href="#plugin-han-yan-ds" title="Plugin/utility libraries">🔌</a> <a href="#tool-han-yan-ds" title="Tools">🔧</a></td>
     <td align="center"><a href="https://fergusdevelopmentllc.github.io/"><img src="https://avatars.githubusercontent.com/u/1529796?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Will Carter</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=FergusDevelopmentLLC" title="Code">💻</a></td>
     <td align="center"><a href="https://dev.to/jasonnordheim"><img src="https://avatars.githubusercontent.com/u/60928315?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jason</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=jason-nordheim" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/iatenine"><img src="https://avatars.githubusercontent.com/u/4423088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Linhart</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=iatenine" title="Code">💻</a></td>
   </tr>
 </table>
 
