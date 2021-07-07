@@ -141,6 +141,27 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mi544",
+      "name": "Maksim Verkhoturov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64174978?v=4",
+      "profile": "https://github.com/mi544",
+      "contributions": [
+        "question",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "tool"
+      ]
     }
   ]
 }
