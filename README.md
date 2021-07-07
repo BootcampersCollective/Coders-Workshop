@@ -24,13 +24,11 @@ Algorithms!
 
 ### Challenges
 
+[Hex To RGB](./Coding-Challenges/hexToRGB)
 
 [Hit Counter](./Coding-Challenges/hitCounter)  
 
 [Factorial](./Coding-Challenges/factorial)  
-
-[Hex To RGB](./Coding-Challenges/hexToRGB)
-
 
 ### About
 
