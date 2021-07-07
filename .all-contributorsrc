@@ -173,6 +173,15 @@
         "plugin",
         "tool"
       ]
+    },
+    {
+      "login": "FergusDevelopmentLLC",
+      "name": "Will Carter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1529796?v=4",
+      "profile": "https://fergusdevelopmentllc.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
