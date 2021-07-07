@@ -33,7 +33,17 @@
         "code",
         "content",
         "eventOrganizing",
-        "ideas"
+        "ideas",
+        "question",
+        "doc",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "test",
+        "tool"
       ]
     },
     {
@@ -125,6 +135,83 @@
       "name": "Catherine",
       "avatar_url": "https://avatars1.githubusercontent.com/u/50638796?v=4",
       "profile": "https://github.com/catherine-o",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mi544",
+      "name": "Maksim Verkhoturov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64174978?v=4",
+      "profile": "https://github.com/mi544",
+      "contributions": [
+        "question",
+        "code",
+        "content",
+        "doc",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "research",
+        "tool"
+      ]
+    },
+    {
+      "login": "han-yan-ds",
+      "name": "Han Yan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5281743?v=4",
+      "profile": "https://github.com/han-yan-ds",
+      "contributions": [
+        "code",
+        "ideas",
+        "plugin",
+        "tool"
+      ]
+    },
+    {
+      "login": "FergusDevelopmentLLC",
+      "name": "Will Carter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1529796?v=4",
+      "profile": "https://fergusdevelopmentllc.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jason-nordheim",
+      "name": "Jason",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60928315?v=4",
+      "profile": "https://dev.to/jasonnordheim",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "iatenine",
+      "name": "Jack Linhart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4423088?v=4",
+      "profile": "https://github.com/iatenine",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mr-scholten",
+      "name": "Clark Scholten",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40778622?v=4",
+      "profile": "https://sites.google.com/a/pinnaclecharterschool.org/mr-scholten-classes/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MattDevTech",
+      "name": "MattDevTech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51864183?v=4",
+      "profile": "https://github.com/MattDevTech",
       "contributions": [
         "code"
       ]
