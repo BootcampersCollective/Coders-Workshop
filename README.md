@@ -84,6 +84,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/iatenine"><img src="https://avatars.githubusercontent.com/u/4423088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Linhart</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=iatenine" title="Code">💻</a></td>
     <td align="center"><a href="https://sites.google.com/a/pinnaclecharterschool.org/mr-scholten-classes/"><img src="https://avatars.githubusercontent.com/u/40778622?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Clark Scholten</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=mr-scholten" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MattDevTech"><img src="https://avatars.githubusercontent.com/u/51864183?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/andy-young/CodersWorkshop/commits?author=MattDevTech" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
