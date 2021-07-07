@@ -33,7 +33,20 @@
         "code",
         "content",
         "eventOrganizing",
-        "ideas"
+        "ideas",
+        "question",
+        "data",
+        "doc",
+        "example",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "plugin",
+        "projectManagement",
+        "research",
+        "review",
+        "test",
+        "tool"
       ]
     },
     {
