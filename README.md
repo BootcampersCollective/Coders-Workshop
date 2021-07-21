@@ -8,7 +8,7 @@
 
 Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
 
-Beginning March 3, 2021, we will start organizing our "mob solutions" -- the problems we work on during the meetup -- into a separate folder that identifies which date it was done. So, for example, the solutions for March 17 can be found at https://github.com/BootcampersCollective/Coders-Workshop/tree/main/Contributors/TheMob/2021/03march/17march
+In 2021 we started organizing our "mob solutions" -- the problems we work on during the meetup -- into a separate folder that identifies which date it was done. So, for example, the solutions for March 17 2021 can be found at https://github.com/BootcampersCollective/Coders-Workshop/tree/main/Contributors/TheMob/2021/03march/17march
 
 Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com) - we are the `#workshop` channel, but check out any other channels that might interest you.
 
@@ -24,9 +24,9 @@ Algorithms!
 
 ### Challenges
 
-[Consecutive Alphabetical Letters](./Coding-Challenges/consecutiveAlphabeticalLetters)  
-
 [Strip Comments](./Coding-Challenges/stripComments)  
+
+[Consecutive Alphabetical Letters](./Coding-Challenges/consecutiveAlphabeticalLetters)  
 
 [Capitalize A Title](./Coding-Challenges/capitalizeATitle)  
 
