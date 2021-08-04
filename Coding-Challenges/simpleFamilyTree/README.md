@@ -10,7 +10,7 @@ Grandchildren: Zachary has two children: Kate, Robin; Penelope has one child: Ma
 
 
 ```js
-getChildren('Emir')
+tree.getChildren('Emir') // or you could pass the tree instance into the method, however you wish to handle it
 
 ```
 
