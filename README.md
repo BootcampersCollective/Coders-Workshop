@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 21, 2021
+## Agenda: August 4, 2021
 
 ### Announcements
 
@@ -18,19 +18,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms!
+Trees! 🌲🍃
 
 ### Discussion
 
 ### Challenges
 
-[Strip Comments](./Coding-Challenges/stripComments)  
+[Simple Family Tree](./Coding-Challenges/simpleFamilyTree)  
 
-[Consecutive Alphabetical Letters](./Coding-Challenges/consecutiveAlphabeticalLetters)  
-
-[Capitalize A Title](./Coding-Challenges/capitalizeATitle)  
-
-[Factorial](./Coding-Challenges/factorial)  
+[Plant a DOM Tree](./Coding-Challenges/plantADomTree)  
 
 ### About
 
