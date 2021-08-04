@@ -4,8 +4,8 @@ Create a tree representing the example family given. Beyond creating the tree, i
 
 ## Family
 
-Parents: Emir, Aleah
-Children: Zachary, Kim, Penelope, Alesandro
+Parents: Emir, Aleah  
+Children: Zachary, Kim, Penelope, Alesandro  
 Grandchildren: Zachary has two children: Kate, Robin; Penelope has one child: Mary
 
 
