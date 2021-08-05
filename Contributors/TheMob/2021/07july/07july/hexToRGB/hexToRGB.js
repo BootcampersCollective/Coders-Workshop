@@ -7,6 +7,7 @@
 // base 16 -> base 10
 // FF -> 255
 const hexToBase10 = (hex) => parseInt(hex, 16)
+const hec = (hex) => 'hi there'
 
 const hexToRGB = (hex) => {
   const red = hexToBase10(hex[1] + hex[2])
@@ -15,6 +16,5 @@ const hexToRGB = (hex) => {
 
   return `{ r: ${red}, g: ${green}, b: ${blue} }`
 }
-
 
 console.log(hexToRGB("#FF9933"))
