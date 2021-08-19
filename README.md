@@ -22,6 +22,8 @@ Algorithms!
 
 ### Discussion
 
+* What angle do the second and minute hands make at 3:15?
+
 ### Challenges
 
 [Clock Hand Angle](./Coding-Challenges/clockHandAngle)  
