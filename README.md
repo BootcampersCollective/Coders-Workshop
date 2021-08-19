@@ -22,15 +22,15 @@ Algorithms!
 
 ### Discussion
 
-* What angle do the hour and minute hands make at 3:15?
+* What angle do the hour and minute hands make at 3:15?  
 
-  * Get a visual
-  * How quickly does the hour hand move?
-  * Figure out how far the minute and hour hands moves in an hour
-    15/60 -> angle between hour hand to minute hand
-    0.25 = 90 degrees = minute hand
-    360 / 12 = degrees in an hour = 30 degrees
-    30 * 0.25 = quarter of an hour 7.5 degrees
+  * Get a visual  
+  * How quickly does the hour hand move?  
+  * Figure out how far the minute and hour hands moves in an hour  
+    15/60 -> angle between hour hand to minute hand  
+    0.25 = 90 degrees = minute hand  
+    360 / 12 = degrees in an hour = 30 degrees  
+    30 * 0.25 = quarter of an hour 7.5 degrees  
 
 ### Challenges
 
