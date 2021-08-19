@@ -22,7 +22,7 @@ Algorithms!
 
 ### Discussion
 
-* What angle do the second and minute hands make at 3:15?
+* What angle do the hour and minute hands make at 3:15?
 
 ### Challenges
 
