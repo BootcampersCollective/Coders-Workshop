@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: August 18, 2021
+## Agenda: September 1, 2021
 
 ### Announcements
 
@@ -20,25 +20,11 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
-### Discussion
-
-* What angle do the hour and minute hands make at 3:15?  
-
-  * Get a visual  
-  * How quickly does the hour hand move?  
-  * Figure out how far the minute and hour hands moves in an hour  
-    15/60 -> angle between hour hand to minute hand  
-    0.25 = 90 degrees = minute hand  
-    360 / 12 = degrees in an hour = 30 degrees  
-    30 * 0.25 = quarter of an hour 7.5 degrees  
-
 ### Challenges
 
-[Clock Hand Angle](./Coding-Challenges/clockHandAngle)  
-
-[Highest Scoring Word](./Coding-Challenges/highestScoringWord)  
-
 [Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
+
+[Search on Property](./Coding-Challenges/searchOnProperty)  
 
 ### About
 
