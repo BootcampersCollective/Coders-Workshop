@@ -26,6 +26,8 @@ Algorithms!
 
 [Search on Property](./Coding-Challenges/searchOnProperty)  
 
+[Remove Anagrams](./Coding-Challenges/removeAnagrams)  
+
 ### About
 
 A meetup where programmers can develop problem solving skills & improve their technical communication.
