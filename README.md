@@ -20,6 +20,10 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
+### Discussion
+
+Linked Lists
+
 ### Challenges
 
 [Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
