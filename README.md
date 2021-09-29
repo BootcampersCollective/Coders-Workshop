@@ -22,15 +22,13 @@ Algorithms!
 
 ### Discussion
 
-Linked Lists
+How could you determine the speed of sound without the use of any modern, digital equipment?
 
 ### Challenges
 
-[Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
-
-[Search on Property](./Coding-Challenges/searchOnProperty)  
-
 [Remove Anagrams](./Coding-Challenges/removeAnagrams)  
+
+[Reverse Every Other Word](./Coding-Challenges/reverseEveryOtherWord)  
 
 ### About
 
