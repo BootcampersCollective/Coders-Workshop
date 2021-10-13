@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 29, 2021
+## Agenda: Oct 13, 2021
 
 ### Announcements
 
@@ -22,13 +22,15 @@ Algorithms!
 
 ### Discussion
 
-How could you determine the speed of sound without the use of any modern, digital equipment?
 
 ### Challenges
 
-[Remove Anagrams](./Coding-Challenges/removeAnagrams)  
-
 [Reverse Every Other Word](./Coding-Challenges/reverseEveryOtherWord)  
+
+[Sum To K](./Coding-Challenges/sumToK)  
+
+[Filter With Reduce](./Coding-Challenges/higherOrderFunctions/filterWithReduce)  
+
 
 ### About
 
