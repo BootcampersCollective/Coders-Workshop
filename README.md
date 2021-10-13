@@ -22,6 +22,8 @@ Algorithms!
 
 ### Discussion
 
+What are some advantages of using an object (hash map, map) and what are some advantages of using an array (list, vector)?
+
 
 ### Challenges
 
