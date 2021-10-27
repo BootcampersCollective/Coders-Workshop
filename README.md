@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Oct 13, 2021
+## Agenda: Oct 27, 2021
 
 ### Announcements
 
@@ -22,16 +22,13 @@ Algorithms!
 
 ### Discussion
 
-What are some advantages of using an object (hash map, map) and what are some advantages of using an array (list, vector)?
-
-
 ### Challenges
 
-[Reverse Every Other Word](./Coding-Challenges/reverseEveryOtherWord)  
+[Max Rotation](./Coding-Challenges/maxRotation)  
 
-[Sum To K](./Coding-Challenges/sumToK)  
+[Autocomplete](./Coding-Challenges/autocomplete)  
 
-[Filter With Reduce](./Coding-Challenges/higherOrderFunctions/filterWithReduce)  
+[Find All Occurrences](./Coding-Challenges/findOccurrencesOfPattern)  
 
 
 ### About
@@ -87,6 +84,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MattDevTech"><img src="https://avatars.githubusercontent.com/u/51864183?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/iatenine"><img src="https://avatars.githubusercontent.com/u/4423088?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gabrielconlon"><img src="https://avatars.githubusercontent.com/u/3859926?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mi544"><img src="https://avatars.githubusercontent.com/u/64174978?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
   </tr>
 </table>
 
