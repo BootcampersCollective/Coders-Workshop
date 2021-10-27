@@ -84,9 +84,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MattDevTech"><img src="https://avatars.githubusercontent.com/u/51864183?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/iatenine"><img src="https://avatars.githubusercontent.com/u/4423088?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/gabrielconlon"><img src="https://avatars.githubusercontent.com/u/3859926?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/mi544"><img src="https://avatars.githubusercontent.com/u/64174978?v=4" width="100px;" alt=""/><br /><sub><b>MattDevTech</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/iatenine"><img src="https://avatars.githubusercontent.com/u/4423088?v=4" width="100px;" alt=""/><br /><sub><b>Jack Linhart</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=iatenine" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gabrielconlon"><img src="https://avatars.githubusercontent.com/u/3859926?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mi544"><img src="https://avatars.githubusercontent.com/u/64174978?v=4" width="100px;" alt=""/><br /><sub><b>Maksim Verkhoturov</b></sub></a><br /><a href="https://github.com/BootcampersCollective/Coders-Workshop/commits?author=MattDevTech" title="Code">💻</a></td>
   </tr>
 </table>
 
