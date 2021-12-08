@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Nov 10, 2021
+## Agenda: Dec 8, 2021
 
 ### Announcements
 
@@ -26,7 +26,7 @@ What would you charge to mow every lawn in the city of Duluth, Minnesota?
 
 ### Challenges
 
-[Autocomplete](./Coding-Challenges/autocomplete)  
+[Array Diff](./Coding-Challenges/arrayDiff)  
 
 [Sentence Equivalency](./Coding-Challenges/sentenceEquivalency)  
 
