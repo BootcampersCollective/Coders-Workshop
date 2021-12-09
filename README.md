@@ -20,9 +20,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Algorithms!
 
-### Discussion
-
-How would you describe an API to someone who knows very little about computers?
+### Discussion"the cloud" eone who knows very little about computers?
 
 ### Challenges
 
