@@ -22,7 +22,7 @@ Algorithms!
 
 ### Discussion
 
-How would you describe "the cloud" to someone who knows very little about computers?
+How would you describe an API to someone who knows very little about computers?
 
 ### Challenges
 
