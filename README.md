@@ -22,7 +22,7 @@ Algorithms!
 
 ### Discussion
 
-What would you charge to mow every lawn in the city of Duluth, Minnesota?
+How would you describe "the cloud" to someone who knows very little about computers?
 
 ### Challenges
 
