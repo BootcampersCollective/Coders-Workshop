@@ -18,9 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Algorithms!
-
-### Discussion"the cloud" eone who knows very little about computers?
+Play some games...
 
 ### Challenges
 
