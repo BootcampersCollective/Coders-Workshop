@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Dec 8, 2021
+## Agenda: Dec 22, 2021
 
 ### Announcements
 
@@ -24,11 +24,11 @@ Algorithms!
 
 ### Challenges
 
-[Array Diff](./Coding-Challenges/arrayDiff)  
-
-[Sentence Equivalency](./Coding-Challenges/sentenceEquivalency)  
+[Multiply All, Not Me](./Coding-Challenges/multiplyAllNotMe)  
 
 [Shuffle](./Coding-Challenges/shuffle)  
+
+[Dice](./Coding-Challenges/diceGame)  
 
 
 ### About
