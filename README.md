@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Dec 22, 2021
+## Agenda: Jan 5, 2022
 
 ### Announcements
 
@@ -18,15 +18,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Topic
 
-Play some games...
+Algorithms!
 
 ### Challenges
 
-[Multiply All, Not Me](./Coding-Challenges/multiplyAllNotMe)  
+[Search Sorted Array](./Coding-Challenges/searchSortedArr)  
 
-[Shuffle](./Coding-Challenges/shuffle)  
+[Contiguous Subsequence Sums to K](./Coding-Challenges/contiguousSeqSumsToK)  
 
-[Dice](./Coding-Challenges/diceGame)  
+[Join Arrays](./Coding-Challenges/joinArrays)  
 
 
 ### About
