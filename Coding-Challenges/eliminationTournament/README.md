@@ -1,8 +1,10 @@
 # Elimination Tournament
 
-Write a function that accepts an array of values representing contestant ranks, and returns a series of arrays representing consecutive elimination rounds, simulating a tournament. The array `[2, 4, 3, 1]` would represent pairs `2, 4` and `3, 1`.
+Write a function that accepts an array of values representing contestant ranks, and returns a series of arrays representing consecutive elimination rounds,
+simulating a tournament. The array `[2, 4, 3, 1]` would represent pairs `2, 4` and `3, 1`.
 
-During one round, the lowest rank of a pair is eliminated while the highest pairs proceed to the next round. This goes on until one contestant only is left. If the number of contestants is odd, the last of the current array becomes the first of the next round.
+During one round, the lowest rank of a pair is eliminated while the highest pairs proceed to the next round.
+This goes on until one contestant only is left. If the number of contestants is odd, the last of the current array becomes the first of the next round.
 
 At the end of the competition, return the results of all the rounds in the form of array of arrays.
 
