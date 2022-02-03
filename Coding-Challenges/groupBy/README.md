@@ -9,8 +9,9 @@ Implement groupBy.
 For example, given the list `[{ name: 'winston', age: 12 }, { name: 'sarah', age: 25 }, { name: 'vlad', age: 9}]` and grouping function
 `(item) => item.age < 21 ? 'underage' : 'notUnderage'`, your function should return
 
-```{
-    underage: [{ name: 'winston', age: 12 }, { name: 'vlad', age: 9}],
-    notUnderage: [{ name: 'sarah', age: 25 }],
-   }
+```
+{
+   underage: [{ name: 'winston', age: 12 }, { name: 'vlad', age: 9}],
+   notUnderage: [{ name: 'sarah', age: 25 }],
+}
 ```
