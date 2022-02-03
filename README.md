@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Jan 19, 2022
+## Agenda: Jan 5, 2022
 
 ### Announcements
 
