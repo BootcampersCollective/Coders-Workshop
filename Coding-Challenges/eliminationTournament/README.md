@@ -8,7 +8,7 @@ This goes on until one contestant only is left. If the number of contestants is 
 
 At the end of the competition, return the results of all the rounds in the form of array of arrays.
 
-For example, with input `[9, 5, 4, 7, 6, 3, 8, 2]`, your function should return the following:
+For example, with inpuyt `[9, 5, 4, 7, 6, 3, 8, 2]`, our function should return the following:
 
 ```js
 [
