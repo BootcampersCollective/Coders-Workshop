@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Jan 5, 2022
+## Agenda: Feb 16, 2022
 
 ### Announcements
 
@@ -22,9 +22,12 @@ Algorithms!
 
 ### Challenges
 
-[groupBy](./Coding-Challenges/groupBy)  
+[Reimplement every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
 
-[Elimination Tournament](./Coding-Challenges/eliminationTournament)  
+[Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
+
+[PascalCase to snake-case](./Coding-Challenges/PascalCase-to-snake_case)  
+
 
 ### About
 
