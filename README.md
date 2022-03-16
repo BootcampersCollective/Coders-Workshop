@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 2, 2022
+## Agenda: March 16, 2022
 
 ### Announcements
 
@@ -16,19 +16,31 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
+### Discussion
+
+What is outputted to the console after the following JavaScript code is run?
+
+```js
+const a = [0, 1, true, 'asdf']
+const b = a.forEach((val) => val * 2)
+console.log(b)
+```
+
 ### Topic
 
 Algorithms!
 
 ### Challenges
 
-[Curried Take](./Coding-Challenges/curriedTake)  
+[Array Diff](./Coding-Challenges/arrayDiff)  
 
-[Find Occurrences of Pattern](./Coding-Challenges/findOccurrencesOfPattern)  
+[Digital Root](./Coding-Challenges/digitalRoot)  
 
-[Find Missing Number in Array](./Coding-Challenges/findMissingNumberInArray)  
+[Largest Rectangle in Matrix](./Coding-Challenges/largestRectangleInMatrix)  
 
-[Embolden HTML](./Coding-Challenges/emboldenHtml)  
+[Shortest Substring Containing All Characters](./Coding-Challenges/shortestSubstrContainingAllChars)  
+
+[Shifting Strings](./Coding-Challenges/shiftingStrings)  
 
 
 
