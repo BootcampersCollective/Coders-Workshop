@@ -34,12 +34,16 @@ Algorithms!
 
 [Array Diff](./Coding-Challenges/arrayDiff)  
 
+// recursion
 [Digital Root](./Coding-Challenges/digitalRoot)  
 
+// matricies
 [Largest Rectangle in Matrix](./Coding-Challenges/largestRectangleInMatrix)  
 
+// strings
 [Shortest Substring Containing All Characters](./Coding-Challenges/shortestSubstrContainingAllChars)  
 
+// strings
 [Shifting Strings](./Coding-Challenges/shiftingStrings)  
 
 
