@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 16, 2022
+## Agenda: March 30, 2022
 
 ### Announcements
 
@@ -18,13 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-What is outputted to the console after the following JavaScript code is run?
-
-```js
-const a = [0, 1, true, 'asdf']
-const b = a.forEach((val) => val * 2)
-console.log(b)
-```
+How would you explain a function to a non-technical person? (Assume you're speaking to a grandparent.)
 
 ### Topic
 
@@ -32,21 +26,11 @@ Algorithms!
 
 ### Challenges
 
-[Array Diff](./Coding-Challenges/arrayDiff)  
-
-// recursion
 [Digital Root](./Coding-Challenges/digitalRoot)  
 
-// matricies
-[Largest Rectangle in Matrix](./Coding-Challenges/largestRectangleInMatrix)  
+[Parse Commits for URLs](./Coding-Challenges/parseCommitsForUrls)  
 
-// strings
-[Shortest Substring Containing All Characters](./Coding-Challenges/shortestSubstrContainingAllChars)  
-
-// strings
 [Shifting Strings](./Coding-Challenges/shiftingStrings)  
-
-
 
 ### About
 

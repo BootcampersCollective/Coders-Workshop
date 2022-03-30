@@ -55,27 +55,27 @@ const _aperture = curry((n, init, a) => {
 
 const aperture = (n, a) => _aperture(n, [], a)
 
-const reduce = curry((reducer, init, iterator) => {
-  const [curr] = iterator
+const reduce = curry((reducer, init, iterable) => {
+  const [curr] = iterable
   return (isNil(curr))
     ? init
-    : reduce(reducer, reducer(init, curr), tail(iterator))
+    : reduce(reducer, reducer(init, curr), tail(iterable))
 })
 
-const reduceWhile = curry((pred, reducer, init, iterator) => {
-  const [curr] = iterator
+const reduceWhile = curry((pred, reducer, init, iterable) => {
+  const [curr] = iterable
   if (isNil(curr)) return init
   const acc = reducer(init, curr)
   return pred(acc,curr)
-    ? reduceWhile(pred, reducer, acc, tail(iterator))
+    ? reduceWhile(pred, reducer, acc, tail(iterable))
     : acc
 })
 
-const reduceRight = curry((reducer, init, iterator) => {
-  const curr = last(iterator)
+const reduceRight = curry((reducer, init, iterable) => {
+  const curr = last(iterable)
   return (isNil(curr))
     ? init
-    : reduceRight(reducer, reducer(init, curr), drop(iterator))
+    : reduceRight(reducer, reducer(init, curr), drop(iterable))
 })
 
 const pipeReducer = ((a, c) => c.call(this, a))
