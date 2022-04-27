@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 13, 2022
+## Agenda: April 27, 2022
 
 ### Announcements
 
@@ -16,21 +16,25 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
+### Discussion
+
+How do you keep your software development skills relevant and plan to keep them relevant?
+
 ### Topic
 
 Algorithms!
 
 ### Challenges
 
-[Coin Flip](./Coding-Challenges/coinFlip)  
+[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
+
+[Reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
 
 [Balanced Brackets](./Coding-Challenges/balancedBrackets)  
 
 [Shifting Strings](./Coding-Challenges/shiftingStrings)  
 
-[Once](./Coding-Challenges/once)  
-
-[Remove Duplicates](./Coding-Challenges/removeDuplicates)  
+[Permutation of a Palindrome](./Coding-Challenges/permutationOfAPalindrome)  
 
 ### About
 
