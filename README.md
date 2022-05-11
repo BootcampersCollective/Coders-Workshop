@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 27, 2022
+## Agenda: May 11, 2022
 
 ### Announcements
 
@@ -18,7 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How do you keep your software development skills relevant and plan to keep them relevant?
+What's the difference between object-oriented and functional programming?
 
 ### Topic
 
@@ -26,15 +26,12 @@ Algorithms!
 
 ### Challenges
 
-[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
+
+[Cash Register](./Coding-Challenges/cashRegister)  
 
 [Reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
 
-[Balanced Brackets](./Coding-Challenges/balancedBrackets)  
-
 [Shifting Strings](./Coding-Challenges/shiftingStrings)  
-
-[Permutation of a Palindrome](./Coding-Challenges/permutationOfAPalindrome)  
 
 ### About
 
