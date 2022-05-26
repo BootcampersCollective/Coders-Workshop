@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 25, 2022
+## Agenda: June 22, 2022
 
 ### Announcements
 
@@ -27,13 +27,13 @@ Algorithms!
 ### Challenges
 
 
-[Reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
+[Some](./Coding-Challenges/higherOrderFunctions/Array.prototype.some)  
 
-[MinMaxStruct](./Coding-Challenges/minMaxStruct)  
+[Integer Palindrome](./Coding-Challenges/integerPalindrome)  
 
-[Kaprekar's Constant](./Coding-Challenges/kaprekarsConstant)  
+[Human Readable Time](./Coding-Challenges/humanReadableTime)  
 
-[Format Phone Number](./Coding-Challenges/formatPhoneNumber)  
+[Rotate Matrix](./Coding-Challenges/rotateMatrix)  
 
 
 ### About
