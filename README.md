@@ -16,16 +16,11 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
-### Discussion
-
-What's the difference between object-oriented and functional programming?
-
 ### Topic
 
 Algorithms!
 
 ### Challenges
-
 
 [Some](./Coding-Challenges/higherOrderFunctions/Array.prototype.some)  
 
