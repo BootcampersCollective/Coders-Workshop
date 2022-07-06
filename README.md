@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 22, 2022
+## Agenda: July 6, 2022
 
 ### Announcements
 
@@ -16,19 +16,23 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
+### Discussion
+
+How would you code the logic for a vending machine?
+
 ### Topic
 
 Algorithms!
 
 ### Challenges
 
-[Some](./Coding-Challenges/higherOrderFunctions/Array.prototype.some)  
+[Every](./Coding-Challenges/higherOrderFunctions/Array.prototype.every)  
 
-[Integer Palindrome](./Coding-Challenges/integerPalindrome)  
+[Two Sum](./Coding-Challenges/twoSum)  
 
-[Human Readable Time](./Coding-Challenges/humanReadableTime)  
+[Summarize Data Length](./Coding-Challenges/summarizeDataLength)  
 
-[Rotate Matrix](./Coding-Challenges/rotateMatrix)  
+[Rotate to Smallest String](./Coding-Challenges/rotateToSmallestString)  
 
 
 ### About
