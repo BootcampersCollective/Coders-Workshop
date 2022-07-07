@@ -26,7 +26,7 @@ Algorithms!
 
 ### Challenges
 
-[Every](./Coding-Challenges/higherOrderFunctions/Array.prototype.every)  
+[Every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
 
 [Two Sum](./Coding-Challenges/twoSum)  
 
