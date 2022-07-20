@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 6, 2022
+## Agenda: July 20, 2022
 
 ### Announcements
 
@@ -26,9 +26,11 @@ Algorithms!
 
 ### Challenges
 
-[Every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
+[forEach](./Coding-Challenges/higherOrderFunctions/Array.prototype.forEach)  
 
 [Two Sum](./Coding-Challenges/twoSum)  
+
+[Strip Comments](./Coding-Challenges/stripComments)  
 
 [Summarize Data Length](./Coding-Challenges/summarizeDataLength)  
 
