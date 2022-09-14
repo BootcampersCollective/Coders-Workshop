@@ -11,7 +11,7 @@ You are given an array of car data, with each car type represented by an object 
 }
 ```
 
-Write a function called `summarize` that takes two arguments, a search category and a search term
+Write a function called `summarize` that takes two arguments, a search category and a search term.
 
 The category corresponds to the key in the car object and the search term corresponds to the value.
 
@@ -113,6 +113,16 @@ For example, given the following data
         }
     ],
     length: 2
+}
+
+```
+
+If the search category does not exist, or if the search term has no results, return
+
+```
+{
+    items: [],
+    length: 0
 }
 
 ```
