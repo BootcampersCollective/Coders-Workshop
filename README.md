@@ -28,7 +28,7 @@ Algorithms!
 
 [map](./Coding-Challenges/higherOrderFunctions/Array.Prototype.map)  
 
-[path](./Coding-Challenges/higherOrderFunctions/path)  
+[path](./Coding-Challenges/path)  
 
 [Summarize Data Length](./Coding-Challenges/summarizeDataLength)  
 
