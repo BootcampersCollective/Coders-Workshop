@@ -18,7 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How would you code the logic for a vending machine?
+What are some good questions to ask at an interview for a software dev role?
 
 ### Topic
 
