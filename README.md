@@ -20,6 +20,18 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 What are some good questions to ask at an interview for a software dev role?
 
+  * Team size and makeup
+  * Scope of what parts of stack the position is for
+  * What would a day look like on the team
+  * How long do people tend to stay at the company (maybe look up on linkedin)
+  * What keeps your team members up at night?
+  * What skills-gaps are there on your team?
+  * What kinds of projects are they working on?
+  * Agile methodology -- sprints? Release cadence? Ceremonies? Daily standup?
+  * Does toxic scrum exist here?
+  * Time balance? How much consecutive time?
+  * Work/life balance?
+
 ### Topic
 
 Algorithms!
