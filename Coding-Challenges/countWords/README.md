@@ -2,7 +2,7 @@
 
 Given a string of words separated by spaces, return a map from each word in the string to the count of that word. For example, given the following string:
 
-```json
+```
 "give a little get a little"
 ```
 

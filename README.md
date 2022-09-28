@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 14, 2022
+## Agenda: September 28, 2022
 
 ### Announcements
 
@@ -18,34 +18,27 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-What are some good questions to ask at an interview for a software dev role?
+You have 100 marbles of the same size, 99 of which weigh the same but 1 weighs more than all the others.
 
-  * Team size and makeup
-  * Scope of what parts of stack the position is for
-  * What would a day look like on the team
-  * How long do people tend to stay at the company (maybe look up on linkedin)
-  * What keeps your team members up at night?
-  * What skills-gaps are there on your team?
-  * What kinds of projects are they working on?
-  * Agile methodology -- sprints? Release cadence? Ceremonies? Daily standup?
-  * Does toxic scrum exist here?
-  * Time balance? How much consecutive time?
-  * Work/life balance?
+You need to find the marble that weighs more. However, your scale is very fancy and costs money each time you weigh something.
+
+How could you find the heavier marble while using the scale the fewest number of times?
 
 ### Topic
 
-Algorithms!
+`algorithms() { algorithms() }`
 
 ### Challenges
 
-[map](./Coding-Challenges/higherOrderFunctions/Array.Prototype.map)  
+[reduce](./Coding-Challenges/higherOrderFunctions/Array.Prototype.reduce)  
 
-[path](./Coding-Challenges/path)  
+[factorial](./Coding-Challenges/factorial)  
 
-[Summarize Data Length](./Coding-Challenges/summarizeDataLength)  
+[String Task](./Coding-Challenges/stringTask)  
 
-[Rotate to Smallest String](./Coding-Challenges/rotateToSmallestString)  
+[Permutation of a Palindrome](./Coding-Challenges/permutationOfAPalindrome)  
 
+[Repeated Characters](./Coding-Challenges/permutationOfAPalindrome)  
 
 ### About
 
