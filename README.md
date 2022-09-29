@@ -24,9 +24,10 @@ You need to find the marble that weighs more. However, your scale is very fancy 
 
 How could you find the heavier marble while using the scale the fewest number of times?
 
+
 ### Topic
 
-`algorithms() { algorithms() }`
+`algorithms() { if (true) return algorithms() }`
 
 ### Challenges
 
