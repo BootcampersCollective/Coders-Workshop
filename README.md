@@ -34,7 +34,7 @@ Currying and Higher Order Functions
 
 [Point Free Filter](./Coding-Challenges/pointFreeFilter)  
 
-[Repeated Characters](./Coding-Challenges/permutationOfAPalindrome)  
+[Repeated Characters](./Coding-Challenges/repeatedCharacters)  
 
 ### About
 
