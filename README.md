@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 28, 2022
+## Agenda: October 12, 2022
 
 ### Announcements
 
