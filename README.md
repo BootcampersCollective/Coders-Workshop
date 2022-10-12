@@ -18,26 +18,21 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-You have 100 marbles of the same size, 99 of which weigh the same but 1 weighs more than all the others.
-
-You need to find the marble that weighs more. However, your scale is very fancy and costs money each time you weigh something.
-
-How could you find the heavier marble while using the scale the fewest number of times?
-
+What's your favorite website?
 
 ### Topic
 
-`algorithms() { if (true) return algorithms() }`
+Currying and Higher Order Functions
 
 ### Challenges
 
-[reduce](./Coding-Challenges/higherOrderFunctions/Array.Prototype.reduce)  
+[Function.prototype.bind](./Coding-Challenges/higherOrderFunctions/Function.prototype.bind)  
 
-[factorial](./Coding-Challenges/factorial)  
+[Curried Take](./Coding-Challenges/curriedTake)  
 
-[String Task](./Coding-Challenges/stringTask)  
+[Chain Multiply](./Coding-Challenges/chainMultiply)  
 
-[Permutation of a Palindrome](./Coding-Challenges/permutationOfAPalindrome)  
+[Point Free Filter](./Coding-Challenges/pointFreeFilter)  
 
 [Repeated Characters](./Coding-Challenges/permutationOfAPalindrome)  
 
