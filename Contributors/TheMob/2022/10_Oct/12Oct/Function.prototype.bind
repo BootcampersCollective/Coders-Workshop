@@ -1,0 +1,2 @@
+
+`bind(fn, context, arg1, arg2, /*...*/, argN)`
