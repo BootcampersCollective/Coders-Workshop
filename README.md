@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 12, 2022
+## Agenda: October 26, 2022
 
 ### Announcements
 
@@ -22,19 +22,20 @@ What's your favorite website?
 
 ### Topic
 
-Currying and Higher Order Functions
+Traditional Algos
 
 ### Challenges
 
-[Function.prototype.bind](./Coding-Challenges/higherOrderFunctions/Function.prototype.bind)  
+[Array.prototype.group](./Coding-Challenges/higherOrderFunctions/Array.prototype.group)  
 
-[Curried Take](./Coding-Challenges/curriedTake)  
+[Longest Common Prefix](./Coding-Challenges/longestCommonPrefix)  
 
-[Chain Multiply](./Coding-Challenges/chainMultiply)  
+[Plus One](./Coding-Challenges/plusOne)  
 
-[Point Free Filter](./Coding-Challenges/pointFreeFilter)  
+[Convert Roman Numberals](./Coding-Challenges/convertRomanNumerals)  
 
-[Repeated Characters](./Coding-Challenges/repeatedCharacters)  
+[Remove Duplicates From Sorted Array](./Coding-Challenges/removeDupesFromSortedArr)  
+
 
 ### About
 

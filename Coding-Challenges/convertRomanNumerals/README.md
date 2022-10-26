@@ -19,3 +19,14 @@ The values of Roman numerals are as follows:
 In addition, note that the Roman numeral system uses subtractive notation for numbers such as IV and XL.
 
 For the input `"XIV"`, for instance, you should return `14`.
+
+More examples
+
+Input: s = "III"
+Output: 3
+
+Input: s = "LVIII"
+Output: 58
+
+Input: s = "MCMXCIV"
+Output: 1994
