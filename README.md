@@ -18,7 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-What's your favorite website?
+How would you describe an API to a non-technical person?
 
 ### Topic
 
