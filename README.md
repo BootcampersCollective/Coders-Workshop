@@ -23,7 +23,7 @@ How would you describe an API to a non-technical person?
 ### Topic
 
 Traditional Algos
-
+  
 ### Challenges
 
 [Array.prototype.group](./Coding-Challenges/higherOrderFunctions/Array.prototype.group)  
