@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 26, 2022
+## Agenda: November 9, 2022
 
 ### Announcements
 
@@ -26,15 +26,14 @@ Traditional Algos
   
 ### Challenges
 
-[Array.prototype.group](./Coding-Challenges/higherOrderFunctions/Array.prototype.group)  
+[filterMap](./Coding-Challenges/filterMap)  
 
-[Longest Common Prefix](./Coding-Challenges/longestCommonPrefix)  
-
-[Plus One](./Coding-Challenges/plusOne)  
+[Remove Duplicates From Sorted Array](./Coding-Challenges/removeDupesFromSortedArr)  
 
 [Convert Roman Numberals](./Coding-Challenges/convertRomanNumerals)  
 
-[Remove Duplicates From Sorted Array](./Coding-Challenges/removeDupesFromSortedArr)  
+[Plus One](./Coding-Challenges/plusOne)  
+
 
 
 ### About
