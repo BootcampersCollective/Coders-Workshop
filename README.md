@@ -18,8 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How would you describe an API to a non-technical person?
-
+What happens when you type in a URL in the address bar in your browser and hit enter?
 ### Topic
 
 Traditional Algos
