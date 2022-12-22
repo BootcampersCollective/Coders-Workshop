@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: November 9, 2022
+## Agenda: December 21, 2022
 
 ### Announcements
 
@@ -18,36 +18,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-What happens when you type in a URL in the address bar in your browser and hit enter?
+Chat GPT
 
-* Looks up the IP address (DNS lookup)
-  * DNS: translates human-readable addresses (e.g. nyt.com) to an IP address why: (i.e. numbers used by machine to connect with server)
-  * nyt.com -> 12.23.456.789
-
-* HTTP/S request to 12.23.456.789 (address of a server)
-  * Make a GET request
-  * Received by a server --> so much stuff happens under the hood
-
-* Server sends back some stuff (HTML/CSS/JS)
-
-* Browser renders that stuff
-
-
-### Topic
-
-Traditional Algos
-  
 ### Challenges
 
-[filterMap](./Coding-Challenges/filterMap)  
+[findLastIndex](./Coding-Challenges/higherOrderFunctions/Array.prototype.findLastIndex)  
 
-[Remove Duplicates From Sorted Array](./Coding-Challenges/removeDupesFromSortedArr)  
+[AOC](https://adventofcode.com/2022/day/1)  
 
 [Convert Roman Numberals](./Coding-Challenges/convertRomanNumerals)  
-
-[Plus One](./Coding-Challenges/plusOne)  
-
-
 
 ### About
 
