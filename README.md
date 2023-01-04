@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: December 21, 2022
+## Agenda: January 4, 2023
 
 ### Announcements
 
@@ -18,15 +18,19 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-Chat GPT
+What do you love about programming?
 
 ### Challenges
 
-[findLastIndex](./Coding-Challenges/higherOrderFunctions/Array.prototype.findLastIndex)  
+[Partition](./Coding-Challenges/partition)  
 
-[AOC](https://adventofcode.com/2022/day/1)  
+[Reverse Every Other Word in String](./Coding-Challenges/reverseEveryOtherWord)  
 
-[Convert Roman Numberals](./Coding-Challenges/convertRomanNumerals)  
+[Remove Anagrams](./Coding-Challenges/removeAnagrams)  
+
+[Shuffle](./Coding-Challenges/shuffle)  
+
+[prefixMapSum](./Coding-Challenges/prefixMapSum)  
 
 ### About
 
