@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 4, 2023
+## Agenda: January 18, 2023
 
 ### Announcements
 
@@ -18,15 +18,14 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
+
 What do you love about programming?
 
 ### Challenges
 
-[Partition](./Coding-Challenges/partition)  
+[forEach Obj](./Coding-Challenges/forEachObject)  
 
 [Reverse Every Other Word in String](./Coding-Challenges/reverseEveryOtherWord)  
-
-[Remove Anagrams](./Coding-Challenges/removeAnagrams)  
 
 [Shuffle](./Coding-Challenges/shuffle)  
 
