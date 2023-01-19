@@ -18,8 +18,7 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-
-What do you love about programming?
+How would you design the system to control an elevator?
 
 ### Challenges
 
