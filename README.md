@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 18, 2023
+## Agenda: February 1, 2023
 
 ### Announcements
 
@@ -22,9 +22,9 @@ How would you design the system to control an elevator?
 
 ### Challenges
 
-[forEach Obj](./Coding-Challenges/forEachObject)  
+Implement Array.isArray
 
-[Reverse Every Other Word in String](./Coding-Challenges/reverseEveryOtherWord)  
+[Find Occurrences of a Pattern](./Coding-Challenges/findOccurrencesOfPattern)  
 
 [Shuffle](./Coding-Challenges/shuffle)  
 
