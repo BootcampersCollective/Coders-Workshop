@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: February 1, 2023
+## Agenda: February 15, 2023
 
 ### Announcements
 
@@ -18,17 +18,18 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How would you design the system to control an elevator?
+How would you describe what AWS does to a non-technical person?
+How about a serverless function?
 
 ### Challenges
 
 Implement Array.isArray
 
-[Find Occurrences of a Pattern](./Coding-Challenges/findOccurrencesOfPattern)  
-
 [Shuffle](./Coding-Challenges/shuffle)  
 
 [prefixMapSum](./Coding-Challenges/prefixMapSum)  
+
+[smallestStepsToOne](./Coding-Challenges/stepsToReachone)  
 
 ### About
 
