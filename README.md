@@ -22,8 +22,7 @@ How would you describe what AWS does to a non-technical person?
 How about a serverless function?
 
 ### Challenges
-
-Implement Array.isArray
+h
 
 [Shuffle](./Coding-Challenges/shuffle)  
 
