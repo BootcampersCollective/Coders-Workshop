@@ -10,4 +10,4 @@ const stepsToReachOne = (n, steps=0) => {
   return steps
 }
 
-console.log(stepsToReachOne(10394240))
+console.log(stepsToReachOne(99))

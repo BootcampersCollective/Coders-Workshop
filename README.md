@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: February 15, 2023
+## Agenda: March 1, 2023
 
 ### Announcements
 
@@ -18,15 +18,17 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How would you describe what AWS does to a non-technical person?
-How about a serverless function?
+On a conventional analog clock, what angle do the two clock hands make at 3:15?
 
 ### Challenges
-h
 
-[Shuffle](./Coding-Challenges/shuffle)  
+[Array.prototype.reverse] (./Coding-Challenges/Array.prototype.reverse)
 
 [prefixMapSum](./Coding-Challenges/prefixMapSum)  
+
+[Clock Hand Angle](./Coding-Challenges/clockHandAngle)  
+
+[Array Diff](./Coding-Challenges/arrayDiff)  
 
 [smallestStepsToOne](./Coding-Challenges/stepsToReachone)  
 
