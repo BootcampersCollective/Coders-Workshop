@@ -6,7 +6,7 @@
 
 ### Announcements
 
-Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
+Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemname=ms-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
 
 In 2021 we started organizing our "mob solutions" -- the problems we work on during the meetup -- into a separate folder that identifies which date it was done. So, for example, the solutions for March 17 2021 can be found at https://github.com/BootcampersCollective/Coders-Workshop/tree/main/Contributors/TheMob/2021/03march/17march
 
@@ -22,7 +22,7 @@ On a conventional analog clock, what angle do the two clock hands make at 3:15?
 
 ### Challenges
 
-[Array.prototype.reverse] (./Coding-Challenges/Array.prototype.reverse)
+[Array.prototype.reverse](./Coding-Challenges/Array.prototype.reverse)
 
 [prefixMapSum](./Coding-Challenges/prefixMapSum)  
 
