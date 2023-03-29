@@ -8,7 +8,6 @@ For example, the following two sentences are equivalent:
 
 With synonyms `[['eat', 'consume'], ['big', 'large']]`
 
-
 Note that the synonyms `[a, b]` and `[a, c]` do not necessarily imply `[b, c]`: consider the case of [coach, bus] and [coach, teacher].
 
 Follow-up: what if we can assume that `[a, b]` and `[a, c]` do in fact imply `[b, c]`?

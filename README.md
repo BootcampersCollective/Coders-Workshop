@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 1, 2023
+## Agenda: March 29, 2023
 
 ### Announcements
 
@@ -18,19 +18,23 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-On a conventional analog clock, what angle do the two clock hands make at 3:15?
+How do you stay up to date?
 
 ### Challenges
 
-[Array.prototype.reverse](./Coding-Challenges/Array.prototype.reverse)
+[Array.prototype.every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
 
-[prefixMapSum](./Coding-Challenges/prefixMapSum)  
+[Always](./Coding-Challenges/always)  
 
-[Clock Hand Angle](./Coding-Challenges/clockHandAngle)  
+[Suffix](./Coding-Challenges/suffix)  
 
-[Array Diff](./Coding-Challenges/arrayDiff)  
+[Compact](./Coding-Challenges/compact)  
 
-[smallestStepsToOne](./Coding-Challenges/stepsToReachone)  
+[Sentence Equivalency](./Coding-Challenges/sentenceEquivalency)  
+
+[Numbers in Strings](./Coding-Challenges/numbersInStrings)  
+
+[String to Binary](./Coding-Challenges/stringToBinary)  
 
 ### About
 
