@@ -10,5 +10,5 @@ f1() ➞ "apple"
 const f2 = always("pear")
 f2("something else") ➞ "pear"
 
-const f3 = redundant("")
+const f3 = always("")
 f3() ➞ ""
