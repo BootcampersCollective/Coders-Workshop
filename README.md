@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 29, 2023
+## Agenda: April 12, 2023
 
 ### Announcements
 
@@ -22,19 +22,15 @@ How do you stay up to date?
 
 ### Challenges
 
-[Array.prototype.every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
-
-[Always](./Coding-Challenges/always)  
-
-[Suffix](./Coding-Challenges/suffix)  
+[String.prototype.trim](./Coding-Challenges/String.prototype.trim)  
 
 [Compact](./Coding-Challenges/compact)  
-
-[Sentence Equivalency](./Coding-Challenges/sentenceEquivalency)  
 
 [Numbers in Strings](./Coding-Challenges/numbersInStrings)  
 
 [String to Binary](./Coding-Challenges/stringToBinary)  
+
+[Flatten Array](./Coding-Challenges/flattenArray)  
 
 ### About
 
