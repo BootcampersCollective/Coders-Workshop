@@ -4,7 +4,7 @@ Reimplement the `trim()` method.
 
 `trim()` removes whitespace from both ends of a string and returns a new string, without modifying the original string.
 
-`trim` should a single argument, the string to trim.
+`trim` should take a single argument, the string to trim.
 
 For example
 
