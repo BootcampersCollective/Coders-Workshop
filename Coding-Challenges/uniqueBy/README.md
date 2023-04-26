@@ -14,13 +14,16 @@ const list = [{name: 'winston', id: 1}, {name: 'sasha', id: 2}, {name: 'sally', 
 
 And the following comparison function
 
+```
 const getId = (obj) => obj.id;
+```
 
+When you run
 ```
 uniqueBy(getId, list)
 ```
 
-Should return 
+It should return 
 
 ```
 [{name: 'winston', id: 1}, {name: 'sasha', id: 2}]
