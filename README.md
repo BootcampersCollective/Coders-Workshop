@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 26, 2023
+## Agenda: May 10, 2023
 
 ### Announcements
 
@@ -18,15 +18,15 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How long would it take to vacuum every floor in the Empire State building in New York?
+How do you use AI in your coding?
 
 ### Challenges
 
-[Unique By](./Coding-Challenges/uniqueBy)  
+[Reduce While](./Coding-Challenges/higherOrderFunctions/reduceWhile)  
 
-[String to Binary](./Coding-Challenges/stringToBinary)  
+[Digital Root](./Coding-Challenges/digitalRoot)  
 
-[Make Change](./Coding-Challenges/makeChange)  
+[Autocomplete](./Coding-Challenges/autocomplete)  
 
 [Flatten Array](./Coding-Challenges/flattenArray)  
 
