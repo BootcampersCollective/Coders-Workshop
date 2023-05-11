@@ -35,7 +35,6 @@ const makeChange = (given, price) => {
         change = output.dimes ?  (change - output.dimes * 10) : change;
         output.nickels = Math.floor(change/nickel) //0
         change = output.nickels ? (change - output.nickels * 5) : change;
-        console.log({output, change})
         output.pennies = Math.floor(change/penny) //1
          
     
