@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 10, 2023
+## Agenda: May 24, 2023
 
 ### Announcements
 
@@ -18,15 +18,17 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-How do you use AI in your coding?
+Can you describe the basics of HTTP and its significance in web development? Discuss the request-response cycle and some commonly used HTTP methods.
 
 ### Challenges
 
-[Reduce While](./Coding-Challenges/higherOrderFunctions/reduceWhile)  
+[Every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
+
+[Extract Product ID from URL](./Coding-Challenges/extractProductIDFromUrl)  
 
 [Digital Root](./Coding-Challenges/digitalRoot)  
 
-[Autocomplete](./Coding-Challenges/autocomplete)  
+[Once](./Coding-Challenges/once)  
 
 [Flatten Array](./Coding-Challenges/flattenArray)  
 
