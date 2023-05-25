@@ -22,7 +22,7 @@ Can you describe the basics of HTTP and its significance in web development? Dis
 
 ### Challenges
 
-[Every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
+[Find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
 
 [Extract Product ID from URL](./Coding-Challenges/extractProductIDFromUrl)  
 
