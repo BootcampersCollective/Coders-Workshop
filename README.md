@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 24, 2023
+## Agenda: June 21, 2023
 
 ### Announcements
 
@@ -18,19 +18,19 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-Can you describe the basics of HTTP and its significance in web development? Discuss the request-response cycle and some commonly used HTTP methods.
+Discuss the concept of software testing and its significance in the development process. What are some commonly used testing techniques?
 
 ### Challenges
 
-[Find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
+[FlatMap](./Coding-Challenges/higherOrderFunctions/Array.Prototype.flatMap)  
 
-[Extract Product ID from URL](./Coding-Challenges/extractProductIDFromUrl)  
+[isPrime](./Coding-Challenges/isPrime)  
 
-[Digital Root](./Coding-Challenges/digitalRoot)  
+[Group Anagrams](./Coding-Challenges/groupAnagrams)  
 
-[Once](./Coding-Challenges/once)  
+[isMeetupLanguageDiverse](./Coding-Challenges/isMeetupLanguageDiverse)  
 
-[Flatten Array](./Coding-Challenges/flattenArray)  
+[Flatten Nested Dictionary](./Coding-Challenges/flattenNestedDictionary)  
 
 ### About
 
