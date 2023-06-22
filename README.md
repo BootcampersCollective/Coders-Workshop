@@ -20,6 +20,20 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 Discuss the concept of software testing and its significance in the development process. What are some commonly used testing techniques?
 
+#### Benefits
+* Access to inner-workings? white (open)-box testing. Otherwise, black-box testing.
+* Testing means better working software.
+* Helps developers understand their code better and helps code actually do what the developer intends.
+* Provides insight into code functionality (source of documentation) -- functionality communication tool
+* Have a more predicable work-cycle
+  * More proactivity with testing means less bug-fixing
+
+#### Techniques
+
+* Unit testing (small scale, individual function testing) -- "core of testing"
+* Integration testing: how do units connect with one another -- no kind of emergent behavior complicates, obfuscates, or inhibits behavior of all of them
+* End-to-end (E2E) testing: show that a process works, e.g. automate a web browser to ensure that process of inputting/receiving data work
+  * chain of events execute how you want them to
 ### Challenges
 
 [FlatMap](./Coding-Challenges/higherOrderFunctions/Array.Prototype.flatMap)  
