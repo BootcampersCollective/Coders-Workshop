@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 21, 2023
+## Agenda: July 5, 2023
 
 ### Announcements
 
@@ -18,31 +18,19 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 ### Discussion
 
-Discuss the concept of software testing and its significance in the development process. What are some commonly used testing techniques?
+What are the differences between synchronous and asynchronous JavaScript? Provide examples of when you would use each approach.
 
-#### Benefits
-* Access to inner-workings? white (open)-box testing. Otherwise, black-box testing.
-* Testing means better working software.
-* Helps developers understand their code better and helps code actually do what the developer intends.
-* Provides insight into code functionality (source of documentation) -- functionality communication tool
-* Have a more predicable work-cycle
-  * More proactivity with testing means less bug-fixing
-
-#### Techniques
-
-* Unit testing (small scale, individual function testing) -- "core of testing"
-* Integration testing: how do units connect with one another -- no kind of emergent behavior complicates, obfuscates, or inhibits behavior of all of them
-* End-to-end (E2E) testing: show that a process works, e.g. automate a web browser to ensure that process of inputting/receiving data work
-  * chain of events execute how you want them to
 ### Challenges
 
-[FlatMap](./Coding-Challenges/higherOrderFunctions/Array.Prototype.flatMap)  
+[Reject](./Coding-Challenges/reject)  
 
 [isPrime](./Coding-Challenges/isPrime)  
 
-[Group Anagrams](./Coding-Challenges/groupAnagrams)  
-
 [isMeetupLanguageDiverse](./Coding-Challenges/isMeetupLanguageDiverse)  
+
+[Path](./Coding-Challenges/path)  
+
+[String Task](./Coding-Challenges/stringTask)  
 
 [Flatten Nested Dictionary](./Coding-Challenges/flattenNestedDictionary)  
 

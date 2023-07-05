@@ -1,6 +1,8 @@
 # Is Meetup Language Diverse?
 
-You are given an array of objects representing data about developers who have signed up to attend the next web development meetup that you are organizing. Three programming languages will be represented: Python, Ruby and JavaScript.
+You are given an array of objects representing data about developers who have signed up to attend the next web development meetup that you are organizing.
+
+Three programming languages will be represented: Python, Ruby and JavaScript.
 
 Your task is to return either:
 
