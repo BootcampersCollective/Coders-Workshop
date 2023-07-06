@@ -20,6 +20,49 @@ Bootcampers Collective is working to migrate events online! Check out [Bootcampe
 
 What are the differences between synchronous and asynchronous JavaScript? Provide examples of when you would use each approach.
 
+e.g. API calls - doesn't wait for the call to respond so have to use promise/callback -- asynchronous
+
+synchronous: interpretation goes synchronously - does wait for code to finish executing
+
+asynchronous: Doing multiple things at one time - doesn't wait for some code to finish executing
+--> want to show something to the user before all data has loaded
+  * callbacks
+  * promises (.then(() => ))
+  * async/await const result = await getData()
+  async function showAvatar() {
+
+  // read our JSON
+  let response = await fetch('/article/promise-chaining/user.json');
+  let user = await response.json();
+
+  fetch('/article/promise-chaining/user.json').then((response) => {
+    response.json().then((json) => {
+      console.log('I have a response', json)
+    })
+  })
+
+  console.log('hi')
+
+  // read github user
+  let githubResponse = await fetch(`https://api.github.com/users/${user.name}`);
+  let githubUser = await githubResponse.json();
+
+  // show the avatar
+  let img = document.createElement('img');
+  img.src = githubUser.avatar_url;
+  img.className = "promise-avatar-example";
+  document.body.append(img);
+
+  // wait 3 seconds
+  await new Promise((resolve, reject) => setTimeout(resolve, 3000));
+
+  img.remove();
+
+  return githubUser;
+}
+
+showAvatar();
+
 ### Challenges
 
 [Reject](./Coding-Challenges/reject)  
