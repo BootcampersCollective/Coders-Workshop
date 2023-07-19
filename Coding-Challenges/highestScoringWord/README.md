@@ -16,4 +16,4 @@ For example, given
 
 given `a man a plan a canal panama` return `panama`
 
-given `aa b` return `aa` since `aa` and `b` score the same but `a` comes earlier in the string.
+given `aa b` return `aa` since `aa` and `b` score the same but `aa` comes earlier in the string.
