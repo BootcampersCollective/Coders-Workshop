@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 5, 2023
+## Agenda: July 19, 2023
 
 ### Announcements
 
@@ -12,68 +12,21 @@ In 2021 we started organizing our "mob solutions" -- the problems we work on dur
 
 Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com) - we are the `#workshop` channel, but check out any other channels that might interest you.
 
-Bootcampers Collective is working to migrate events online! Check out [Bootcampers Meetup Page](https://www.meetup.com/Bootcampers-Collective/) for the latest.
-
 - Have a topic you're interested in? Want to cover something in a group setting? Let us know!
 
 ### Discussion
 
-What are the differences between synchronous and asynchronous JavaScript? Provide examples of when you would use each approach.
-
-e.g. API calls - doesn't wait for the call to respond so have to use promise/callback -- asynchronous
-
-synchronous: interpretation goes synchronously - does wait for code to finish executing
-
-asynchronous: Doing multiple things at one time - doesn't wait for some code to finish executing
---> want to show something to the user before all data has loaded
-  * callbacks
-  * promises (.then(() => ))
-  * async/await const result = await getData()
-  async function showAvatar() {
-
-  // read our JSON
-  let response = await fetch('/article/promise-chaining/user.json');
-  let user = await response.json();
-
-  fetch('/article/promise-chaining/user.json').then((response) => {
-    response.json().then((json) => {
-      console.log('I have a response', json)
-    })
-  })
-
-  console.log('hi')
-
-  // read github user
-  let githubResponse = await fetch(`https://api.github.com/users/${user.name}`);
-  let githubUser = await githubResponse.json();
-
-  // show the avatar
-  let img = document.createElement('img');
-  img.src = githubUser.avatar_url;
-  img.className = "promise-avatar-example";
-  document.body.append(img);
-
-  // wait 3 seconds
-  await new Promise((resolve, reject) => setTimeout(resolve, 3000));
-
-  img.remove();
-
-  return githubUser;
-}
-
-showAvatar();
+Imagine you have been tasked to develop a new feature for a product, but there are no clear specifications. How would you proceed?
 
 ### Challenges
 
-[Reject](./Coding-Challenges/reject)  
+[includes](./Coding-Challenges/includes)  
 
-[isPrime](./Coding-Challenges/isPrime)  
+[Highest Scoring Word](./Coding-Challenges/highestScoringWord)  
 
-[isMeetupLanguageDiverse](./Coding-Challenges/isMeetupLanguageDiverse)  
+[Is Meetup Language Diverse](./Coding-Challenges/isMeetupLanguageDiverse)  
 
 [Path](./Coding-Challenges/path)  
-
-[String Task](./Coding-Challenges/stringTask)  
 
 [Flatten Nested Dictionary](./Coding-Challenges/flattenNestedDictionary)  
 

@@ -9,6 +9,9 @@ For example, with the following object
     name: {
         first: 'Winston',
         last: 'McDermott',
+        meta: {
+            changed: false
+        }
     },
     favorites: ['apples', 'cucumbers']
 }
@@ -21,6 +24,14 @@ and the following path
 ```
 
 Your function should return `Winston`.
+
+The path
+
+```
+['name', 'meta', 'changed']
+```
+should return `false`
+
 
 The same object with path
 
