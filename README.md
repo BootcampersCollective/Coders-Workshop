@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 19, 2023
+## Agenda: August 2, 2023
 
 ### Announcements
 
@@ -16,19 +16,18 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Imagine you have been tasked to develop a new feature for a product, but there are no clear specifications. How would you proceed?
+What's a problem or challenge in software development that you've had to overcome recently?
 
 ### Challenges
 
-[includes](./Coding-Challenges/includes)  
+[find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
 
 [Highest Scoring Word](./Coding-Challenges/highestScoringWord)  
 
-[Is Meetup Language Diverse](./Coding-Challenges/isMeetupLanguageDiverse)  
-
 [Path](./Coding-Challenges/path)  
 
-[Flatten Nested Dictionary](./Coding-Challenges/flattenNestedDictionary)  
+[Random Not In l](./Coding-Challenges/randomNotInL)  
+
 
 ### About
 
