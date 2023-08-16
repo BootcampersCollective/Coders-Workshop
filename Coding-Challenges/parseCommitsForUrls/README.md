@@ -34,5 +34,3 @@ Follow-up:
 If multiple issues are found in a message, multiple URLs should be generated from that commit.
 
 E.g. `'many fixes PGD-835 PGD-836'`should itself return two URLs.
-
-

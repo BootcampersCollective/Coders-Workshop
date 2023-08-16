@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: August 2, 2023
+## Agenda: August 16, 2023
 
 ### Announcements
 
@@ -16,17 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-What's a problem or challenge in software development that you've had to overcome recently?
+What's a problem or challenge in software development that you've had recently?
 
 ### Challenges
 
-[find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
-
-[Highest Scoring Word](./Coding-Challenges/highestScoringWord)  
+[concat](./Coding-Challenges/concat)  
 
 [Path](./Coding-Challenges/path)  
 
 [Random Not In l](./Coding-Challenges/randomNotInL)  
+
+[Parse Commits for URLs](./Coding-Challenges/parseCommitsForUrls)  
 
 
 ### About
