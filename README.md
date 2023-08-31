@@ -18,6 +18,16 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ## What happens when you enter a website into your browser's URL bar and hit enter?
 
+browser
+----> looks up server IP address (DNS)
+--> server --->
+does resource exist? --yes-->
+(translate data to) format presentable markup onto a browser (HTML)
+----> back to browser with HTML and styling and JavaScript
+(could crash!)
+
+websocket connection
+
 ### Challenges
 
 [Array.prototype.some](./Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
