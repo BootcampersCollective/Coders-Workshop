@@ -16,17 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-What's a problem or challenge in software development that you've had recently?
+## What happens when you enter a website into your browser's URL bar and hit enter?
 
 ### Challenges
 
-[concat](./Coding-Challenges/concat)  
-
-[Path](./Coding-Challenges/path)  
+[Array.prototype.some](./Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
 
 [Random Not In l](./Coding-Challenges/randomNotInL)  
 
-[Parse Commits for URLs](./Coding-Challenges/parseCommitsForUrls)  
+[Dice Game](./Coding-Challenges/diceGame)  
+
+[Cash Register](./Coding-Challenges/cashRegister)  
 
 
 ### About
