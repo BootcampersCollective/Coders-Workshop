@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: August 30, 2023
+## Agenda: September 13, 2023
 
 ### Announcements
 
@@ -16,25 +16,19 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-## What happens when you enter a website into your browser's URL bar and hit enter?
-
-browser
-----> looks up server IP address (DNS)
---> server --->
-does resource exist? --yes-->
-(translate data to) format presentable markup onto a browser (HTML)
-----> back to browser with HTML and styling and JavaScript
-(could crash!)
-
-websocket connection
+## What's the difference between concurrency and parallelism?
 
 ### Challenges
 
-[Array.prototype.some](./Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
+[Array.prototype.find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
+
+[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
 
 [Random Not In l](./Coding-Challenges/randomNotInL)  
 
 [Dice Game](./Coding-Challenges/diceGame)  
+
+[Friday the 13th](./Coding-Challenges/fridayThe13th)  
 
 [Cash Register](./Coding-Challenges/cashRegister)  
 
