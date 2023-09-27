@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 13, 2023
+## Agenda: September 27, 2023
 
 ### Announcements
 
@@ -16,7 +16,7 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-## What's the difference between concurrency and parallelism?
+## Have you used TypeScript? What are some advantages and disadvantages of TypeScript compared to vanilla JavaScript?
 
 ### Challenges
 
