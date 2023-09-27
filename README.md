@@ -16,7 +16,7 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-## Have you used TypeScript? What are some advantages and disadvantages of TypeScript compared to vanilla JavaScript?
+Have you used TypeScript? What are some advantages and disadvantages of TypeScript compared to vanilla JavaScript?
 
 ### Challenges
 
