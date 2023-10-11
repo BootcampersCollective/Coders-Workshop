@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: September 27, 2023
+## Agenda: October 11, 2023
 
 ### Announcements
 
@@ -20,18 +20,17 @@ Have you used TypeScript? What are some advantages and disadvantages of TypeScri
 
 ### Challenges
 
-[Array.prototype.find](./Coding-Challenges/higherOrderFunctions/Array.Prototype.find)  
+[Array.prototype.some](./Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
+
+[Pretty Names](./Coding-Challenges/prettyNames)  
+
+[Array Union](./Coding-Challenges/arrayUnion)  
+
+[Remove Duplicates](./Coding-Challenges/removeDuplicates)  
 
 [Flatten and Sort](./Coding-Challenges/flattenAndSort)  
 
-[Random Not In l](./Coding-Challenges/randomNotInL)  
-
-[Dice Game](./Coding-Challenges/diceGame)  
-
-[Friday the 13th](./Coding-Challenges/fridayThe13th)  
-
 [Cash Register](./Coding-Challenges/cashRegister)  
-
 
 ### About
 
