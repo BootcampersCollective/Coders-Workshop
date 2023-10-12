@@ -29,7 +29,7 @@ const countFriday13 = (year) => {
 
 const findNextFriday13 = () => {
     let count = 0;
-    const date = new Date();
+    const date = new Date("09/27/2023");
     let isFriday = false;
     let month = date.getMonth()
 	let year = date.getFullYear()
@@ -40,14 +40,16 @@ const findNextFriday13 = () => {
     }
 
    while (!isFriday) {
-       month++
        date.setMonth(month)
        date.setDate(13)
        isFriday = date.getDay() === 5 
        if(month === 11){
          month = 0;
          year++;
+       date.setMonth(month)
+       date.setYear(year)
        } 
+       month++
     }
 
     return date.toDateString()
