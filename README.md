@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 11, 2023
+## Agenda: October 25, 2023
 
 ### Announcements
 
@@ -16,19 +16,19 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Have you used TypeScript? What are some advantages and disadvantages of TypeScript compared to vanilla JavaScript?
+What is the difference between imperative and declarative programming paradigms?
 
 ### Challenges
 
-[Array.prototype.some](./Coding-Challenges/higherOrderFunctions/Array.Prototype.some)  
-
-[Pretty Names](./Coding-Challenges/prettyNames)  
+[filterMap](./Coding-Challenges/filterMap)  
 
 [Array Union](./Coding-Challenges/arrayUnion)  
 
-[Remove Duplicates](./Coding-Challenges/removeDuplicates)  
+[curriedTake](./Coding-Challenges/curriedTake)  
 
-[Flatten and Sort](./Coding-Challenges/flattenAndSort)  
+[chainMultiply](./Coding-Challenges/chainMultiply)  
+
+[hopThroughArray](./Coding-Challenges/hopThroughArray)  
 
 [Cash Register](./Coding-Challenges/cashRegister)  
 
