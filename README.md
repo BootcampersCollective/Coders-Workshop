@@ -20,7 +20,7 @@ If you had to choose, would you prioritize optimizing for code readability or pe
 
 ### Challenges
 
-[keyedBy](./Coding-Challenges/filterMap)  
+[keyedBy](./Coding-Challenges/keyedBy)  
 
 [Array Union](./Coding-Challenges/arrayUnion)  
 
