@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: October 25, 2023
+## Agenda: November 8, 2023
 
 ### Announcements
 
@@ -16,21 +16,19 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-What is the difference between imperative and declarative programming paradigms?
+If you had to choose, would you prioritize optimizing for code readability or performance? Why?
 
 ### Challenges
 
-[filterMap](./Coding-Challenges/filterMap)  
+[keyedBy](./Coding-Challenges/filterMap)  
 
 [Array Union](./Coding-Challenges/arrayUnion)  
 
-[curriedTake](./Coding-Challenges/curriedTake)  
+[Balanced Brackets](./Coding-Challenges/balancedBrackets)  
 
-[chainMultiply](./Coding-Challenges/chainMultiply)  
+[Hop Through an Array](./Coding-Challenges/hopThroughArray)  
 
-[hopThroughArray](./Coding-Challenges/hopThroughArray)  
-
-[Cash Register](./Coding-Challenges/cashRegister)  
+[Hit Counter](./Coding-Challenges/hitCounter)  
 
 ### About
 
