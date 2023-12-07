@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: November 8, 2023
+## Agenda: December 6, 2023
 
 ### Announcements
 
@@ -16,7 +16,10 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-If you had to choose, would you prioritize optimizing for code readability or performance? Why?
+Assume a genie made you an offer:
+
+For the rest of your life, the genie could make your code easier to read or more performant,
+but you couldn't change once you had made a decision. Which would you choose? Why?
 
 ### Challenges
 
