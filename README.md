@@ -18,7 +18,7 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 Assume a genie made you an offer:
 
-For the rest of your life, the genie could make your code easier to read or more performant,
+For the rest of your life, the genie could make your code either easier to read or more performant,
 but you couldn't change once you had made a decision. Which would you choose? Why?
 
 ### Challenges
