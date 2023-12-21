@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: December 6, 2023
+## Agenda: December 20, 2023
 
 ### Announcements
 
@@ -16,22 +16,19 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Assume a genie made you an offer:
-
-For the rest of your life, the genie could make your code either easier to read or more performant,
-but you couldn't change once you had made a decision. Which would you choose? Why?
+Can you explain the difference between arrays and objects in JavaScript to a non-technical person?
 
 ### Challenges
 
-[keyedBy](./Coding-Challenges/keyedBy)  
-
-[Array Union](./Coding-Challenges/arrayUnion)  
+[Partition](./Coding-Challenges/partition)  
 
 [Balanced Brackets](./Coding-Challenges/balancedBrackets)  
 
-[Hop Through an Array](./Coding-Challenges/hopThroughArray)  
+[Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
 
 [Hit Counter](./Coding-Challenges/hitCounter)  
+
+[Valid Sentence](./Coding-Challenges/validSentence)  
 
 ### About
 
