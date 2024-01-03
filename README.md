@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: December 20, 2023
+## Agenda: January 3, 2024
 
 ### Announcements
 
@@ -17,6 +17,7 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 ### Discussion
 
 Can you explain the difference between arrays and objects in JavaScript to a non-technical person?
+(Why would you use one instead of the other?)
 
 ### Challenges
 
