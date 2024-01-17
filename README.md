@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 3, 2024
+## Agenda: January 17, 2024
 
 ### Announcements
 
@@ -16,38 +16,19 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Can you explain the difference between arrays and objects in JavaScript to a non-technical person?
-(Why would you use one instead of the other?)
-
-
-* Ways of storing data
-* Objects are dictionaries, can look up a "word" and has a "definition" (key/val pair)
-* Arrays are ordered lists of things
-* Order
-  Arrays maintain order, objects don't
-
-* When order matters, want to use an array
-* JSON objects with key/val pairs use an object
-* Category (index) topic and more data about key
-* Object tends to be details about a certain thing, objects have properties
-
-* Objects are quicker to find things
-
-const arr = ['a', 'b', 'c']
-
- => { 0: 'a', 1: 'b', 2: 'c'}
+What is a SQL injection attack and how can you prevent it?
 
 ### Challenges
 
-[Partition](./Coding-Challenges/partition)  
-
-[Balanced Brackets](./Coding-Challenges/balancedBrackets)  
-
-[Longest Continuous Vowels](./Coding-Challenges/longestContinuousVowels)  
-
-[Hit Counter](./Coding-Challenges/hitCounter)  
+[Pipe](./Coding-Challenges/pipe)  
 
 [Valid Sentence](./Coding-Challenges/validSentence)  
+
+[Kaprekars Constant](./Coding-Challenges/kaprekarsConstant)  
+
+[JSON.stringify](./Coding-Challenges/jsonStringify)  
+
+[Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
 ### About
 
