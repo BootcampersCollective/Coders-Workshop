@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 17, 2024
+## Agenda: January 31, 2024
 
 ### Announcements
 
@@ -16,7 +16,13 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-What is a SQL injection attack and how can you prevent it?
+
+Consider the context of different types of database systems (e.g., relational, NoSQL).
+Describe scenarios in which you would prioritize optimizing for write operations over read operations, and vice versa.
+
+For each scenario, provide specific examples.
+
+Additionally, explain how you would balance between read and write operations in a mixed-use case.
 
 ### Challenges
 
@@ -24,11 +30,13 @@ What is a SQL injection attack and how can you prevent it?
 
 [Valid Sentence](./Coding-Challenges/validSentence)  
 
+[Once](./Coding-Challenges/once)  
+
 [Kaprekars Constant](./Coding-Challenges/kaprekarsConstant)  
 
-[JSON.stringify](./Coding-Challenges/jsonStringify)  
-
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
+
+[JSON.stringify](./Coding-Challenges/jsonStringify)  
 
 ### About
 

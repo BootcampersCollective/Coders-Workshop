@@ -11,10 +11,9 @@ const piped = pipe(inc, double)
 piped(2) // returns 6
 ```
 
-The function returns 6 because the input, `2` was piped through `inc` (3) then double (6).
+The function returns 6 because the input, `2` was piped through `inc` (3) then `double` (6).
 
 `pipe` should handle edge cases sensibly.
 
-
-Tip: the first passed function to `pipe` can accept any number of arguments;
-the remaining functions must only accept one argument
+Tip: the first function passed to `pipe` can accept any number of arguments;
+the remaining functions must only accept one argument.
