@@ -14,14 +14,23 @@ AND charAt(1).toLowercase() === charAt(1)
 
 */
 
-function sentenceChecker(sentence) {
+const startsWithCapital = (sentence) => {
 	if (sentence.charAt(0).toUpperCase() === sentence.charAt(0) && sentence.charAt(1).toLowerCase() === sentence.charAt(1)) {
-		const last = sentence[sentence.length - 1]
-		if (last === '.' || last === '?' || last === '!') {
-			return sentence
-		}
+		return true;
 	}
 }
 
-console.log(sentenceChecker("I am hungry."))
-console.log(sentenceChecker("I am hungry"))
+const lastIsTerminal = (sentence) => {
+	const last = sentence[sentence.length - 1]
+	if (last === '.' || last === '?' || last === '!') {
+		return true;
+	}
+}
+
+function sentenceChecker(sentence) {
+	if (startsWithCapital(sentence) && lastIsTerminal(sentence)) {
+		return true;
+	}
+}
+
+console.log(lastIsTerminal("I am hungry."))
