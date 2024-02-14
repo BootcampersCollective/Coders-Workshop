@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: January 31, 2024
+## Agenda: Feb 14, 2024
 
 ### Announcements
 
@@ -16,21 +16,15 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-
-Consider the context of different types of database systems (e.g., relational, NoSQL).
-Describe scenarios in which you would prioritize optimizing for write operations over read operations, and vice versa.
-
-For each scenario, provide specific examples.
-
-Additionally, explain how you would balance between read and write operations in a mixed-use case.
+What is an asynchronous queue, and how does it differ from other types of programming?
+Can you describe a scenario where using an asynchronous queue would be more advantageous than processing requests directly?
+What are some challenges or pitfalls of using asynchronous queues in a system architecture?
 
 ### Challenges
 
+[toSpliced](./Coding-Challenges/toSpliced)  
+
 [Pipe](./Coding-Challenges/pipe)  
-
-[Valid Sentence](./Coding-Challenges/validSentence)  
-
-[Once](./Coding-Challenges/once)  
 
 [Kaprekars Constant](./Coding-Challenges/kaprekarsConstant)  
 
