@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Feb 14, 2024
+## Agenda: Feb 28, 2024
 
 ### Announcements
 
@@ -16,17 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-What is an asynchronous queue, and how does it differ from other types of programming?
-Can you describe a scenario where using an asynchronous queue would be more advantageous than processing requests directly?
-What are some challenges or pitfalls of using asynchronous queues in a system architecture?
+Can you explain what a closure is in JavaScript and provide a use case for one?
 
 ### Challenges
 
-[toSpliced](./Coding-Challenges/toSpliced)  
+[reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
+
+[Consecutive Alphabetical Letters](./Coding-Challenges/consecutiveAlphabeticalLetters/)  
 
 [Pipe](./Coding-Challenges/pipe)  
 
-[Kaprekars Constant](./Coding-Challenges/kaprekarsConstant)  
+[Longest Consecutive Sequence](./Coding-Challenges/longestConsecutiveSequence/)  
 
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
