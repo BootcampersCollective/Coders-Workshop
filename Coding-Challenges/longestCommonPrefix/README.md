@@ -6,4 +6,6 @@ If there is no common prefix, return an empty string `""`.
 
 For example, input `["flower","flow","flight"]` should return `"fl"` since "fl" is the longest common prefix among all the strings.
 
+Input `["deer","drought","drink"]` should return `"d"`.
+
 Input `["dog","racecar","car"]` should return `""` since there are no common prefixes among the strings.

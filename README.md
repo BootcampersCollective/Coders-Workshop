@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: Feb 28, 2024
+## Agenda: March 13, 2024
 
 ### Announcements
 
@@ -16,17 +16,20 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Can you explain what a closure is in JavaScript and provide a use case for one?
+You are visiting a React meetup at a local coffee shop. The barista asks what React is and says
+she has no technical knowledge.
+
+How would you explain it to her?
 
 ### Challenges
 
 [reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
 
-[Consecutive Alphabetical Letters](./Coding-Challenges/consecutiveAlphabeticalLetters/)  
-
 [Pipe](./Coding-Challenges/pipe)  
 
-[Longest Consecutive Sequence](./Coding-Challenges/longestConsecutiveSequence/)  
+[URL Shortener](./Coding-Challenges/urlShortener/)  
+
+[Longest Common Prefix](./Coding-Challenges/longestCommonPrefix/)  
 
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
