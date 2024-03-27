@@ -8,8 +8,8 @@ a list of fully-hydrated URLs. Issue numbers are guaranteed to be separated by a
 and strictly follow these conventions:
 
 * They begin with three capital letters
-* They end with three numbers
-* The numbers and letters are separated with dashes.
+* They end with at least one number
+* The numbers and letters are separated with one dash.
 
 Example issue numbers are: `ABC-123`, `PGR-212`, `ADM-388`
 

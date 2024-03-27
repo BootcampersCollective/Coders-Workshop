@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 13, 2024
+## Agenda: March 27, 2024
 
 ### Announcements
 
@@ -16,18 +16,23 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-You are visiting a React meetup at a local coffee shop. The barista asks what React is and says
-she has no technical knowledge.
 
-How would you explain it to her?
+What is the result of executing the following JS?
+
+```js
+    const numbers = [1, 2, 3, 4];
+    const doubled = numbers.filter((number) => {
+        number > 2; 
+    });
+
+    console.log(doubled);
+```
 
 ### Challenges
 
-[reduce](./Coding-Challenges/higherOrderFunctions/Array.prototype.reduce)  
-
 [Pipe](./Coding-Challenges/pipe)  
 
-[URL Shortener](./Coding-Challenges/urlShortener/)  
+[Parse Commits](./Coding-Challenges/parseCommitsForUrls)  
 
 [Longest Common Prefix](./Coding-Challenges/longestCommonPrefix/)  
 
