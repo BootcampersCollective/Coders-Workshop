@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: March 27, 2024
+## Agenda: April 10, 2024
 
 ### Announcements
 
@@ -16,27 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-
-What is the result of executing the following JS?
-
-```js
-    const numbers = [1, 2, 3, 4];
-    const doubled = numbers.filter((number) => {
-        number > 2; 
-    });
-
-    console.log(doubled);
-```
+Can you explain DNS to someone with a non-technical background?
 
 ### Challenges
 
-[Pipe](./Coding-Challenges/pipe)  
-
-[Parse Commits](./Coding-Challenges/parseCommitsForUrls)  
+[Trim](./Coding-Challenges/String.prototype.trim)  
 
 [Longest Common Prefix](./Coding-Challenges/longestCommonPrefix/)  
 
-[Elimination Tournament](./Coding-Challenges/eliminationTournament)  
+[Elimination Tournament](./Coding-Challenges/reverseOrRotate)  
+
+[Reverse or Rotate](./Coding-Challenges/jsonStringify)  
 
 [JSON.stringify](./Coding-Challenges/jsonStringify)  
 

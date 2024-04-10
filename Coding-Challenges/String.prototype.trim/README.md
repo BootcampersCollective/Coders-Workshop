@@ -12,3 +12,4 @@ For example
 `trim('there   ')` should return `'there'`
 `trim('hi  there')` should return `'hi  there'` (no change since there was no whitespace at either end)
 
+Bonus: Handle objects and arrays, recursively trimming any strings within.
