@@ -50,7 +50,6 @@ function parseCommits(commitsArray) {
         if (!issue) {
             return null;
         }
-        console.log(issue)
         return baseURL + issue[0];
     })
     return changed.filter(v => !!v);

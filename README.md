@@ -24,7 +24,7 @@ Can you explain DNS to someone with a non-technical background?
 
 [Longest Common Prefix](./Coding-Challenges/longestCommonPrefix/)  
 
-[Elimination Tournament](./Coding-Challenges/reverseOrRotate)  
+[Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
 [Reverse or Rotate](./Coding-Challenges/jsonStringify)  
 
