@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 10, 2024
+## Agenda: April 24, 2024
 
 ### Announcements
 
@@ -20,13 +20,15 @@ Can you explain DNS to someone with a non-technical background?
 
 ### Challenges
 
-[Trim](./Coding-Challenges/String.prototype.trim)  
+[Batch](./Coding-Challenges/batch)  
 
-[Longest Common Prefix](./Coding-Challenges/longestCommonPrefix/)  
+[Capitalize a Title](./Coding-Challenges/capitalizeATitle)  
+
+[Suffix](./Coding-Challenges/suffix)  
+
+[Reverse or Rotate](./Coding-Challenges/reverseOrRotate)  
 
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
-
-[Reverse or Rotate](./Coding-Challenges/jsonStringify)  
 
 [JSON.stringify](./Coding-Challenges/jsonStringify)  
 
