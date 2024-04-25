@@ -16,8 +16,6 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Can you explain DNS to someone with a non-technical background?
-
 ### Challenges
 
 [Batch](./Coding-Challenges/batch)  
