@@ -2,13 +2,17 @@
 
 Write a function that returns a function that transforms its input by adding a particular suffix at the end.
 
-Examples
-addLy = addSuffix("ly")
+Examples;
 
-addLy("hopeless") ➞ "hopelessly"
-addLy("total") ➞ "totally"
+```js
+const addLy = addSuffix("ly")
 
-addLess = addSuffix("less")
+addLy("hopeless") // "hopelessly"
+addLy("total") // "totally"
 
-addLess("fear") ➞ "fearless"
-addLess("ruth") ➞ "ruthless"
+const addLess = addSuffix("less")
+
+addLess("fear") // "fearless"
+addLess("ruth") // "ruthless"
+```
+

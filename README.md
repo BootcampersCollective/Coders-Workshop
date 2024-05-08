@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: April 24, 2024
+## Agenda: May 8, 2024
 
 ### Announcements
 
@@ -16,15 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
+Describe how you would approach debugging a software application. What tools and processes would you use?
+
 ### Challenges
 
-[Batch](./Coding-Challenges/batch)  
-
-[Capitalize a Title](./Coding-Challenges/capitalizeATitle)  
+[Reject](./Coding-Challenges/reject)  
 
 [Suffix](./Coding-Challenges/suffix)  
 
 [Reverse or Rotate](./Coding-Challenges/reverseOrRotate)  
+
+[assocIn](./Coding-Challenges/assocIn)  
 
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
