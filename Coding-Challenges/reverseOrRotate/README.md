@@ -13,7 +13,7 @@ If
 `sz` is greater (>) than the length of str it is impossible to take a chunk of size sz hence return `""`.
 
 Examples:
-revrot("123456987654", 6) --> "234561876549"
+revrot("123456 987654", 6) --> "234561 876549"
 revrot("123456987653", 6) --> "234561356789"
 revrot("66443875", 4) --> "44668753"
 revrot("66443875", 8) --> "64438756"
