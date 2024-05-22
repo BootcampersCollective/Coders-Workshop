@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 8, 2024
+## Agenda: May 22, 2024
 
 ### Announcements
 
@@ -16,15 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Describe how you would approach debugging a software application. What tools and processes would you use?
+Can you discuss the tradeoffs involved in picking a relational vs non-relational database?
 
 ### Challenges
 
-[Reject](./Coding-Challenges/reject)  
+[reduceWhile](./Coding-Challenges/reduceWhile)  
 
-[Suffix](./Coding-Challenges/suffix)  
+[hexToRGB](./Coding-Challenges/hexToRGB)  
 
-[Reverse or Rotate](./Coding-Challenges/reverseOrRotate)  
+[formatPhoneNumber](./Coding-Challenges/formatPhoneNumber)  
+
+[poll](./Coding-Challenges/poll)  
 
 [assocIn](./Coding-Challenges/assocIn)  
 
