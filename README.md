@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: May 22, 2024
+## Agenda: June 5, 2024
 
 ### Announcements
 
@@ -16,19 +16,22 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-Can you discuss the tradeoffs involved in picking a relational vs non-relational database?
+How would you create a URL-shortener service? Consider what the product requirements might be,
+and how, at a high level, you would implement them.
 
 ### Challenges
 
-[reduceWhile](./Coding-Challenges/reduceWhile)  
-
-[hexToRGB](./Coding-Challenges/hexToRGB)  
+[every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
 
 [formatPhoneNumber](./Coding-Challenges/formatPhoneNumber)  
 
-[poll](./Coding-Challenges/poll)  
+[clockHandAngle](./Coding-Challenges/clockHandAngle)  
 
 [assocIn](./Coding-Challenges/assocIn)  
+
+[extractProductIdFromURL](./Coding-Challenges/extractProductIDFromUrl)  
+
+[poll](./Coding-Challenges/poll)  
 
 [Elimination Tournament](./Coding-Challenges/eliminationTournament)  
 
