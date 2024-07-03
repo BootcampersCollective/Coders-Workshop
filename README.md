@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: June 5, 2024
+## Agenda: July 3, 2024
 
 ### Announcements
 
@@ -16,16 +16,17 @@ Join our Slack group! Interact with other developers, and engage on a variety of
 
 ### Discussion
 
-How would you create a URL-shortener service? Consider what the product requirements might be,
-and how, at a high level, you would implement them.
+How do you use AI in your coding (if you do...)?
 
 ### Challenges
 
-[every](./Coding-Challenges/higherOrderFunctions/Array.Prototype.every)  
+[keyedBy](./Coding-Challenges/keyedBy)  
 
 [formatPhoneNumber](./Coding-Challenges/formatPhoneNumber)  
 
 [clockHandAngle](./Coding-Challenges/clockHandAngle)  
+
+[URL Shortener](./Coding-Challenges/urlShortener)  
 
 [assocIn](./Coding-Challenges/assocIn)  
 

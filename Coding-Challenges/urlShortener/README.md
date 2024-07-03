@@ -6,10 +6,10 @@ Implement a URL shortener with the following methods:
 
 `restore(short)`, which expands the shortened string into the original url. If no such shortened string exists, return null.
 
-Hint: What if we enter the same URL twice?
+Follow Up: What if we enter the same URL twice?
 
 
-You may use the following hashing function:
+You may use the following hashing function if you wish:
 
 ```js
 function md5(inputString) {

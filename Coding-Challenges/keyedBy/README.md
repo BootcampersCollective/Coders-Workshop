@@ -20,7 +20,7 @@ For example, given the list `l`
 }
 ```
 
-In-effect, keyedBy creates an index on a particular key in a list.
+In effect, keyedBy creates an index on a particular key in a list.
 
 If the `key` is not present in an object, do not include it in the result.
 
