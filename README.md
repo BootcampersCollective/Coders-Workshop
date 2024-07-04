@@ -2,29 +2,25 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 
-## Agenda: July 3, 2024
+## Agenda: July 17, 2024
 
-### Announcements
+### Announcement
 
-Check out [VS Code Live Share](https://marketplace.visualstudio.com/items?itemname=ms-vsliveshare.vsliveshare) if you're planning on attending our online meetup. It's a great way to collaborate remotely, and we like to make extensive use of it while meeting.
+After over five and a half years of Coders' Workshop, we will be retiring our meetup on July 17, 2024.
 
-In 2021 we started organizing our "mob solutions" -- the problems we work on during the meetup -- into a separate folder that identifies which date it was done. So, for example, the solutions for March 17 2021 can be found at https://github.com/BootcampersCollective/Coders-Workshop/tree/main/Contributors/TheMob/2021/03march/17march
+Thank you to each of the hundreds of coders who have joined one of our meetups over the years,
+from the whiteboards in Denver to the mob programming sessions online.
 
-Join our Slack group! Interact with other developers, and engage on a variety of coding-related topics. For those in the Denver, CO area, get updates about events for developers in the area. [Join Us!](http://slack.bootcamperscollective.com) - we are the `#workshop` channel, but check out any other channels that might interest you.
+We're grateful for all of you. This meetup thrived because of you. 
 
-- Have a topic you're interested in? Want to cover something in a group setting? Let us know!
+If you'd like to stay in touch in a different way, [Flatiron School](https://flatironschool.com/) has launched [Bletchley](http://bletchley.org/),
+a community for tech professionals and learners. Come join us!
 
-### Discussion
+Until next time, be kind, be well, and keep coding.
 
-How do you use AI in your coding (if you do...)?
+-Bryan Yunis & Coders' Workshop
 
 ### Challenges
-
-[keyedBy](./Coding-Challenges/keyedBy)  
-
-[formatPhoneNumber](./Coding-Challenges/formatPhoneNumber)  
-
-[clockHandAngle](./Coding-Challenges/clockHandAngle)  
 
 [URL Shortener](./Coding-Challenges/urlShortener)  
 
