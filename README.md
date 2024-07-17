@@ -20,6 +20,12 @@ Until next time, be kind, be well, and keep coding.
 
 -Bryan Yunis & Coders' Workshop
 
+### Discussion
+
+What are some of the hardest technical discussion questions you've gotten in an interview?
+
+How would you describe AWS Lambda (or a serverless function generally) to someone with a non-technical background?
+
 ### Challenges
 
 [URL Shortener](./Coding-Challenges/urlShortener)  
